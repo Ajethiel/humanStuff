@@ -593,3 +593,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.29-17.37.14:034][449]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Appleheads63DDDC394F0D05CF8151548FC1D4F51D.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset'
 [2019.01.29-17.37.14:040][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
 [2019.01.29-17.37.14:046][449]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile07559531499044B76180BA9AF20F6338.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.39.34:616][506]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Timer.Timer
+[2019.01.29-17.39.34:992][506]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.29-17.39.35:636][506]LogSlate: Took 0.001221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.29-17.39.35:704][507]LogSlate: Took 0.001100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.29-17.39.42:248][899]LogSlate: Window 'Timer' being destroyed
+[2019.01.29-17.39.42:252][899]LogSlate: Window 'Timer' being destroyed
+[2019.01.29-17.39.45:039][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Projectile.Projectile
+[2019.01.29-17.39.45:328][ 63]LogRenderer: Reallocating scene render targets to support 1012x540 Format 26 NumSamples 1 (Frame:1).
+[2019.01.29-17.40.18:210][ 30]BlueprintLog: New page: Compile Projectile
+[2019.01.29-17.40.29:310][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.40.48:818][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.40.48:951][855]BlueprintLog: New page: Compile Projectile
+[2019.01.29-17.40.56:598][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
+[2019.01.29-17.40.56:627][302]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile4FA8DD1E4BD40BB01233408BA7FB1EB2.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.41.05:114][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
+[2019.01.29-17.41.05:132][810]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile505DBD414AD67E02B9ECD5AE87870CAC.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.41.19:420][665]BlueprintLog: New page: Compile Projectile
+[2019.01.29-17.41.29:907][104]LogSlate: Window 'Save Content' being destroyed
+[2019.01.29-17.41.29:936][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
+[2019.01.29-17.41.29:960][104]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile03B10B32438F5DF352D73E8491BC58AE.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.41.47:799][174]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Appleheads.Appleheads
+[2019.01.29-17.42.02:711][ 42]BlueprintLog: New page: Compile Appleheads
+[2019.01.29-17.42.03:402][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Appleheads" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset" SILENT=true
+[2019.01.29-17.42.03:421][ 74]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Appleheads55A853E14FB8E22DFC1E2E88932C7072.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset'
+[2019.01.29-17.42.38:922][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.29-17.42.48:692][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.42.54:132][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.43.13:002][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.43.15:526][389]BlueprintLog: New page: Compile Appleheads
+[2019.01.29-17.43.16:163][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Appleheads" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset" SILENT=true
+[2019.01.29-17.43.16:192][415]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/AppleheadsE4854D6B4B2E01C8F670E481ED1CA2A6.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset'
+[2019.01.29-17.45.49:079][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.45.49:207][672]LogRenderer: Reallocating scene render targets to support 1140x676 Format 26 NumSamples 1 (Frame:5109).
+[2019.01.29-17.46.04:483][557]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scannables.Scannables
+[2019.01.29-17.46.12:076][995]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.01.29-17.47.28:667][535]BlueprintLog: New page: Compile Appleheads
+[2019.01.29-17.47.47:518][654]BlueprintLog: New page: Compile Appleheads
+[2019.01.29-17.47.48:469][701]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Appleheads" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset" SILENT=true
+[2019.01.29-17.47.48:500][701]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Appleheads16CAF3FF4DC6CFB3A7AA5BB1AA28A63E.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset'
+[2019.01.29-17.48.05:214][703]BlueprintLog: New page: Compile Appleheads
+[2019.01.29-17.48.05:846][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Appleheads" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset" SILENT=true
+[2019.01.29-17.48.05:872][731]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Appleheads21796D8A40A6951BFFD719B578C8C655.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset'
+[2019.01.29-17.48.34:344][436]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.29-17.49.44:521][638]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.027
+[2019.01.29-17.49.44:532][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectile] ([1] browsable assets)...
+[2019.01.29-17.49.44:541][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile.Projectile]
+[2019.01.29-17.49.44:541][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile]
+[2019.01.29-17.49.44:570][638]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile_Auto1D89BEC4E422DA22282982CA57B137045.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/Projectile_Auto1.uasset'
+[2019.01.29-17.49.44:571][638]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Appleheads] ([1] browsable assets)...
+[2019.01.29-17.49.44:571][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Appleheads]
+[2019.01.29-17.49.44:590][638]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Appleheads_Auto11729E5E04CF87B8CE36D4FB35A2CC045.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/Appleheads_Auto1.uasset'
+[2019.01.29-17.49.44:591][638]LogFileHelpers: Auto-saving content packages took 0.069
+[2019.01.29-17.50.16:213][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
+[2019.01.29-17.50.16:237][521]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ProjectileC483D1CE4F17A127F659A9B60A665DC4.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.50.17:754][612]BlueprintLog: New page: Compile Projectile
+[2019.01.29-17.50.19:659][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
+[2019.01.29-17.50.19:684][717]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile4DC13B934F007B88BA88A19362668017.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.50.45:349][253]BlueprintLog: New page: Compile Projectile
+[2019.01.29-17.50.58:143][  6]BlueprintLog: New page: Compile Projectile
+[2019.01.29-17.51.11:916][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Projectile" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset" SILENT=true
+[2019.01.29-17.51.11:943][823]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Projectile8114C9D64EBBE0D6235B5B9670BDD97F.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Projectile.uasset'
+[2019.01.29-17.52.02:497][856]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.29-17.52.21:227][977]LogSlate: Window 'Projectile' being destroyed
+[2019.01.29-17.52.21:234][977]LogSlate: Window 'Projectile' being destroyed
+[2019.01.29-17.52.21:234][977]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.29-17.52.26:831][244]LogSlate: Window 'Save Content' being destroyed
+[2019.01.29-17.52.26:849][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Appleheads" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset" SILENT=true
+[2019.01.29-17.52.26:874][244]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Appleheads58F328254BD9E593AE3E4BA3F6C35E12.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Appleheads.uasset'
+[2019.01.29-17.52.31:545][432]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.29-17.52.38:217][770]LogSlate: Window 'Save Content' being destroyed
+[2019.01.29-17.52.38:237][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gun" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset" SILENT=true
+[2019.01.29-17.52.38:243][770]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/gunAF6A637B4F131CD14C047390B6889EE8.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.TargetPoint_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.TargetPoint_Blueprint_C' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.TargetPoint_Blueprint:Detect.K2Node_FunctionEntry_0' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.SKEL_TargetPoint_Blueprint_C:Scannables' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.SKEL_TargetPoint_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.SKEL_TargetPoint_Blueprint_C' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.TargetPoint_Blueprint_C:Scannables' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:977][717]LogMetaData: Removing '/Game/Blueprints/TargetPoint_Blueprint.TargetPoint_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/TargetPoint_Blueprint.PackageMetaData'
+[2019.01.29-17.53.18:996][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TargetPoint_Blueprint" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/TargetPoint_Blueprint.uasset" SILENT=true
+[2019.01.29-17.53.19:004][717]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/TargetPoint_BlueprintA5EFEA9E45439A961FC14BA361F77C23.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/TargetPoint_Blueprint.uasset'
+[2019.01.29-17.53.20:471][794]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Scanner.Scanner
+[2019.01.29-17.53.22:591][908]LogSlate: Window 'Scanner' being destroyed
+[2019.01.29-17.53.22:595][908]LogSlate: Window 'Scanner' being destroyed
+[2019.01.29-17.53.26:733][ 43]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.29-17.53.56:758][419]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Gretchen/Desktop/Assets/tempGun.fbx)
+[2019.01.29-17.53.56:797][419]LogFbx: Loading FBX Scene from ../../../../../../Users/Gretchen/Desktop/Assets/tempGun.fbx
+[2019.01.29-17.53.56:816][419]LogFbx: FBX Scene Loaded Succesfully
+[2019.01.29-17.54.10:640][419]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.01.29-17.54.10:660][419]LogFbx: =================================================
+[2019.01.29-17.54.10:660][419]LogFbx: Dumping Node START [pCube1] 
+[2019.01.29-17.54.10:660][419]LogFbx: 	Total Deformer Count -552118504.
+[2019.01.29-17.54.10:661][419]LogFbx: 	Attribute () Type (4).
+[2019.01.29-17.54.10:661][419]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2019.01.29-17.54.10:661][419]LogFbx: Dumping Node END [pCube1]
+[2019.01.29-17.54.10:661][419]LogFbx: =================================================
+[2019.01.29-17.54.10:661][419]LogFbx: Dumping Node START [pCube1] 
+[2019.01.29-17.54.10:661][419]LogFbx: 	Total Deformer Count -552116488.
+[2019.01.29-17.54.10:661][419]LogFbx: 	Attribute () Type (4).
+[2019.01.29-17.54.10:661][419]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2019.01.29-17.54.10:661][419]LogFbx: Dumping Node END [pCube1]
+[2019.01.29-17.54.10:785][419]LogMaterial: Warning: Material /Game/Assets/lambert1.lambert1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.01.29-17.54.10:788][419]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.29-17.54.10:841][419]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.01.29-17.54.10:864][419]LogFbx: Triangulating skeletal mesh pCube1
+[2019.01.29-17.54.10:871][419]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2019.01.29-17.54.10:875][419]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.29-17.54.10:875][419]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.29-17.54.10:875][419]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.29-17.54.10:875][419]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.29-17.54.10:875][419]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.29-17.54.10:875][419]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.29-17.54.10:878][419]LogSkeletalMesh: Section 0: 34 vertices, 1 active bones
+[2019.01.29-17.54.10:879][419]LogSkeletalMesh: Section 0: Material=0, 52 triangles
+[2019.01.29-17.54.10:881][419]LogSkeletalMesh: Building Skeletal Mesh tempGun...
+[2019.01.29-17.54.10:882][419]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/tempGun.tempGun
+[2019.01.29-17.54.10:883][419]LogLinker: Can't find file '/Game/Assets/tempGun_Skeleton'
+[2019.01.29-17.54.10:883][419]LogLinker: Can't find file '/Game/Assets/tempGun_Skeleton'
+[2019.01.29-17.54.10:884][419]LogLinker: Can't find file '/Game/Assets/tempGun_PhysicsAsset'
+[2019.01.29-17.54.10:885][419]LogLinker: Can't find file '/Game/Assets/tempGun_PhysicsAsset'
+[2019.01.29-17.54.10:890][419]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.01.29-17.54.10:899][419]LogSkeletalMesh: Building Skeletal Mesh tempGun...
+[2019.01.29-17.54.10:899][419]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/tempGun.tempGun
+[2019.01.29-17.54.10:903][419]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.01.29-17.54.10:903][419]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.01.29-17.54.10:910][419]LogSkeletalMesh: Building Skeletal Mesh tempGun...
+[2019.01.29-17.54.10:911][419]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/tempGun.tempGun
+[2019.01.29-17.54.12:984][524]LogSlate: Window 'Message Log' being destroyed
+[2019.01.29-17.54.12:987][524]LogSlate: Window 'Message Log' being destroyed
+[2019.01.29-17.54.23:014][124]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/gun.gun
+[2019.01.29-17.54.37:540][974]BlueprintLog: New page: Compile gun
+[2019.01.29-17.54.55:691][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.29-17.54.55:808][ 61]BlueprintLog: New page: Compile gun
+[2019.01.29-17.55.13:783][121]BlueprintLog: New page: Compile gun
+[2019.01.29-17.55.15:343][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gun" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset" SILENT=true
+[2019.01.29-17.55.15:372][204]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/gun9D0A5682460BAB11A25620A54BAABCF7.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset'
+[2019.01.29-17.55.54:627][512]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.29-17.55.59:307][791]BlueprintLog: New page: Compile gun
+[2019.01.29-17.56.01:760][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gun" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset" SILENT=true
+[2019.01.29-17.56.01:784][929]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/gun03CE664B47ADA342FD8D8A816D501E13.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset'
+[2019.01.29-17.56.11:855][528]BlueprintLog: New page: Compile gun
+[2019.01.29-17.56.12:458][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gun" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset" SILENT=true
+[2019.01.29-17.56.12:483][555]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/gun9242F940467F44A66BC4E2872E610900.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset'
+[2019.01.29-17.58.04:922][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gun" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset" SILENT=true
+[2019.01.29-17.58.04:946][300]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/gun8A11A3394E7EFBA07030EA95F187317A.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/gun.uasset'
+[2019.01.29-17.58.10:648][642]LogSlate: Window 'gun' being destroyed
+[2019.01.29-17.58.10:652][642]LogSlate: Window 'gun' being destroyed
+[2019.01.29-17.58.48:489][894]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2019.01.29-18.00.16:486][118]LogSlate: Took 0.018387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.29-18.02.01:594][371]BlueprintLog: New page: Compile MainMenu
+[2019.01.29-18.02.31:807][124]BlueprintLog: New page: Compile MainMenu
+[2019.01.29-18.02.59:345][627]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.01.29-18.02.59:433][629]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MyProject3
+[2019.01.29-18.02.59:434][629]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.29-18.02.59:434][629]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.01.29-18.02.59:434][629]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.01.29-18.02.59:434][629]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.01.29-18.02.59:447][630]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Gretchen\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.01.29-18.03.42:944][122]BlueprintLog: New page: Compile MainMenu
+[2019.01.29-18.03.43:779][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/MainMenu.uasset" SILENT=true
+[2019.01.29-18.03.43:790][169]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/MainMenu6BA40C924845B14A09A81F89B481153A.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/MainMenu.uasset'
+[2019.01.29-18.04.12:554][874]BlueprintLog: New page: Compile MainMenu
+[2019.01.29-18.04.17:997][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/MainMenu.uasset" SILENT=true
+[2019.01.29-18.04.18:023][197]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/MainMenu0C0ED400445C6D0AE429F0A7C7ED59F6.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/MainMenu.uasset'
+[2019.01.29-18.04.35:171][218]LogSlate: Window 'MainMenu' being destroyed
+[2019.01.29-18.04.35:176][218]LogSlate: Window 'MainMenu' being destroyed
+[2019.01.29-18.04.36:839][316]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.29-18.04.36:843][316]LogSlate: Window 'Project Settings' being destroyed
+[2019.01.29-18.04.41:998][624]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMneu.PauseMneu
+[2019.01.29-18.05.19:025][782]BlueprintLog: New page: Compile PauseMneu
+[2019.01.29-18.05.20:288][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMneu" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/PauseMneu.uasset" SILENT=true
+[2019.01.29-18.05.20:295][849]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/PauseMneuEFBAABB54AB203DE49470F83C2F79C8B.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/PauseMneu.uasset'
+[2019.01.29-18.05.44:085][265]BlueprintLog: New page: Compile PauseMneu
+[2019.01.29-18.06.26:035][748]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.29-18.07.03:579][986]BlueprintLog: New page: Compile PauseMneu
+[2019.01.29-18.07.04:284][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMneu" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/PauseMneu.uasset" SILENT=true
+[2019.01.29-18.07.04:310][ 25]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/PauseMneu4A5758E447E733F888754C83102622DD.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/PauseMneu.uasset'
+[2019.01.29-18.07.27:650][409]BlueprintLog: New page: Compile PauseMneu
+[2019.01.29-18.08.12:956][ 88]BlueprintLog: New page: Compile PauseMneu
+[2019.01.29-18.08.16:294][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMneu" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/PauseMneu.uasset" SILENT=true
+[2019.01.29-18.08.16:316][285]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/PauseMneuABACAA8348C97AB54C7FF2BF47F6AE69.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/PauseMneu.uasset'
+[2019.01.29-18.08.18:535][418]LogSlate: Window 'PauseMneu' being destroyed
+[2019.01.29-18.08.18:540][418]LogSlate: Window 'PauseMneu' being destroyed
