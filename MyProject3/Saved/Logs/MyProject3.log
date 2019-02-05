@@ -4515,3 +4515,853 @@ Right
 [2019.02.05-04.21.55:946][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/se_barcodeBeep52C52D0A496E5BA8166A4DB60391F20A.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/se_barcodeBeep.uasset'
 [2019.02.05-04.21.56:108][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sign_textureEditorIsolateSeleE5FE1362423D95BA15F2FA80AD00BC5F.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20.uasset'
 [2019.02.05-04.21.56:674][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.22.44:927][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.22.51:169][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.23.18:452][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.23.18:628][186]LogActorFactory: Actor Factory created hs_crab
+[2019.02.05-04.23.19:406][224]LogActorFactory: Actor Factory created hs_crab
+[2019.02.05-04.23.22:167][369]Cmd: DELETE
+[2019.02.05-04.23.22:167][369]Cmd: ACTOR DELETE
+[2019.02.05-04.23.22:178][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.23.22:236][369]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.02.05-04.23.22:686][395]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables4)
+[2019.02.05-04.23.33:418][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.23.46:174][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.24.41:635][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.24.45:084][233]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-04.24.45:102][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.24.45:157][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.24.45:199][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.24.46:156][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.24.49:391][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.24.49:410][266]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_soda.obj)
+[2019.02.05-04.24.49:427][266]LogFbx: Loading FBX Scene from C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_soda.obj
+[2019.02.05-04.24.49:451][266]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.05-04.24.50:637][266]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.05-04.24.50:715][266]LogFbx: Warning: Triangulating static mesh hs_soda:pCylinder1
+[2019.02.05-04.24.50:914][266]LogStaticMesh: Building static mesh hs_soda...
+[2019.02.05-04.24.50:941][266]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Objects/hs_soda.hs_soda
+[2019.02.05-04.24.50:962][266]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.02.05-04.24.53:222][358]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.24.53:235][358]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.24.55:845][509]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables4)
+[2019.02.05-04.24.57:180][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.25.01:626][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.25.02:313][841]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables4)
+[2019.02.05-04.25.09:297][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.25.15:775][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.26.01:653][830]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-04.26.05:299][861]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_sack.obj)
+[2019.02.05-04.26.05:315][861]LogFbx: Loading FBX Scene from C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_sack.obj
+[2019.02.05-04.26.05:325][861]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.05-04.26.06:718][861]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.05-04.26.06:789][861]LogFbx: Warning: Triangulating static mesh hs_sack:pCube1
+[2019.02.05-04.26.06:866][861]LogStaticMesh: Building static mesh hs_sack...
+[2019.02.05-04.26.06:877][861]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Objects/hs_sack.hs_sack
+[2019.02.05-04.26.06:895][861]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.02.05-04.26.11:082][ 27]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.26.11:093][ 27]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.26.14:854][238]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables)
+[2019.02.05-04.26.17:219][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.26.26:051][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.26.32:504][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.26.34:600][189]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-04.26.34:619][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.26.34:671][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.26.34:716][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.27.28:349][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.27.38:295][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.27.38:314][698]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_pack.obj)
+[2019.02.05-04.27.38:335][698]LogFbx: Loading FBX Scene from C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_pack.obj
+[2019.02.05-04.27.38:343][698]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.05-04.27.39:638][698]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.05-04.27.39:696][698]LogFbx: Warning: Triangulating static mesh hs_pack:pCylinder5
+[2019.02.05-04.27.39:730][698]LogStaticMesh: Building static mesh hs_pack...
+[2019.02.05-04.27.39:740][698]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Objects/hs_pack.hs_pack
+[2019.02.05-04.27.39:768][698]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.02.05-04.27.41:122][759]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.27.41:132][759]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.27.42:195][819]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables3)
+[2019.02.05-04.27.43:350][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.27.54:166][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.28.43:521][758]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-04.28.48:596][848]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_bomb.obj)
+[2019.02.05-04.28.48:614][848]LogFbx: Loading FBX Scene from C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_bomb.obj
+[2019.02.05-04.28.48:640][848]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.05-04.28.49:846][848]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.05-04.28.49:892][848]LogFbx: Warning: Triangulating static mesh alienBomb:pSphere2
+[2019.02.05-04.28.50:075][848]LogStaticMesh: Building static mesh hs_bomb...
+[2019.02.05-04.28.50:098][848]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Objects/hs_bomb.hs_bomb
+[2019.02.05-04.28.50:120][848]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.02.05-04.28.51:726][921]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.28.51:738][921]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.28.53:106][  0]LogEditorViewport: Clicking on Actor (LMB): Scannables_C (Scannables2)
+[2019.02.05-04.28.54:935][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.28.58:186][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.29.19:814][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.29.20:754][937]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.29.21:355][937]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Minimal_Default8771C45241F7FF1C1AAFE3AE0D95D4DD.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-04.29.21:405][937]LogFileHelpers: Saving map 'Minimal_Default' took 0.628
+[2019.02.05-04.29.21:438][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Objects/hs_soda" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_soda.uasset" SILENT=true
+[2019.02.05-04.29.21:462][937]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sodaFD7FEC7140DA8BC96824B4864147C4D0.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_soda.uasset'
+[2019.02.05-04.29.21:499][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Objects/hs_sack" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sack.uasset" SILENT=true
+[2019.02.05-04.29.21:527][937]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sackC0F991AC413034155C658B95C89B7792.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sack.uasset'
+[2019.02.05-04.29.21:565][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Objects/hs_pack" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_pack.uasset" SILENT=true
+[2019.02.05-04.29.21:592][937]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_packD7C5E3B1465EB510FACE618ED82E6E7D.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_pack.uasset'
+[2019.02.05-04.29.21:633][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Objects/hs_bomb" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_bomb.uasset" SILENT=true
+[2019.02.05-04.29.21:662][937]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_bomb8731533E42160EE5C6AFFFAC4B93937F.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_bomb.uasset'
+[2019.02.05-04.29.43:270][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.29.44:266][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.29.44:266][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-04.29.44:266][288]PIE: New page: PIE session: Minimal_Default (Feb 4, 2019, 6:29:44 PM)
+[2019.02.05-04.29.44:267][288]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-04.29.44:279][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012973s)
+[2019.02.05-04.29.44:281][288]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-04.29.44:281][288]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2019.02.05-04.29.44:281][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.015055s)
+[2019.02.05-04.29.44:353][288]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-04.29.44:393][288]LogInit: FAudioDevice initialized.
+[2019.02.05-04.29.44:393][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.29.44:433][288]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-04.29.44:437][288]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.04-23.29.44
+[2019.02.05-04.29.44:438][288]LogWorld: Bringing up level for play took: 0.004424
+[2019.02.05-04.29.44:452][288]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.05-04.29.44:452][288]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.05-04.29.44:453][288]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.05-04.29.44:453][288]LogBlueprintUserMessages: [Scannables_2] things
+[2019.02.05-04.29.44:454][288]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.05-04.29.44:454][288]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.05-04.29.44:454][288]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.05-04.29.44:456][288]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.05-04.29.44:458][288]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.05-04.29.44:458][288]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.678
+[2019.02.05-04.29.44:458][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.29.45:234][324]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.05-04.29.46:248][384]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.29.46:446][396]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.05-04.29.47:359][450]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:359][450]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:560][462]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:560][462]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:659][468]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.05-04.29.47:760][474]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:761][474]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:963][486]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.47:964][486]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:161][498]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:161][498]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:245][503]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.29.48:362][510]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:362][510]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:561][522]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:561][522]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:763][534]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:763][534]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:860][540]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.05-04.29.48:861][540]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.29.48:864][540]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.29.48:966][546]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.29.48:967][546]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:967][546]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.48:969][546]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.29.49:169][558]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:170][558]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:186][559]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.29.49:189][559]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.29.49:259][563]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.29.49:379][570]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:380][570]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:400][571]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:400][571]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:615][583]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:615][583]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:828][594]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.49:828][594]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.50:032][606]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.50:032][606]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.50:066][608]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.05-04.29.50:246][618]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.50:246][618]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.29.50:248][618]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.29.50:271][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.29.50:274][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.29.50:329][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-04.29.50:330][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.29.50:388][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.29.50:406][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.29.50:549][620]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.02.05-04.29.51:782][674]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.29.51:795][674]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.30.50:447][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.31.00:891][243]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave bg_groceryAmbient...
+[2019.02.05-04.31.11:984][243]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 48912000 while cooking SoundWave /Game/Audio/bg_groceryAmbient.bg_groceryAmbient.
+[2019.02.05-04.31.46:495][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.31.49:113][407]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-04.31.49:135][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.31.49:183][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.31.49:234][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.31.50:232][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.32.04:476][471]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.32.04:498][471]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Ailsa/Downloads/barcode_sounds/se_barcodeBeep (1).wav)
+[2019.02.05-04.32.06:687][565]LogEditorViewport: Clicking on Actor (LMB): Scanner_C (Scanner)
+[2019.02.05-04.32.07:692][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.32.08:927][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.32.08:933][687]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.02.05-04.32.53:665][418]BlueprintLog: New page: Compile Scanner
+[2019.02.05-04.32.54:059][419]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.503 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.05-04.32.57:337][551]LogSlate: Window 'Scanner*' being destroyed
+[2019.02.05-04.32.57:377][551]LogSlate: Window 'Scanner*' being destroyed
+[2019.02.05-04.33.04:260][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.33.09:485][ 79]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Timer.Timer
+[2019.02.05-04.33.45:848][264]BlueprintLog: New page: Compile Timer
+[2019.02.05-04.33.48:585][383]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-04.33.48:622][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.33.48:622][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-04.33.48:622][383]PIE: New page: PIE session: Minimal_Default (Feb 4, 2019, 6:33:48 PM)
+[2019.02.05-04.33.48:622][383]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-04.33.48:634][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011618s)
+[2019.02.05-04.33.48:635][383]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-04.33.48:636][383]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2019.02.05-04.33.48:636][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013748s)
+[2019.02.05-04.33.48:730][383]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-04.33.48:767][383]LogInit: FAudioDevice initialized.
+[2019.02.05-04.33.48:804][383]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-04.33.48:808][383]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.04-23.33.48
+[2019.02.05-04.33.48:808][383]LogWorld: Bringing up level for play took: 0.004120
+[2019.02.05-04.33.48:822][383]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.05-04.33.48:822][383]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.05-04.33.48:822][383]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.05-04.33.48:822][383]LogBlueprintUserMessages: [Scannables_2] things
+[2019.02.05-04.33.48:823][383]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.05-04.33.48:824][383]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.05-04.33.48:824][383]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.05-04.33.48:826][383]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.05-04.33.48:828][383]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.05-04.33.48:828][383]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.307
+[2019.02.05-04.33.48:829][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.33.49:585][418]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.05-04.33.50:595][478]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.33.50:796][490]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.05-04.33.51:696][544]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.51:697][544]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.51:896][556]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.51:897][556]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.51:996][562]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.05-04.33.52:097][568]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:097][568]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:298][580]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:299][580]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:497][592]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:497][592]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:598][598]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.33.52:697][604]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:697][604]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:902][616]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.52:902][616]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:100][628]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:101][628]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:200][634]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.05-04.33.53:216][635]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.33.53:219][635]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.33.53:220][635]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave se_barcodeBeep__1_...
+[2019.02.05-04.33.53:270][635]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 368640 while cooking SoundWave /Game/Audio/se_barcodeBeep__1_.se_barcodeBeep__1_.
+[2019.02.05-04.33.53:303][637]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:304][637]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:352][640]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.33.53:362][640]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.33.53:510][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:510][649]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:574][653]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.33.53:575][653]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.33.53:594][654]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.33.53:723][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:723][661]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:808][666]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:808][666]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:926][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.53:926][673]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:009][678]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:010][678]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:125][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:125][685]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:326][697]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:327][697]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:408][702]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.05-04.33.54:528][709]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:529][709]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:594][713]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.33.54:730][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:731][721]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:801][725]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:801][725]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:935][733]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.54:935][733]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:002][737]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:003][737]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:136][745]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:136][745]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:202][749]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:202][749]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:336][757]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:337][757]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:548][769]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:548][769]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:614][771]LogBlueprintUserMessages: [MotionControllerPawn_2] 4
+[2019.02.05-04.33.55:616][771]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:616][771]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:618][771]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.33.55:756][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:756][779]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:822][783]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:822][783]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:953][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.55:954][791]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:020][795]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:021][795]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:155][803]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:155][803]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:223][807]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:223][807]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:357][815]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:358][815]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:557][827]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:557][827]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:594][829]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.33.56:768][839]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:768][839]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:788][840]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:788][840]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:820][842]LogBlueprintUserMessages: [MotionControllerPawn_2] 3
+[2019.02.05-04.33.56:972][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:972][851]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:987][852]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.56:988][852]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:174][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:174][863]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:188][864]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:188][864]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:371][875]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:372][875]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:572][887]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:573][887]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:594][888]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.33.57:766][898]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:767][898]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:787][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsScannables". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:787][899]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:971][910]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.57:971][910]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:021][913]LogBlueprintUserMessages: [MotionControllerPawn_2] 2
+[2019.02.05-04.33.58:174][922]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:175][922]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:372][934]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:372][934]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:572][946]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:572][946]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:594][947]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.33.58:715][954]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:716][954]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:780][958]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:781][958]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:915][966]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:915][966]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:984][970]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.58:984][970]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:115][978]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:115][978]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:183][982]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:183][982]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:232][985]LogBlueprintUserMessages: [MotionControllerPawn_2] 1
+[2019.02.05-04.33.59:318][990]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:318][990]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:515][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:515][  2]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:601][  7]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.33.59:718][ 14]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:718][ 14]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:784][ 18]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_7 via property K2Node_DynamicCast_AsScannables, but Scannables_C_7 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:784][ 18]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:957][ 25]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.33.59:958][ 25]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:038][ 27]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_7 via property K2Node_DynamicCast_AsScannables, but Scannables_C_7 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:039][ 27]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:178][ 31]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:179][ 31]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:345][ 36]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.34.00:350][ 36]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.34.00:428][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:428][ 38]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:459][ 39]LogBlueprintUserMessages: [MotionControllerPawn_2] 0
+[2019.02.05-04.34.00:599][ 43]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.05-04.34.00:609][ 43]LogAudio: Warning: Detected orphaned looping sound 'Fire_Sparks01_Cue'.
+[2019.02.05-04.34.00:690][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:690][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:825][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:826][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:937][ 52]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.00:939][ 52]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:040][ 55]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:041][ 55]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:154][ 58]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:154][ 58]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:265][ 61]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:266][ 61]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:381][ 64]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:382][ 64]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:479][ 68]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:481][ 68]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:590][ 74]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:590][ 74]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:593][ 74]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.34.01:689][ 80]LogBlueprintUserMessages: [MotionControllerPawn_2] -1
+[2019.02.05-04.34.01:691][ 80]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:692][ 80]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:792][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_6 via property K2Node_DynamicCast_AsScannables, but Scannables_C_6 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:792][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:893][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.01:893][ 92]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:092][104]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:092][104]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:296][116]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:296][116]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:513][128]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:513][128]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:622][134]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:623][134]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:723][140]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:723][140]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:724][140]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:724][140]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:824][146]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:824][146]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:926][152]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:926][152]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:927][152]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_8 via property K2Node_DynamicCast_AsScannables, but Scannables_C_8 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.02:927][152]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.03:159][166]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.03:159][166]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.34.03:162][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.34.03:162][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.34.03:203][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-04.34.03:203][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.34.03:246][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.34.03:380][167]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2019.02.05-04.34.04:580][225]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.34.04:593][225]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.34.07:405][358]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Minimal_Default367B684C453F20E8C5CC8E894F8D3D4A.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-04.34.07:451][358]LogFileHelpers: Saving map 'Minimal_Default' took 0.479
+[2019.02.05-04.34.07:507][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.02.05-04.34.07:640][358]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Scanner0D4E0AEC4F15CDDC99D14FB259B6BA88.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.02.05-04.34.07:655][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Timer" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Blueprints/Timer.uasset" SILENT=true
+[2019.02.05-04.34.07:784][358]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/TimerD5DD24204E44B0B741E7BE8CABE73CFC.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Blueprints/Timer.uasset'
+[2019.02.05-04.34.07:813][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/se_barcodeBeep__1_" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/se_barcodeBeep__1_.uasset" SILENT=true
+[2019.02.05-04.34.07:832][358]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/se_barcodeBeep__1_2E8CCD76466681B5381C77B5730A5D9A.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/se_barcodeBeep__1_.uasset'
+[2019.02.05-04.34.08:864][401]LogSlate: Window 'Timer' being destroyed
+[2019.02.05-04.34.08:963][401]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2019.02.05-04.34.08:964][401]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-04.34.10:075][402]Cmd: QUIT_EDITOR
+[2019.02.05-04.34.11:320][402]LogExit: Preparing to exit.
+[2019.02.05-04.34.12:881][402]LogExit: Editor shut down
+[2019.02.05-04.34.12:884][402]LogExit: Transaction tracking system shut down
+[2019.02.05-04.34.13:673][402]LogExit: Object subsystem successfully closed.
+[2019.02.05-04.34.13:714][402]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.05-04.34.13:734][402]LogD3D11RHI: Shutdown
+[2019.02.05-04.34.13:734][402]LogD3D11RHI: CleanupD3DDevice
+[2019.02.05-04.34.13:787][402]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module SequencerWidgets (636)
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module BlueprintGraph (632)
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.02.05-04.34.13:819][402]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (624)
+[2019.02.05-04.34.13:820][402]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.02.05-04.34.13:820][402]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.02.05-04.34.13:820][402]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.02.05-04.34.13:836][402]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.02.05-04.34.13:836][402]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.02.05-04.34.13:836][402]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.02.05-04.34.13:836][402]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.05-04.34.13:836][402]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.05-04.34.13:836][402]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.05-04.34.13:837][402]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.05-04.34.13:838][402]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.05-04.34.13:839][402]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.05-04.34.13:840][402]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.05-04.34.13:840][402]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.05-04.34.13:840][402]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.05-04.34.13:840][402]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.05-04.34.13:840][402]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.05-04.34.13:840][402]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.05-04.34.14:055][402]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.05-04.34.14:056][402]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.05-04.34.14:110][402]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.05-04.34.14:110][402]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.05-04.34.14:110][402]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.05-04.34.14:110][402]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.05-04.34.14:110][402]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.05-04.34.14:110][402]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.05-04.34.14:111][402]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.05-04.34.14:111][402]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.05-04.34.14:111][402]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.05-04.34.14:111][402]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.05-04.34.14:144][402]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.05-04.34.14:145][402]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.05-04.34.14:150][402]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.05-04.34.14:150][402]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.05-04.34.14:150][402]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.05-04.34.14:150][402]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.05-04.34.14:150][402]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.05-04.34.14:151][402]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.05-04.34.14:158][402]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.05-04.34.14:158][402]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.05-04.34.14:159][402]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.05-04.34.14:164][402]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.05-04.34.14:236][402]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.05-04.34.14:242][402]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.05-04.34.14:243][402]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.05-04.34.14:245][402]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.05-04.34.14:346][402]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.05-04.34.14:447][402]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.05-04.34.14:450][402]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.05-04.34.14:450][402]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.05-04.34.14:451][402]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.05-04.34.14:451][402]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.05-04.34.14:451][402]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.05-04.34.14:461][402]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.05-04.34.14:461][402]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.05-04.34.14:462][402]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.05-04.34.14:462][402]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.05-04.34.14:462][402]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.05-04.34.14:462][402]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.05-04.34.14:462][402]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.05-04.34.14:470][402]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.05-04.34.14:476][402]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.05-04.34.14:477][402]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.05-04.34.14:478][402]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.05-04.34.14:478][402]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.05-04.34.14:478][402]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.05-04.34.14:478][402]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.05-04.34.14:478][402]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.05-04.34.14:478][402]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.05-04.34.14:483][402]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.05-04.34.14:484][402]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.05-04.34.14:484][402]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.05-04.34.14:484][402]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.05-04.34.14:484][402]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.05-04.34.14:484][402]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.05-04.34.14:484][402]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.05-04.34.14:486][402]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.05-04.34.14:540][402]LogDerivedDataCache: Shutdown
+[2019.02.05-04.34.14:540][402]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.05-04.34.14:540][402]LogXGEController: Cleaning working directory: C:/Users/Ailsa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.05-04.34.14:540][402]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.05-04.34.14:541][402]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.05-04.34.14:628][402]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.05-04.34.14:629][402]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.05-04.34.14:629][402]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.05-04.34.14:629][402]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.05-04.34.14:629][402]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.05-04.34.14:639][402]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.05-04.34.14:640][402]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.05-04.34.14:647][402]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.05-04.34.14:647][402]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.05-04.34.14:730][402]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.05-04.34.14:731][402]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.05-04.34.14:731][402]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.05-04.34.14:732][402]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.05-04.34.14:733][402]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.05-04.34.14:758][402]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.05-04.34.14:758][402]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.05-04.34.14:758][402]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF6AD928B-4A37-6503-12E6-63B8C17A4CDD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=8cfcf03741e719b248b94cb65fa068ce%7C7123d634d90748d29560f6c35e08eaa7%7Cdff86dcf-7d67-4b05-a81d-977b2ab264e9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.05-04.34.14:769][402]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.05-04.34.14:774][402]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.05-04.34.14:774][402]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.05-04.34.14:774][402]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.05-04.34.14:774][402]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.05-04.34.14:774][402]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.05-04.34.14:775][402]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.05-04.34.14:775][402]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.05-04.34.14:775][402]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.05-04.34.14:776][402]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.05-04.34.14:776][402]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.05-04.34.14:777][402]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.05-04.34.14:777][402]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.05-04.34.14:777][402]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.05-04.34.14:777][402]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.05-04.34.14:778][402]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.05-04.34.14:778][402]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.05-04.34.14:778][402]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.05-04.34.14:784][402]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.05-04.34.14:784][402]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.05-04.34.14:784][402]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.05-04.34.14:785][402]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.05-04.34.14:790][402]LogExit: Exiting.
+[2019.02.05-04.34.14:832][402]Log file closed, 02/04/19 23:34:14
