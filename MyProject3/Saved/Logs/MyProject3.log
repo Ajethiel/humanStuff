@@ -3746,3 +3746,772 @@ Right
 [2019.02.05-03.48.51:093][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/se_barcodeBeep" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Autosaves/Game/Audio/se_barcodeBeep_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2019.02.05-03.48.51:112][963]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/se_barcodeBeep_Auto1C6281F5946C9FEE2BEE99D83EABFBE79.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Autosaves/Game/Audio/se_barcodeBeep_Auto1.uasset'
 [2019.02.05-03.48.51:114][963]LogFileHelpers: Auto-saving content packages took 3.605
+[2019.02.05-04.09.48:435][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.10.26:815][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.26:832][354]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_sign.obj)
+[2019.02.05-04.10.26:849][354]LogFbx: Loading FBX Scene from C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_sign.obj
+[2019.02.05-04.10.26:858][354]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.05-04.10.28:337][354]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.05-04.10.28:393][354]LogFbx: Warning: Triangulating static mesh pCube20
+[2019.02.05-04.10.28:486][354]LogStaticMesh: Building static mesh hs_sign_pCube20...
+[2019.02.05-04.10.28:499][354]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Objects/hs_sign_pCube20.hs_sign_pCube20
+[2019.02.05-04.10.28:520][354]LogFbx: Warning: Triangulating static mesh textureEditorIsolateSelectSet_pCube20
+[2019.02.05-04.10.28:523][354]LogStaticMesh: Building static mesh hs_sign_textureEditorIsolateSelectSet_pCube20...
+[2019.02.05-04.10.28:525][354]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20.hs_sign_textureEditorIsolateSelectSet_pCube20
+[2019.02.05-04.10.30:381][444]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.10.30:425][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.30:765][463]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.10.30:803][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.31:404][497]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.10.31:446][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.32:174][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.10.32:611][560]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.10.32:662][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.34:109][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2019.02.05-04.10.34:673][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.34:760][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.065
+[2019.02.05-04.10.34:765][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Objects/hs_sign_pCube20] ([1] browsable assets)...
+[2019.02.05-04.10.34:786][669]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Objects/hs_sign_pCube20.hs_sign_pCube20]
+[2019.02.05-04.10.34:786][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Objects/hs_sign_pCube20]
+[2019.02.05-04.10.34:823][669]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sign_pCube20_Auto2055B4701460D2DB01C0EABBB5A7CDE99.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Autosaves/Game/Geometry/Objects/hs_sign_pCube20_Auto2.uasset'
+[2019.02.05-04.10.34:825][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20] ([1] browsable assets)...
+[2019.02.05-04.10.34:841][669]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20.hs_sign_textureEditorIsolateSelectSet_pCube20]
+[2019.02.05-04.10.34:841][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20]
+[2019.02.05-04.10.34:865][669]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sign_textureEditorIsolateSele186B2D5E46626674FB2D37850F0E6546.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Autosaves/Game/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20_Auto2.uasset'
+[2019.02.05-04.10.34:867][669]LogFileHelpers: Auto-saving content packages took 0.102
+[2019.02.05-04.10.40:997][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box21)
+[2019.02.05-04.10.41:789][ 53]Cmd: DELETE
+[2019.02.05-04.10.41:789][ 53]Cmd: ACTOR DELETE
+[2019.02.05-04.10.41:802][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.10.41:843][ 53]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2019.02.05-04.10.42:590][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2019.02.05-04.10.42:763][102]Cmd: DELETE
+[2019.02.05-04.10.42:763][102]Cmd: ACTOR DELETE
+[2019.02.05-04.10.42:772][102]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.10.42:811][102]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.05-04.10.43:746][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.10.43:914][159]LogActorFactory: Actor Factory created hs_sign_pCube20
+[2019.02.05-04.10.44:633][201]LogActorFactory: Actor Factory created hs_sign_pCube20
+[2019.02.05-04.10.46:505][291]LogEditorViewport: Clicking on Actor (context menu): NavModifierVolume (NavModifierVolume)
+[2019.02.05-04.10.46:565][291]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.46:625][292]LogEditorViewport: Clicking on Actor (context menu): NavModifierVolume (NavModifierVolume)
+[2019.02.05-04.10.46:664][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.47:027][313]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.10.47:106][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.48:079][366]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.10.48:117][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.48:364][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.10.49:013][412]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.10.49:052][412]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.51:718][553]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.51:776][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.53:098][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_sign_pCube20)
+[2019.02.05-04.10.53:819][652]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.53:876][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.55:100][715]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.55:135][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.55:297][724]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.55:989][763]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.56:025][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.56:667][799]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.56:707][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.10.58:960][926]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.10.58:997][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.00:120][985]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.11.00:798][ 22]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.11.00:836][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.01:519][ 62]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.11.01:595][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.02:861][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.11.05:147][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_sign_pCube20)
+[2019.02.05-04.11.13:451][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_1)
+[2019.02.05-04.11.14:014][740]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box27)
+[2019.02.05-04.11.14:082][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.17:164][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.11.17:928][956]LogEditorViewport: Clicking on Actor (context menu): NavModifierVolume (NavModifierVolume)
+[2019.02.05-04.11.17:990][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.18:840][  3]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box36)
+[2019.02.05-04.11.18:913][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.20:021][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box)
+[2019.02.05-04.11.20:826][106]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (hs_conveyor_convey_LOD_1)
+[2019.02.05-04.11.20:902][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.21:493][137]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (hs_conveyor_convey_LOD_1)
+[2019.02.05-04.11.21:530][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.22:004][164]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box)
+[2019.02.05-04.11.22:080][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.22:624][193]LogEditorViewport: Clicking on Actor (context menu): NavModifierVolume (NavModifierVolume)
+[2019.02.05-04.11.22:692][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.26:223][358]LogEditorViewport: Clicking on Actor (context menu): NavModifierVolume (NavModifierVolume)
+[2019.02.05-04.11.26:267][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.27:484][414]LogEditorViewport: Clicking on Actor (context menu): ShoppingCarts_C (ShoppingCarts)
+[2019.02.05-04.11.27:545][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.28:418][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.28:776][463]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box)
+[2019.02.05-04.11.28:857][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.30:938][571]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.11.30:998][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.31:792][609]LogEditorViewport: Clicking on Actor (context menu): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.05-04.11.31:852][609]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.32:340][635]LogEditorViewport: Clicking on Actor (context menu): ShoppingCarts_C (ShoppingCarts)
+[2019.02.05-04.11.32:413][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.33:148][675]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.05-04.11.33:515][693]LogEditorViewport: Clicking on Actor (context menu): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.02.05-04.11.33:608][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.34:576][737]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.34:654][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.35:895][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.37:234][872]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.37:269][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.37:888][908]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.37:926][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.38:714][954]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.38:756][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.38:965][965]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.39:006][965]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.39:556][997]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.39:608][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.40:293][ 36]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.11.40:357][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.40:843][ 62]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.40:913][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.42:130][129]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.02.05-04.11.42:184][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.11.42:896][169]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_BoxCentered4)
+[2019.02.05-04.11.43:010][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.14.24:973][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.14.50:562][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_sign_pCube20)
+[2019.02.05-04.14.54:399][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.14.54:687][298]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Objects/hs_sign_pCube20.hs_sign_pCube20
+[2019.02.05-04.15.00:136][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Objects/hs_sign_pCube20" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sign_pCube20.uasset" SILENT=true
+[2019.02.05-04.15.00:176][485]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sign_pCube209A3FAD1946E8FC7101C3BD972A720A72.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sign_pCube20.uasset'
+[2019.02.05-04.15.01:691][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.15.01:785][544]LogSlate: Window 'hs_sign_pCube20' being destroyed
+[2019.02.05-04.15.16:110][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_1)
+[2019.02.05-04.15.24:824][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box7)
+[2019.02.05-04.15.25:726][815]Cmd: DELETE
+[2019.02.05-04.15.25:726][815]Cmd: ACTOR DELETE
+[2019.02.05-04.15.25:737][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.25:791][815]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.02.05-04.15.27:028][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box4)
+[2019.02.05-04.15.27:228][894]Cmd: DELETE
+[2019.02.05-04.15.27:228][894]Cmd: ACTOR DELETE
+[2019.02.05-04.15.27:236][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.27:274][894]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.02.05-04.15.27:564][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box37)
+[2019.02.05-04.15.27:713][915]Cmd: DELETE
+[2019.02.05-04.15.27:713][915]Cmd: ACTOR DELETE
+[2019.02.05-04.15.27:727][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.27:776][915]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.02.05-04.15.28:490][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box9)
+[2019.02.05-04.15.28:663][960]Cmd: DELETE
+[2019.02.05-04.15.28:663][960]Cmd: ACTOR DELETE
+[2019.02.05-04.15.28:673][960]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.28:724][960]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.02.05-04.15.29:289][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box12)
+[2019.02.05-04.15.29:460][999]Cmd: DELETE
+[2019.02.05-04.15.29:460][999]Cmd: ACTOR DELETE
+[2019.02.05-04.15.29:468][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.29:511][999]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.02.05-04.15.30:122][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box14)
+[2019.02.05-04.15.30:282][ 39]Cmd: DELETE
+[2019.02.05-04.15.30:282][ 39]Cmd: ACTOR DELETE
+[2019.02.05-04.15.30:293][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.30:333][ 39]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.02.05-04.15.30:556][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box13)
+[2019.02.05-04.15.30:726][ 57]Cmd: DELETE
+[2019.02.05-04.15.30:726][ 57]Cmd: ACTOR DELETE
+[2019.02.05-04.15.30:737][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.30:799][ 57]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2019.02.05-04.15.31:447][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box8)
+[2019.02.05-04.15.31:632][ 94]Cmd: DELETE
+[2019.02.05-04.15.31:632][ 94]Cmd: ACTOR DELETE
+[2019.02.05-04.15.31:647][ 94]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.31:712][ 94]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2019.02.05-04.15.32:164][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box6)
+[2019.02.05-04.15.32:319][115]Cmd: DELETE
+[2019.02.05-04.15.32:319][115]Cmd: ACTOR DELETE
+[2019.02.05-04.15.32:332][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.32:387][115]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.02.05-04.15.32:969][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box10)
+[2019.02.05-04.15.33:263][162]Cmd: DELETE
+[2019.02.05-04.15.33:263][162]Cmd: ACTOR DELETE
+[2019.02.05-04.15.33:274][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.33:313][162]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.05-04.15.33:687][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box11)
+[2019.02.05-04.15.33:831][188]Cmd: DELETE
+[2019.02.05-04.15.33:831][188]Cmd: ACTOR DELETE
+[2019.02.05-04.15.33:838][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.33:878][188]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.02.05-04.15.34:400][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box38)
+[2019.02.05-04.15.34:544][223]Cmd: DELETE
+[2019.02.05-04.15.34:544][223]Cmd: ACTOR DELETE
+[2019.02.05-04.15.34:552][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.34:603][223]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.02.05-04.15.35:198][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_SlantedBox23)
+[2019.02.05-04.15.35:372][264]Cmd: DELETE
+[2019.02.05-04.15.35:372][264]Cmd: ACTOR DELETE
+[2019.02.05-04.15.35:380][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.35:420][264]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.02.05-04.15.36:133][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_RingFull2)
+[2019.02.05-04.15.36:291][311]Cmd: DELETE
+[2019.02.05-04.15.36:291][311]Cmd: ACTOR DELETE
+[2019.02.05-04.15.36:299][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.36:343][311]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.02.05-04.15.40:540][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box22)
+[2019.02.05-04.15.41:320][590]Cmd: DELETE
+[2019.02.05-04.15.41:320][590]Cmd: ACTOR DELETE
+[2019.02.05-04.15.41:334][590]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.15.41:378][590]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.02.05-04.15.44:810][776]LogEditorViewport: Clicking on Actor (LMB): NavModifierVolume (NavModifierVolume)
+[2019.02.05-04.15.45:787][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_0)
+[2019.02.05-04.15.49:604][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.15.49:652][ 42]LogTemp: Repeating last play command: Simulate
+[2019.02.05-04.15.49:684][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.15.49:684][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-04.15.49:684][ 42]PIE: New page: SIE session: Minimal_Default (Feb 4, 2019, 6:15:49 PM)
+[2019.02.05-04.15.49:685][ 42]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-04.15.49:700][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015271s)
+[2019.02.05-04.15.49:702][ 42]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-04.15.49:702][ 42]LogPlayLevel: PIE: World Init took: (0.002125s)
+[2019.02.05-04.15.49:702][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017802s)
+[2019.02.05-04.15.49:790][ 42]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-04.15.49:834][ 42]LogInit: FAudioDevice initialized.
+[2019.02.05-04.15.49:873][ 42]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-04.15.49:877][ 42]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.04-23.15.49
+[2019.02.05-04.15.49:878][ 42]LogWorld: Bringing up level for play took: 0.004447
+[2019.02.05-04.15.49:892][ 42]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.05-04.15.49:892][ 42]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.05-04.15.49:892][ 42]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.05-04.15.49:893][ 42]LogBlueprintUserMessages: [Scannables_2] things
+[2019.02.05-04.15.49:893][ 42]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.05-04.15.49:893][ 42]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.05-04.15.49:895][ 42]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.05-04.15.49:897][ 42]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.05-04.15.49:898][ 42]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.762
+[2019.02.05-04.15.49:932][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.15.50:646][ 75]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.05-04.15.51:668][133]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.15.51:874][145]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.05-04.15.52:792][199]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.52:793][199]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.52:999][211]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.52:999][211]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:090][216]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.05-04.15.53:208][223]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:209][223]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:407][235]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:408][235]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:612][247]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:612][247]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:658][249]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.15.53:836][259]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.53:836][259]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:038][271]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:038][271]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:255][283]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:255][283]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:303][286]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.05-04.15.54:455][295]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:456][295]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:670][306]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:670][306]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:672][306]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.15.54:883][317]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:883][317]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:884][317]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.54:884][317]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:092][329]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:093][329]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:093][329]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:093][329]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:301][341]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:301][341]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:501][353]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:501][353]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:517][354]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.05-04.15.55:709][365]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:709][365]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:709][365]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:709][365]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:913][377]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:913][377]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:914][377]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.55:914][377]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:113][389]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:113][389]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:113][389]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:113][389]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:327][401]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:328][401]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:328][401]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:328][401]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:527][413]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:527][413]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:527][413]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:527][413]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:671][421]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.15.56:741][425]LogBlueprintUserMessages: [MotionControllerPawn_2] 4
+[2019.02.05-04.15.56:742][425]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:742][425]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:742][425]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:742][425]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:941][437]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:941][437]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:941][437]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.56:941][437]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:147][449]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:147][449]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:147][449]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:147][449]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:359][461]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:359][461]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:560][473]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:560][473]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:667][479]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.15.57:770][484]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:770][484]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:771][484]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:771][484]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:953][495]LogBlueprintUserMessages: [MotionControllerPawn_2] 3
+[2019.02.05-04.15.57:970][496]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:971][496]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:971][496]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.57:971][496]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:171][508]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:171][508]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:376][520]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:376][520]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:595][531]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:595][531]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:800][543]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:800][543]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:801][543]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.58:801][543]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:012][555]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:012][555]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:012][555]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:012][555]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:162][564]LogBlueprintUserMessages: [MotionControllerPawn_2] 2
+[2019.02.05-04.15.59:213][567]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:213][567]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:213][567]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:213][567]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:413][579]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:413][579]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:414][579]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:414][579]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:623][591]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:625][591]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:625][591]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:625][591]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:840][603]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:840][603]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:840][603]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.15.59:840][603]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:050][615]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:050][615]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:050][615]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:051][615]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:259][625]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:260][625]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:260][625]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:260][625]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:375][632]LogBlueprintUserMessages: [MotionControllerPawn_2] 1
+[2019.02.05-04.16.00:459][637]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:459][637]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:460][637]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:460][637]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:670][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:671][649]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:671][649]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:671][649]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:672][649]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.16.00:876][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:876][661]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:876][661]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.00:876][661]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:087][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:087][673]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:087][673]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:087][673]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:289][685]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:289][685]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:488][697]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:489][697]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:595][703]LogBlueprintUserMessages: [MotionControllerPawn_2] 0
+[2019.02.05-04.16.01:682][707]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:682][707]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:700][708]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:700][708]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:799][713]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:799][713]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:898][719]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:898][719]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:915][720]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:916][720]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:998][725]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_5 via property K2Node_DynamicCast_AsScannables, but Scannables_C_5 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.01:998][725]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.16.02:199][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.16.02:200][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.16.02:243][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-04.16.02:243][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.16.02:291][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.16.02:445][738]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.02.05-04.16.03:774][789]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.16.03:791][789]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.16.06:586][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box39)
+[2019.02.05-04.16.07:364][975]Cmd: DELETE
+[2019.02.05-04.16.07:364][975]Cmd: ACTOR DELETE
+[2019.02.05-04.16.07:375][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.16.07:415][975]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.02.05-04.16.08:348][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box36)
+[2019.02.05-04.16.08:888][ 57]Cmd: DELETE
+[2019.02.05-04.16.08:888][ 57]Cmd: ACTOR DELETE
+[2019.02.05-04.16.08:897][ 57]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.16.08:935][ 57]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.02.05-04.16.12:189][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_0)
+[2019.02.05-04.16.16:833][489]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.02.05-04.16.17:766][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_0)
+[2019.02.05-04.19.25:782][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_sign_pCube20)
+[2019.02.05-04.19.26:919][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.19.27:067][364]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Objects/hs_sign_pCube20.hs_sign_pCube20
+[2019.02.05-04.19.36:402][592]LogExportMeshUtils: Fbx LOD loading
+[2019.02.05-04.19.36:409][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.19.36:450][592]LogFbx: Loading FBX Scene from C:/Users/Ailsa/Pictures/arts/3d/humanStuff/hs_sign_LOD1.obj
+[2019.02.05-04.19.36:454][592]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.05-04.19.36:455][592]LogFbx: Warning: Triangulating static mesh pCube21
+[2019.02.05-04.19.36:467][592]LogFbx: Warning: Triangulating static mesh textureEditorIsolateSelectSet_pCube21
+[2019.02.05-04.19.36:476][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.19.36:495][592]LogStaticMesh: Building static mesh hs_sign_pCube20...
+[2019.02.05-04.19.36:516][592]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Objects/hs_sign_pCube20.hs_sign_pCube20
+[2019.02.05-04.19.40:424][765]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.19.51:604][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.20.05:522][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Objects/hs_sign_pCube20" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sign_pCube20.uasset" SILENT=true
+[2019.02.05-04.20.05:641][874]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sign_pCube204BE27B11452E3F5C64FE1085C1A5E06B.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sign_pCube20.uasset'
+[2019.02.05-04.20.07:086][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.20.11:475][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.05-04.20.30:149][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.20.30:264][ 79]LogActorFactory: Actor Factory created hs_register
+[2019.02.05-04.20.34:241][256]LogActorFactory: Actor Factory created hs_register
+[2019.02.05-04.20.38:762][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box)
+[2019.02.05-04.20.42:005][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_2)
+[2019.02.05-04.20.43:873][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_register)
+[2019.02.05-04.20.46:928][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_2)
+[2019.02.05-04.20.54:015][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2019.02.05-04.20.54:853][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box27)
+[2019.02.05-04.20.55:745][109]Cmd: DELETE
+[2019.02.05-04.20.55:745][109]Cmd: ACTOR DELETE
+[2019.02.05-04.20.55:756][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.20.55:807][109]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.02.05-04.20.56:357][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box28)
+[2019.02.05-04.20.56:450][142]Cmd: DELETE
+[2019.02.05-04.20.56:450][142]Cmd: ACTOR DELETE
+[2019.02.05-04.20.56:460][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.20.56:501][142]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.05-04.20.57:213][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box31)
+[2019.02.05-04.20.57:367][187]Cmd: DELETE
+[2019.02.05-04.20.57:367][187]Cmd: ACTOR DELETE
+[2019.02.05-04.20.57:377][187]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.20.57:429][187]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.02.05-04.20.58:313][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2019.02.05-04.20.59:140][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box35)
+[2019.02.05-04.20.59:580][229]Cmd: DELETE
+[2019.02.05-04.20.59:581][229]Cmd: ACTOR DELETE
+[2019.02.05-04.20.59:590][229]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.20.59:643][229]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.02.05-04.21.00:100][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box33)
+[2019.02.05-04.21.00:374][264]Cmd: DELETE
+[2019.02.05-04.21.00:374][264]Cmd: ACTOR DELETE
+[2019.02.05-04.21.00:383][264]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.00:429][264]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2019.02.05-04.21.00:867][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box32)
+[2019.02.05-04.21.00:967][289]Cmd: DELETE
+[2019.02.05-04.21.00:967][289]Cmd: ACTOR DELETE
+[2019.02.05-04.21.00:977][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.01:020][289]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2019.02.05-04.21.01:795][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box26)
+[2019.02.05-04.21.01:961][338]Cmd: DELETE
+[2019.02.05-04.21.01:961][338]Cmd: ACTOR DELETE
+[2019.02.05-04.21.01:970][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.02:012][338]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.02.05-04.21.02:451][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2019.02.05-04.21.02:547][364]Cmd: DELETE
+[2019.02.05-04.21.02:547][364]Cmd: ACTOR DELETE
+[2019.02.05-04.21.02:558][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.02:617][364]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.02.05-04.21.03:211][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_SlantedBox24)
+[2019.02.05-04.21.03:396][404]Cmd: DELETE
+[2019.02.05-04.21.03:396][404]Cmd: ACTOR DELETE
+[2019.02.05-04.21.03:403][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.03:445][404]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.05-04.21.03:969][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box24)
+[2019.02.05-04.21.04:215][429]Cmd: DELETE
+[2019.02.05-04.21.04:215][429]Cmd: ACTOR DELETE
+[2019.02.05-04.21.04:254][429]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.04:436][429]LogEditorActor: Deleted 1 Actors (0.221 secs)
+[2019.02.05-04.21.05:508][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box40)
+[2019.02.05-04.21.05:634][454]Cmd: DELETE
+[2019.02.05-04.21.05:634][454]Cmd: ACTOR DELETE
+[2019.02.05-04.21.05:645][454]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.05:702][454]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2019.02.05-04.21.06:160][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box29)
+[2019.02.05-04.21.06:334][476]Cmd: DELETE
+[2019.02.05-04.21.06:334][476]Cmd: ACTOR DELETE
+[2019.02.05-04.21.06:345][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.06:393][476]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2019.02.05-04.21.06:806][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box30)
+[2019.02.05-04.21.07:058][510]Cmd: DELETE
+[2019.02.05-04.21.07:058][510]Cmd: ACTOR DELETE
+[2019.02.05-04.21.07:071][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.07:113][510]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2019.02.05-04.21.07:946][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box34)
+[2019.02.05-04.21.08:080][562]Cmd: DELETE
+[2019.02.05-04.21.08:080][562]Cmd: ACTOR DELETE
+[2019.02.05-04.21.08:090][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.08:131][562]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.02.05-04.21.10:475][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_RingFull3)
+[2019.02.05-04.21.11:252][684]Cmd: DELETE
+[2019.02.05-04.21.11:252][684]Cmd: ACTOR DELETE
+[2019.02.05-04.21.11:259][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.05-04.21.11:298][684]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.02.05-04.21.16:046][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_conveyor_convey_LOD_3)
+[2019.02.05-04.21.28:676][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.05-04.21.35:667][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.21.35:737][690]LogTemp: Repeating last play command: Simulate
+[2019.02.05-04.21.35:766][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.21.35:766][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-04.21.35:766][690]PIE: New page: SIE session: Minimal_Default (Feb 4, 2019, 6:21:35 PM)
+[2019.02.05-04.21.35:767][690]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2019.02.05-04.21.35:785][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017508s)
+[2019.02.05-04.21.35:786][690]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.02.05-04.21.35:787][690]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2019.02.05-04.21.35:787][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.019874s)
+[2019.02.05-04.21.35:868][690]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-04.21.35:901][690]LogInit: FAudioDevice initialized.
+[2019.02.05-04.21.35:936][690]LogLoad: Game class is 'GameModeBase'
+[2019.02.05-04.21.35:940][690]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 60) at 2019.02.04-23.21.35
+[2019.02.05-04.21.35:941][690]LogWorld: Bringing up level for play took: 0.004102
+[2019.02.05-04.21.35:954][690]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.05-04.21.35:954][690]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.05-04.21.35:954][690]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.05-04.21.35:954][690]LogBlueprintUserMessages: [Scannables_2] things
+[2019.02.05-04.21.35:955][690]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.05-04.21.35:955][690]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.05-04.21.35:957][690]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.05-04.21.35:959][690]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.05-04.21.35:959][690]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.824
+[2019.02.05-04.21.35:987][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.21.36:758][705]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.05-04.21.37:763][726]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.21.37:969][733]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.05-04.21.38:897][787]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.38:897][787]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:099][799]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:099][799]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:181][804]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.05-04.21.39:299][811]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:299][811]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:500][823]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:500][823]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:703][835]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:703][835]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:740][837]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.21.39:908][847]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.39:908][847]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.40:108][859]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_0 via property K2Node_DynamicCast_AsScannables, but Scannables_C_0 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.40:108][859]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.40:394][876]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.05-04.21.40:751][897]LogBlueprintUserMessages: [Spawner_2] 5.0
+[2019.02.05-04.21.40:885][905]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.40:885][905]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:110][911]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:111][911]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:348][917]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:349][917]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:606][923]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.05-04.21.41:611][923]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:612][923]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:834][928]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:835][928]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:875][929]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.41:876][929]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:098][934]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:099][934]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:139][935]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:140][935]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:387][940]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:388][940]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:388][940]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:389][940]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:596][950]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:596][950]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:596][950]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:596][950]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:741][958]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.21.42:807][962]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:807][962]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:808][962]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:808][962]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.42:840][964]LogBlueprintUserMessages: [MotionControllerPawn_2] 4
+[2019.02.05-04.21.43:021][974]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:021][974]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:022][974]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:022][974]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:226][986]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:226][986]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:426][998]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:426][998]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:649][  9]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:649][  9]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:747][ 14]LogBlueprintUserMessages: [Spawner_2] 10.0
+[2019.02.05-04.21.43:868][ 21]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:868][ 21]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:869][ 21]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.43:869][ 21]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:066][ 32]LogBlueprintUserMessages: [MotionControllerPawn_2] 3
+[2019.02.05-04.21.44:085][ 33]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:085][ 33]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:086][ 33]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:086][ 33]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:289][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:290][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:290][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_1 via property K2Node_DynamicCast_AsScannables, but Scannables_C_1 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:290][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:492][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:492][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:695][ 69]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:696][ 69]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:922][ 78]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:922][ 78]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:922][ 78]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.44:923][ 78]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:135][ 90]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:135][ 90]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:136][ 90]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:136][ 90]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:285][ 99]LogBlueprintUserMessages: [MotionControllerPawn_2] 2
+[2019.02.05-04.21.45:335][102]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:336][102]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:336][102]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:336][102]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:549][112]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:549][112]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:550][112]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:550][112]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:759][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:759][123]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:759][123]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:759][123]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:982][132]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:982][132]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:982][132]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.45:983][132]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:210][143]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:210][143]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:210][143]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:210][143]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:408][155]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:408][155]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:408][155]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_4 via property K2Node_DynamicCast_AsScannables, but Scannables_C_4 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:408][155]PIE: Error: Blueprint Runtime Error: "Attempted to assign to None". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Set Velocity
+[2019.02.05-04.21.46:458][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-04.21.46:527][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.21.46:528][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.21.46:572][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-04.21.46:572][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2019.02.05-04.21.46:636][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-04.21.46:844][163]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.02.05-04.21.48:625][188]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.21.48:640][188]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-04.21.51:593][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.21.53:293][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-04.21.53:710][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Minimal_DefaultBDF14CD94275E393DC100AB91AF3D009.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.02.05-04.21.53:790][382]LogFileHelpers: Saving map 'Minimal_Default' took 0.473
+[2019.02.05-04.21.53:796][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.02.05-04.21.53:918][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/ScannerCFBEAC10476F8D84EFE4449578A01EEB.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.02.05-04.21.53:938][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Price" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/UI/Price.uasset" SILENT=true
+[2019.02.05-04.21.54:051][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Price14D44FF64949C90AC1C48E9565426EA3.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/UI/Price.uasset'
+[2019.02.05-04.21.54:071][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/bg_Elevator" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/bg_Elevator.uasset" SILENT=true
+[2019.02.05-04.21.54:081][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/bg_Elevator06449C3F431C109308D5E7B5CC949578.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/bg_Elevator.uasset'
+[2019.02.05-04.21.54:101][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/bg_groceryAmbient" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/bg_groceryAmbient.uasset" SILENT=true
+[2019.02.05-04.21.55:781][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/bg_groceryAmbientC75D34724144B035CF8277982BE5972F.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/bg_groceryAmbient.uasset'
+[2019.02.05-04.21.55:900][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/se_barcodeBeep" FILE="C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/se_barcodeBeep.uasset" SILENT=true
+[2019.02.05-04.21.55:946][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/se_barcodeBeep52C52D0A496E5BA8166A4DB60391F20A.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Audio/se_barcodeBeep.uasset'
+[2019.02.05-04.21.56:108][382]LogSavePackage: Moving 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/hs_sign_textureEditorIsolateSeleE5FE1362423D95BA15F2FA80AD00BC5F.tmp' to 'C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Content/Geometry/Objects/hs_sign_textureEditorIsolateSelectSet_pCube20.uasset'
+[2019.02.05-04.21.56:674][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
