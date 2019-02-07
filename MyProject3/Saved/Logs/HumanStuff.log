@@ -605,3 +605,884 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.07-00.29.56:493][ 20]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
 [2019.02.07-00.29.56:873][ 20]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
 [2019.02.07-00.29.57:537][ 20]LogSlate: Took 0.000859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.07-00.32.30:616][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.07-00.32.30:746][ 39]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts4993417542448A9D184D029E5095FEDA.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.07-00.34.15:151][266]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Carts.Carts
+[2019.02.07-00.34.15:158][266]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.15:535][266]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.15:548][266]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.34.15:572][266]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.34.16:224][292]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.34.16:310][296]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.34.16:310][296]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.34.16:310][296]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.34.16:315][296]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.34.16:338][297]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.34.16:340][297]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.34.16:356][297]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.34.16:394][299]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.34.16:614][310]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.34.16:636][311]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.34.16:878][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.34.16:878][321]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.34.17:218][339]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.02.07-00.34.17:218][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.02.07-00.34.17:218][339]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.07-00.34.17:218][339]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.07-00.34.19:815][494]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.19:827][494]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.02.07-00.34.19:852][495]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.34.19:853][495]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.34.20:017][504]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.34.20:068][507]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.34.20:068][507]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.34.20:071][507]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.34.20:088][508]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.34.20:109][509]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.34.20:113][509]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.34.20:128][510]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.34.20:182][513]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.34.20:335][519]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.34.20:383][521]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.34.20:584][529]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.34.20:588][529]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.34.20:609][530]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.34.20:630][531]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.34.21:712][592]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.34.21:733][592]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.34.21:733][592]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.02.07-00.34.21:899][598]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.34.21:954][601]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.34.21:954][601]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.34.21:970][602]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.34.21:974][602]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.34.21:990][603]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.34.21:993][603]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.34.22:010][604]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.34.22:086][608]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.34.22:239][614]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.34.22:266][615]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.34.22:494][624]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.34.22:494][624]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.34.22:514][625]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.34.22:517][625]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.34.22:872][644]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.02.07-00.34.22:872][644]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.02.07-00.34.22:872][644]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.07-00.34.22:872][644]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.07-00.34.33:961][216]LogSlate: Window 'Message' being destroyed
+[2019.02.07-00.34.34:277][216]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.34:315][216]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.34.34:315][216]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.34.34:315][216]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.34.34:315][216]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.34.34:315][216]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.34.34:316][216]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.34.34:316][216]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.34.34:316][216]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.34.34:346][216]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.34:365][216]LogMaterial: Display: Missing cached shader map for material Carts, compiling. 
+[2019.02.07-00.34.34:428][216]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Carts, compiling. 
+[2019.02.07-00.34.35:040][216]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.07-00.34.35:040][216]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.07-00.34.35:040][216]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.34.35:041][216]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.34.35:042][216]TextureStreamingBuild: Display: Compiling optional shaders took 0.620 seconds.
+[2019.02.07-00.34.35:078][216]LogSlate: Window 'Carts*' being destroyed
+[2019.02.07-00.34.35:080][216]LogSlate: Window 'Carts*' being destroyed
+[2019.02.07-00.34.39:655][410]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.07-00.35.05:127][935]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.37.42:818][328]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.37.43:625][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.07-00.37.43:715][362]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts331E762D4A4A2389BB34AE9C56A707DF.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.07-00.38.07:390][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.07-00.38.07:468][781]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCartsB2DEEA41483C60D56DB8DEA6F637FD5D.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.07-00.38.21:241][605]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.38.41:135][781]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Cart.Cart
+[2019.02.07-00.38.41:138][781]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.38.41:215][781]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.38.41:229][781]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.38.41:243][781]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.38.41:682][796]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.38.41:724][798]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.38.41:724][798]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.38.41:724][798]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.38.41:740][799]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.38.41:781][801]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.38.41:781][801]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.38.41:781][801]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.38.41:892][807]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.38.42:057][814]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.38.42:078][815]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.38.42:298][824]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.38.42:298][824]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.38.42:646][844]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.02.07-00.38.42:646][844]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.02.07-00.38.42:646][844]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.07-00.38.42:646][844]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.07-00.38.42:916][860]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.38.42:930][860]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.02.07-00.38.42:955][861]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.07-00.38.42:955][861]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.07-00.38.42:955][861]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.38.42:955][861]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.38.42:955][861]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.38.42:956][861]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.38.42:956][861]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.38.42:956][861]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.38.43:129][870]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.38.43:152][871]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.38.43:169][872]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.38.43:171][872]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.38.43:190][873]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.38.43:226][875]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.38.43:227][875]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.38.43:227][875]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.38.43:317][880]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.38.43:450][886]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.38.43:523][889]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.38.43:649][894]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.38.43:699][896]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.38.43:730][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.38.43:748][898]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.38.44:079][914]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.02.07-00.38.44:079][914]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.02.07-00.38.44:080][914]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.07-00.38.44:080][914]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.07-00.38.45:117][976]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.38.45:133][976]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.38.45:135][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.02.07-00.38.45:309][984]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.38.45:350][986]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.38.45:350][986]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.38.45:355][986]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.38.45:371][986]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.38.45:393][986]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.38.45:397][986]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.38.45:411][988]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.38.45:494][992]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.38.45:636][998]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.38.45:681][  0]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.38.45:830][  6]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.38.45:858][  7]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.38.45:858][  7]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.38.45:925][ 10]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.38.46:440][ 39]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.02.07-00.38.46:440][ 39]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.02.07-00.38.46:440][ 39]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.07-00.38.46:440][ 39]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.07-00.39.05:182][162]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.39.05:195][162]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.39.05:195][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.07-00.39.05:206][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.07-00.39.05:245][162]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.39.05:289][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.07-00.39.05:352][163]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.07-00.39.05:352][163]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.07-00.39.05:378][164]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.39.05:396][165]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.39.05:396][165]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.39.05:431][167]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.39.05:431][167]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.39.05:446][168]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.39.05:599][174]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.39.05:599][174]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.39.05:601][174]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.07-00.39.05:601][174]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.39.05:622][175]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.07-00.39.05:622][175]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.07-00.39.05:629][175]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.07-00.39.05:640][176]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.07-00.39.05:781][182]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.07-00.39.05:866][185]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.07-00.39.05:915][187]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.07-00.39.06:123][195]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.07-00.39.06:123][195]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.07-00.39.06:123][195]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.39.06:168][197]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.07-00.39.06:490][215]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.07-00.39.06:490][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.07-00.39.06:490][215]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.07-00.39.06:490][215]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.07-00.39.14:556][699]LogMaterialEditor: Saving and Compiling material Cart
+[2019.02.07-00.39.14:865][699]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.07-00.39.14:900][699]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.07-00.39.14:928][699]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.39.14:949][699]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.07-00.39.15:001][699]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cart, compiling. 
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.07-00.39.15:602][699]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.07-00.39.15:603][699]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.07-00.39.15:605][699]TextureStreamingBuild: Display: Compiling optional shaders took 0.611 seconds.
+[2019.02.07-00.39.17:402][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Cart" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart.uasset" SILENT=true
+[2019.02.07-00.39.17:413][699]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Cart863ADEBF47A7D36B15A04488542F2C5C.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart.uasset'
+[2019.02.07-00.39.20:607][890]LogSlate: Window 'Cart' being destroyed
+[2019.02.07-00.39.20:611][890]LogSlate: Window 'Cart' being destroyed
+[2019.02.07-00.39.41:395][130]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.40.27:888][902]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.41.07:561][250]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.42.44:329][ 18]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.42.45:450][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.07-00.42.45:537][ 71]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts9B5BDB0B42DC96E383129088971E9057.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.07-00.42.52:186][470]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.07-00.43.01:038][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.43.06:476][319]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.07-00.43.12:148][647]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.07-00.43.15:599][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.43.18:048][  0]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.07-00.43.19:898][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.43.26:465][504]LogTemp: Repeating last play command: Simulate
+[2019.02.07-00.43.26:483][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.43.26:483][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.43.26:487][504]PIE: New page: SIE session: Minimal_Default_2 (Feb 6, 2019, 2:43:26 PM)
+[2019.02.07-00.43.26:502][504]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.43.26:507][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005929s)
+[2019.02.07-00.43.26:508][504]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.43.26:508][504]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2019.02.07-00.43.26:508][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006990s)
+[2019.02.07-00.43.26:540][504]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.43.26:626][504]LogInit: FAudioDevice initialized.
+[2019.02.07-00.43.26:681][504]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.43.26:685][504]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.43.26
+[2019.02.07-00.43.26:692][504]LogWorld: Bringing up level for play took: 0.008303
+[2019.02.07-00.43.26:707][504]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.07-00.43.26:725][504]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.07-00.43.26:730][504]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.43.26:731][504]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.43.26:731][504]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.43.26:731][504]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.43.26:731][504]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.43.26:731][504]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.43.26:749][504]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.43.26:750][504]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.43.26:750][504]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.771
+[2019.02.07-00.43.26:770][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.43.27:448][544]LogBlueprintUserMessages: [MotionControllerPawn_2] 129
+[2019.02.07-00.43.28:649][616]LogBlueprintUserMessages: [MotionControllerPawn_2] 128
+[2019.02.07-00.43.29:849][687]LogBlueprintUserMessages: [MotionControllerPawn_2] 127
+[2019.02.07-00.43.31:015][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.43.31:134][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.43.31:134][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.43.31:171][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.43.31:171][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.43.31:200][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.43.31:244][767]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.07-00.43.32:678][853]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts3)
+[2019.02.07-00.43.33:850][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.43.40:716][334]LogTemp: Repeating last play command: Simulate
+[2019.02.07-00.43.40:727][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.43.40:727][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.43.40:727][334]PIE: New page: SIE session: Minimal_Default_2 (Feb 6, 2019, 2:43:40 PM)
+[2019.02.07-00.43.40:727][334]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.43.40:733][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005586s)
+[2019.02.07-00.43.40:733][334]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.43.40:734][334]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2019.02.07-00.43.40:734][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006177s)
+[2019.02.07-00.43.40:767][334]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.43.40:849][334]LogInit: FAudioDevice initialized.
+[2019.02.07-00.43.40:890][334]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.43.40:892][334]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.43.40
+[2019.02.07-00.43.40:893][334]LogWorld: Bringing up level for play took: 0.001775
+[2019.02.07-00.43.40:905][334]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.07-00.43.40:905][334]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.43.40:905][334]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.43.40:906][334]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.43.40:906][334]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.43.40:906][334]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.43.40:906][334]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.43.40:907][334]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.43.40:908][334]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.43.40:908][334]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.929
+[2019.02.07-00.43.40:914][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.43.41:707][382]LogBlueprintUserMessages: [MotionControllerPawn_2] 129
+[2019.02.07-00.43.42:906][454]LogBlueprintUserMessages: [MotionControllerPawn_2] 128
+[2019.02.07-00.43.44:107][526]LogBlueprintUserMessages: [MotionControllerPawn_2] 127
+[2019.02.07-00.43.45:307][598]LogBlueprintUserMessages: [MotionControllerPawn_2] 126
+[2019.02.07-00.43.46:507][670]LogBlueprintUserMessages: [MotionControllerPawn_2] 125
+[2019.02.07-00.43.47:707][742]LogBlueprintUserMessages: [MotionControllerPawn_2] 124
+[2019.02.07-00.43.48:908][814]LogBlueprintUserMessages: [MotionControllerPawn_2] 123
+[2019.02.07-00.43.50:107][886]LogBlueprintUserMessages: [MotionControllerPawn_2] 122
+[2019.02.07-00.43.51:076][944]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.07-00.43.51:310][958]LogBlueprintUserMessages: [MotionControllerPawn_2] 121
+[2019.02.07-00.43.52:510][ 30]LogBlueprintUserMessages: [MotionControllerPawn_2] 120
+[2019.02.07-00.43.53:711][102]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.07-00.43.54:911][174]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.07-00.43.56:111][246]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.07-00.43.57:311][318]LogBlueprintUserMessages: [MotionControllerPawn_2] 116
+[2019.02.07-00.43.58:511][390]LogBlueprintUserMessages: [MotionControllerPawn_2] 115
+[2019.02.07-00.43.58:928][415]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.02.07-00.43.59:711][462]LogBlueprintUserMessages: [MotionControllerPawn_2] 114
+[2019.02.07-00.44.00:010][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.44.00:128][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.44.00:129][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.44.00:164][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.44.00:164][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.44.00:192][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.44.00:236][490]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.07-00.44.12:470][152]LogSlate: Window 'Save Content' being destroyed
+[2019.02.07-00.44.12:501][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.07-00.44.12:589][152]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts5E074FF344300478DABC90A593B8A7E8.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.07-00.44.12:820][152]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_24AA9B9D54246BF2A765DB29D1EF60521.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.07-00.44.12:853][152]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.260
+[2019.02.07-00.44.57:512][824]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.02.07-00.45.05:411][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.45.08:327][469]LogTemp: Repeating last play command: Simulate
+[2019.02.07-00.45.08:339][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.45.08:339][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.45.08:339][469]PIE: New page: SIE session: Minimal_Default_2 (Feb 6, 2019, 2:45:08 PM)
+[2019.02.07-00.45.08:339][469]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.45.08:345][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006119s)
+[2019.02.07-00.45.08:345][469]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.45.08:346][469]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2019.02.07-00.45.08:346][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006879s)
+[2019.02.07-00.45.08:379][469]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.45.08:460][469]LogInit: FAudioDevice initialized.
+[2019.02.07-00.45.08:491][469]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.45.08:493][469]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.45.08
+[2019.02.07-00.45.08:493][469]LogWorld: Bringing up level for play took: 0.001775
+[2019.02.07-00.45.08:506][469]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.07-00.45.08:506][469]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.45.08:506][469]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.45.08:506][469]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.45.08:507][469]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.45.08:507][469]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.45.08:507][469]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.45.08:508][469]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.45.08:509][469]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.45.08:509][469]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.53
+[2019.02.07-00.45.08:515][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.45.09:326][517]LogBlueprintUserMessages: [MotionControllerPawn_2] 129
+[2019.02.07-00.45.10:527][589]LogBlueprintUserMessages: [MotionControllerPawn_2] 128
+[2019.02.07-00.45.11:729][661]LogBlueprintUserMessages: [MotionControllerPawn_2] 127
+[2019.02.07-00.45.12:928][733]LogBlueprintUserMessages: [MotionControllerPawn_2] 126
+[2019.02.07-00.45.14:129][805]LogBlueprintUserMessages: [MotionControllerPawn_2] 125
+[2019.02.07-00.45.15:329][877]LogBlueprintUserMessages: [MotionControllerPawn_2] 124
+[2019.02.07-00.45.16:529][949]LogBlueprintUserMessages: [MotionControllerPawn_2] 123
+[2019.02.07-00.45.17:728][ 21]LogBlueprintUserMessages: [MotionControllerPawn_2] 122
+[2019.02.07-00.45.18:929][ 93]LogBlueprintUserMessages: [MotionControllerPawn_2] 121
+[2019.02.07-00.45.20:129][165]LogBlueprintUserMessages: [MotionControllerPawn_2] 120
+[2019.02.07-00.45.21:331][237]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.07-00.45.22:313][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.45.22:431][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.45.22:431][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.45.22:462][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.45.22:462][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.45.22:487][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.45.22:530][306]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.02.07-00.45.32:628][844]LogSlate: Window 'Save Content' being destroyed
+[2019.02.07-00.45.32:872][844]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_25B2DB5EB42B71049813699973FF477FA.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.07-00.45.32:896][844]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.247
+[2019.02.07-00.45.48:876][803]LogEditorViewport: Clicking on Actor (LMB): Timer_C (Timer)
+[2019.02.07-00.45.54:159][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.45.54:248][124]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Timer.Timer
+[2019.02.07-00.46.14:449][319]LogSlate: Window 'Timer' being destroyed
+[2019.02.07-00.46.14:454][319]LogSlate: Window 'Timer' being destroyed
+[2019.02.07-00.46.15:707][391]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.02.07-00.46.17:396][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.46.17:517][496]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.02.07-00.46.31:972][334]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.02.07-00.47.02:257][114]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.02.07-00.47.07:731][414]LogEditorTransaction: Undo Resize Node
+[2019.02.07-00.47.11:386][622]LogEditorTransaction: Undo Delete current selection
+[2019.02.07-00.47.41:461][395]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/MotionControllerPawnDBFDB7084E28DCD43763E29776A7E0CB.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.02.07-00.47.43:683][528]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.02.07-00.50.01:037][719]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.02.07-00.53.24:445][836]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.02.07-00.53.25:797][883]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/MotionControllerPawnA62A60494CB8C68849D16CA96FCC44D4.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.02.07-00.53.33:979][373]LogEditorViewport: Clicking on Actor (LMB): Timer_C (Timer)
+[2019.02.07-00.53.39:308][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.53.45:257][ 47]LogTemp: Repeating last play command: Simulate
+[2019.02.07-00.53.45:287][ 47]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.53.45:287][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.53.45:288][ 47]PIE: New page: SIE session: Minimal_Default_2 (Feb 6, 2019, 2:53:45 PM)
+[2019.02.07-00.53.45:288][ 47]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.53.45:293][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005721s)
+[2019.02.07-00.53.45:294][ 47]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.53.45:294][ 47]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.02.07-00.53.45:294][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006445s)
+[2019.02.07-00.53.45:328][ 47]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.53.45:413][ 47]LogInit: FAudioDevice initialized.
+[2019.02.07-00.53.45:444][ 47]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.53.45:446][ 47]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.53.45
+[2019.02.07-00.53.45:447][ 47]LogWorld: Bringing up level for play took: 0.001803
+[2019.02.07-00.53.45:460][ 47]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.07-00.53.45:460][ 47]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.53.45:461][ 47]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.53.45:461][ 47]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.53.45:461][ 47]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.53.45:461][ 47]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.53.45:461][ 47]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.53.45:462][ 47]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.53.45:463][ 47]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.53.45:463][ 47]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 -0.516
+[2019.02.07-00.53.45:469][ 47]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.53.46:246][ 93]LogBlueprintUserMessages: [MotionControllerPawn_2] 59
+[2019.02.07-00.53.47:446][165]LogBlueprintUserMessages: [MotionControllerPawn_2] 58
+[2019.02.07-00.53.48:646][237]LogBlueprintUserMessages: [MotionControllerPawn_2] 57
+[2019.02.07-00.53.49:846][309]LogBlueprintUserMessages: [MotionControllerPawn_2] 56
+[2019.02.07-00.53.50:047][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.53.50:047][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.53.50:082][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.53.50:082][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.53.50:109][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.53.50:156][324]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.07-00.53.52:940][491]LogEditorViewport: Clicking on Actor (LMB): Timer_C (Timer)
+[2019.02.07-00.53.54:090][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.07-00.54.02:706][ 76]LogTemp: Repeating last play command: Simulate
+[2019.02.07-00.54.02:717][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.02:717][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.54.02:718][ 76]PIE: New page: SIE session: Minimal_Default_2 (Feb 6, 2019, 2:54:02 PM)
+[2019.02.07-00.54.02:718][ 76]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.54.02:723][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005292s)
+[2019.02.07-00.54.02:723][ 76]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.54.02:724][ 76]LogPlayLevel: PIE: World Init took: (0.000453s)
+[2019.02.07-00.54.02:724][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005881s)
+[2019.02.07-00.54.02:753][ 76]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.54.02:837][ 76]LogInit: FAudioDevice initialized.
+[2019.02.07-00.54.02:868][ 76]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.54.02:870][ 76]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.54.02
+[2019.02.07-00.54.02:870][ 76]LogWorld: Bringing up level for play took: 0.001702
+[2019.02.07-00.54.02:883][ 76]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.07-00.54.02:883][ 76]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.54.02:884][ 76]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.54.02:884][ 76]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.54.02:884][ 76]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.54.02:884][ 76]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.54.02:884][ 76]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.54.02:885][ 76]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.54.02:886][ 76]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.54.02:886][ 76]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.907
+[2019.02.07-00.54.02:892][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.03:701][125]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.07-00.54.04:900][197]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.07-00.54.06:101][269]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.07-00.54.07:301][341]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.07-00.54.08:501][413]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.07-00.54.09:701][485]LogBlueprintUserMessages: [MotionControllerPawn_2] 4
+[2019.02.07-00.54.10:502][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.10:503][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.54.10:540][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.54.10:540][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.10:570][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.54.10:614][536]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.07-00.54.13:062][682]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.13:063][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.54.13:063][682]PIE: New page: PIE session: Minimal_Default_2 (Feb 6, 2019, 2:54:13 PM)
+[2019.02.07-00.54.13:063][682]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.54.13:068][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005309s)
+[2019.02.07-00.54.13:068][682]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.54.13:069][682]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2019.02.07-00.54.13:069][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005920s)
+[2019.02.07-00.54.13:101][682]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.54.13:185][682]LogInit: FAudioDevice initialized.
+[2019.02.07-00.54.13:226][682]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.54.13:228][682]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.54.13
+[2019.02.07-00.54.13:229][682]LogWorld: Bringing up level for play took: 0.001721
+[2019.02.07-00.54.13:241][682]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.54.13:241][682]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.54.13:242][682]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.54.13:242][682]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.54.13:242][682]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.54.13:242][682]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.54.13:243][682]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.54.13:244][682]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.54.13:244][682]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 -0.735
+[2019.02.07-00.54.13:244][682]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.14:040][729]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.07-00.54.15:240][801]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.07-00.54.16:440][873]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.07-00.54.17:640][945]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.07-00.54.18:840][ 17]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.07-00.54.20:040][ 89]LogBlueprintUserMessages: [MotionControllerPawn_2] 4
+[2019.02.07-00.54.21:241][161]LogBlueprintUserMessages: [MotionControllerPawn_2] 3
+[2019.02.07-00.54.22:440][233]LogBlueprintUserMessages: [MotionControllerPawn_2] 2
+[2019.02.07-00.54.23:640][305]LogBlueprintUserMessages: [MotionControllerPawn_2] 1
+[2019.02.07-00.54.24:851][377]LogBlueprintUserMessages: [MotionControllerPawn_2] 0
+[2019.02.07-00.54.26:051][449]LogBlueprintUserMessages: [MotionControllerPawn_2] -1
+[2019.02.07-00.54.27:653][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.27:656][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.54.27:693][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.54.27:693][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.27:720][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.54.27:763][547]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.07-00.54.34:371][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.07-00.54.36:595][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.36:595][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.07-00.54.36:595][ 76]PIE: New page: SIE session: Minimal_Default_2 (Feb 6, 2019, 2:54:36 PM)
+[2019.02.07-00.54.36:595][ 76]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.07-00.54.36:601][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005531s)
+[2019.02.07-00.54.36:601][ 76]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.07-00.54.36:601][ 76]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2019.02.07-00.54.36:601][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006144s)
+[2019.02.07-00.54.36:633][ 76]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.07-00.54.36:716][ 76]LogInit: FAudioDevice initialized.
+[2019.02.07-00.54.36:717][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.07-00.54.36:744][ 76]LogLoad: Game class is 'GameModeBase'
+[2019.02.07-00.54.36:745][ 76]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.06-19.54.36
+[2019.02.07-00.54.36:747][ 76]LogWorld: Bringing up level for play took: 0.001761
+[2019.02.07-00.54.36:759][ 76]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.07-00.54.36:759][ 76]LogBlueprintUserMessages: [Scannables2] things
+[2019.02.07-00.54.36:759][ 76]LogBlueprintUserMessages: [Scannables3] things
+[2019.02.07-00.54.36:760][ 76]LogBlueprintUserMessages: [Scannables4] things
+[2019.02.07-00.54.36:760][ 76]LogBlueprintUserMessages: [Scannables5] things
+[2019.02.07-00.54.36:760][ 76]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.07-00.54.36:760][ 76]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.07-00.54.36:761][ 76]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.07-00.54.36:762][ 76]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.07-00.54.36:762][ 76]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.783
+[2019.02.07-00.54.36:764][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.37:565][123]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.07-00.54.38:449][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.38:449][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.54.38:487][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.07-00.54.38:488][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.07-00.54.38:516][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.07-00.54.38:560][179]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.07-00.54.41:088][264]LogSlate: Window 'Save Content' being destroyed
+[2019.02.07-00.54.41:096][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.07-00.54.41:337][264]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_29257A4EF48A1C7A06ED8F48AD0B08954.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.07-00.54.41:361][264]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.252
+[2019.02.07-00.56.21:677][224]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2019.02.07-00.56.21:679][224]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2019.02.07-00.56.23:622][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
