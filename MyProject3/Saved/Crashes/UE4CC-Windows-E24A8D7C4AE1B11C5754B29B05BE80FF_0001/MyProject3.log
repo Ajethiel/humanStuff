@@ -795,36 +795,3 @@ Right
 Script Stack (0 frames):
 
 [2019.02.12-03.59.40:589][307]LogWindows: Windows GetLastError: The operation completed successfully. (0)
-[2019.02.12-03.59.43:043][307]LogWindows: Error: === Critical error: ===
-[2019.02.12-03.59.43:043][307]LogWindows: Error: 
-[2019.02.12-03.59.43:043][307]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 363] 
-[2019.02.12-03.59.43:043][307]LogWindows: Error: SwapChain->ResizeBuffers(1, SizeX, SizeY, RenderTargetFormat, DXGI_SWAP_CHAIN_FLAG_ALLOW_MODE_SWITCH) failed 
-[2019.02.12-03.59.43:043][307]LogWindows: Error:  at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:257 
-[2019.02.12-03.59.43:043][307]LogWindows: Error:  with error DXGI_ERROR_INVALID_CALL, 
-[2019.02.12-03.59.43:043][307]LogWindows: Error:  Size=569x256 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)
-[2019.02.12-03.59.43:043][307]LogWindows: Error: 
-[2019.02.12-03.59.43:043][307]LogWindows: Error: 
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ffa1206a388 KERNELBASE.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c53ecd1a UE4Editor-Core.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c51ca967 UE4Editor-Core.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c5100df7 UE4Editor-Core.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9a9ec0b7f UE4Editor-D3D11RHI.dll!VerifyD3D11ResizeViewportResult() []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9a9eb90a2 UE4Editor-D3D11RHI.dll!FD3D11DynamicRHI::ReleasePooledUniformBuffers() []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9a9eb0141 UE4Editor-D3D11RHI.dll!FD3D11DynamicRHI::RHIResizeViewport() []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9a9c09b87 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9a9c22c68 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c41341e0 UE4Editor-Slate.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c40fe222 UE4Editor-Slate.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c415f5a6 UE4Editor-Slate.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff9c415e483 UE4Editor-Slate.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff76b3f7094 UE4Editor.exe!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff76b40596c UE4Editor.exe!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff76b4059ea UE4Editor.exe!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff76b4148da UE4Editor.exe!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ff76b41659a UE4Editor.exe!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ffa13fb3034 KERNEL32.DLL!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: [Callstack] 0x00007ffa15cd3691 ntdll.dll!UnknownFunction []
-[2019.02.12-03.59.43:043][307]LogWindows: Error: 
-[2019.02.12-03.59.43:057][307]LogExit: Executing StaticShutdownAfterError
-[2019.02.12-03.59.43:059][307]LogWindows: FPlatformMisc::RequestExit(1)
-[2019.02.12-03.59.43:070][307]Log file closed, 02/11/19 22:59:43
