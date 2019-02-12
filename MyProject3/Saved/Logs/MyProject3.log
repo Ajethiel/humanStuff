@@ -502,3 +502,1328 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.12-00.01.25:958][  0]LogInit: Transaction tracking system initialized
 [2019.02.12-00.01.26:045][  0]BlueprintLog: New page: Editor Load
 [2019.02.12-00.01.26:368][  0]LocalizationService: Localization service is disabled
+[2019.02.12-00.01.27:000][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Content/' took 0.02s
+[2019.02.12-00.01.27:000][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.12-00.01.27:000][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.12-00.01.27:000][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.12-00.01.27:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.12-00.01.27:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.12-00.01.27:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.12-00.01.27:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.12-00.01.27:363][  0]SourceControl: Source control is disabled
+[2019.02.12-00.01.27:365][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.12-00.01.27:366][  0]LightingResults: New page: Lighting Build
+[2019.02.12-00.01.27:382][  0]MapCheck: New page: Map Check
+[2019.02.12-00.01.27:382][  0]LightingResults: New page: Lighting Build
+[2019.02.12-00.01.28:218][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:221][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:224][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:228][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:231][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:233][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:243][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:247][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.12-00.01.28:450][  0]LogTexture: Display: Building textures: SodaBottle (AutoDXT, 512X512)
+[2019.02.12-00.01.28:450][  0]LogTexture: Display: Building textures: hs_sack (AutoDXT, 1024X1024)
+[2019.02.12-00.01.28:450][  0]LogTexture: Display: Building textures: pack (AutoDXT, 1024X1024)
+[2019.02.12-00.01.28:450][  0]LogMaterial: Display: Missing cached shader map for material pack_Mat, compiling. 
+[2019.02.12-00.01.28:502][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.01.28:502][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.01.28:502][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.01.28:502][  0]LoadErrors: Warning: hs_bomb Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.12-00.01.28:620][  0]LogMaterial: Display: Missing cached shader map for material hs_soda, compiling. 
+[2019.02.12-00.01.28:734][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.01.28:734][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.01.28:734][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.01.28:736][  0]LoadErrors: Warning: hs_register Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.12-00.01.28:757][  0]LogMaterial: Display: Missing cached shader map for material hs_sack_Mat, compiling. 
+[2019.02.12-00.01.28:772][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.01.28:772][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.01.28:772][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.01.28:772][  0]LogStaticMesh: Building static mesh hs_sack...
+[2019.02.12-00.01.28:786][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Objects/hs_sack.hs_sack
+[2019.02.12-00.01.29:151][  0]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.12-00.01.29:219][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.12-00.01.29:267][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.12-00.01.29:267][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.256ms to complete.
+[2019.02.12-00.01.29:267][  0]LogFileHelpers: Loading map 'Minimal_Default_2' took 1.903
+[2019.02.12-00.01.29:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.01.29:447][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.01.29:458][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.01.29:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.01.29:490][  0]LogCollectionManager: Loaded 0 collections in 0.002714 seconds
+[2019.02.12-00.01.29:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Collections/' took 0.01s
+[2019.02.12-00.01.29:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Content/Developers/Gretchen/Collections/' took 0.01s
+[2019.02.12-00.01.29:539][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Content/Collections/' took 0.00s
+[2019.02.12-00.01.29:539][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.12-00.01.29:557][  0]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2651 classes and 620 folders.
+[2019.02.12-00.01.29:576][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.12-00.01.29:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.12-00.01.29:800][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.12-00.01.29:815][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.12-00.01.30:034][  0]LogSlate: Took 0.002144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.12-00.01.30:039][  0]LogSlate: Took 0.002475 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.12-00.01.30:049][  0]LogSlate: Took 0.001377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.12-00.01.30:173][  0]LogRenderer: Reallocating scene render targets to support 936x436 Format 26 NumSamples 1 (Frame:1).
+[2019.02.12-00.01.30:378][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.12-00.01.30:378][  0]LogLoad: (Engine Initialization) Total time: 22.47 seconds
+[2019.02.12-00.01.30:378][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.12-00.01.30:457][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.12-00.01.30:460][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.01.30:501][  0]LogSlate: Took 0.001970 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.12-00.01.31:012][  6]LogAssetRegistry: Asset discovery search completed in 12.1986 seconds
+[2019.02.12-00.01.31:015][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.12-00.01.31:015][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.02.12-00.01.31:433][ 27]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.12-00.01.43:897][180]LogSlate: Window 'Message Log' being destroyed
+[2019.02.12-00.01.43:902][180]LogSlate: Window 'Message Log' being destroyed
+[2019.02.12-00.01.55:869][897]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.02.12-00.01.57:534][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.12-00.02.01:010][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.02.05:210][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.03.04:578][ 10]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.02.12-00.03.05:381][ 56]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.02.12-00.03.07:127][160]Cmd: DELETE
+[2019.02.12-00.03.07:127][160]Cmd: ACTOR DELETE
+[2019.02.12-00.03.07:145][160]LogEditorActor: Deleted Actor: PlayerStart
+[2019.02.12-00.03.07:171][160]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.02.12-00.03.08:428][236]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.02.12-00.03.09:095][273]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.12-00.06.28:570][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.07.02:197][591]LogSlate: Window 'Save Content' being destroyed
+[2019.02.12-00.07.02:451][591]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_28F903BE54065C611227C8F86742FC062.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.12-00.07.02:479][591]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.236
+[2019.02.12-00.12.33:966][658]LogEditorViewport: Clicking on Actor (LMB): Scanner_C (Scanner)
+[2019.02.12-00.12.35:726][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.12.35:832][767]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.02.12-00.12.36:246][767]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.02.12-00.12.36:930][767]LogSlate: Took 0.001865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.12-00.13.33:514][136]LogSlate: Took 0.004555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.12-00.13.50:468][148]BlueprintLog: New page: Compile Scanner
+[2019.02.12-00.13.51:483][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.02.12-00.13.51:566][196]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Scanner1186EFA54565474B6C6BE8BD18660F84.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.02.12-00.13.58:618][619]LogEditorTransaction: Undo Change Object Pin Value
+[2019.02.12-00.13.59:204][653]LogEditorTransaction: Undo Create Pin Link
+[2019.02.12-00.15.08:323][782]BlueprintLog: New page: Compile Scanner
+[2019.02.12-00.15.10:492][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.02.12-00.15.10:573][900]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Scanner0AFC4B544AE43596C75102AF313AF398.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.02.12-00.15.25:099][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
+[2019.02.12-00.15.25:174][236]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ScannerD045710B4FD2697BA5128A8118014235.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
+[2019.02.12-00.15.30:316][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.15.30:316][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-00.15.30:320][543]PIE: New page: PIE session: Minimal_Default_2 (Feb 11, 2019, 2:15:30 PM)
+[2019.02.12-00.15.30:335][543]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.12-00.15.30:341][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005331s)
+[2019.02.12-00.15.30:341][543]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.12-00.15.30:342][543]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2019.02.12-00.15.30:342][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006158s)
+[2019.02.12-00.15.30:373][543]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.12-00.15.30:446][543]LogInit: FAudioDevice initialized.
+[2019.02.12-00.15.30:499][543]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-00.15.30:502][543]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.11-19.15.30
+[2019.02.12-00.15.30:507][543]LogWorld: Bringing up level for play took: 0.005226
+[2019.02.12-00.15.30:534][543]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.12-00.15.30:536][543]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.12-00.15.30:536][543]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.12-00.15.30:548][543]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.12-00.15.30:549][543]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.12-00.15.30:549][543]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.244
+[2019.02.12-00.15.30:549][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.15.31:283][586]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.12-00.15.32:483][658]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.12-00.15.33:683][730]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.12-00.15.34:101][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.15.34:101][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.15.34:141][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-00.15.34:141][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.15.34:171][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.15.34:215][758]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.12-00.15.38:752][ 29]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.02.12-00.15.41:552][194]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.02.12-00.15.50:574][732]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.02.12-00.15.54:261][950]LogEditorViewport: Clicking on Actor (LMB): Timer_C (Timer)
+[2019.02.12-00.15.58:005][172]LogEditorViewport: Clicking on Actor (LMB): Trash_C (Trash3)
+[2019.02.12-00.16.06:040][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.16.08:083][775]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.08:083][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-00.16.08:083][775]PIE: New page: SIE session: Minimal_Default_2 (Feb 11, 2019, 2:16:08 PM)
+[2019.02.12-00.16.08:083][775]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.12-00.16.08:088][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005282s)
+[2019.02.12-00.16.08:088][775]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.12-00.16.08:089][775]LogPlayLevel: PIE: World Init took: (0.000481s)
+[2019.02.12-00.16.08:089][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005875s)
+[2019.02.12-00.16.08:120][775]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.12-00.16.08:196][775]LogInit: FAudioDevice initialized.
+[2019.02.12-00.16.08:196][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.16.08:237][775]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-00.16.08:238][775]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.11-19.16.08
+[2019.02.12-00.16.08:239][775]LogWorld: Bringing up level for play took: 0.001309
+[2019.02.12-00.16.08:250][775]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.12-00.16.08:251][775]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.12-00.16.08:251][775]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.12-00.16.08:252][775]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.12-00.16.08:253][775]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.12-00.16.08:253][775]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 -0.052
+[2019.02.12-00.16.08:282][775]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.09:054][820]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.12-00.16.10:254][892]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.12-00.16.11:454][964]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.12-00.16.12:654][ 36]LogBlueprintUserMessages: [MotionControllerPawn_2] 116
+[2019.02.12-00.16.13:854][108]LogBlueprintUserMessages: [MotionControllerPawn_2] 115
+[2019.02.12-00.16.15:054][180]LogBlueprintUserMessages: [MotionControllerPawn_2] 114
+[2019.02.12-00.16.16:269][252]LogBlueprintUserMessages: [MotionControllerPawn_2] 113
+[2019.02.12-00.16.17:468][324]LogBlueprintUserMessages: [MotionControllerPawn_2] 112
+[2019.02.12-00.16.18:503][386]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.18:504][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.16.18:538][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-00.16.18:538][386]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.18:568][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.16.18:611][389]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.02.12-00.16.22:907][579]LogSlate: Window 'Save Content' being destroyed
+[2019.02.12-00.16.22:915][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.16.23:169][579]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_2C064164048BCF52438ABC4A3E331AF1A.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.12-00.16.23:194][579]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.266
+[2019.02.12-00.16.26:772][794]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.02.12-00.16.31:787][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.16.34:112][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.34:112][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-00.16.34:112][230]PIE: New page: PIE session: Minimal_Default_2 (Feb 11, 2019, 2:16:34 PM)
+[2019.02.12-00.16.34:112][230]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.12-00.16.34:117][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005312s)
+[2019.02.12-00.16.34:118][230]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.12-00.16.34:118][230]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2019.02.12-00.16.34:118][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005946s)
+[2019.02.12-00.16.34:175][230]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.12-00.16.34:250][230]LogInit: FAudioDevice initialized.
+[2019.02.12-00.16.34:251][230]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.16.34:279][230]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-00.16.34:281][230]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.11-19.16.34
+[2019.02.12-00.16.34:281][230]LogWorld: Bringing up level for play took: 0.001312
+[2019.02.12-00.16.34:294][230]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.12-00.16.34:294][230]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.12-00.16.34:295][230]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.12-00.16.34:296][230]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.12-00.16.34:296][230]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 -0.008
+[2019.02.12-00.16.34:296][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.35:089][277]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.12-00.16.36:289][349]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.12-00.16.37:489][421]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.12-00.16.37:840][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.37:840][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.16.37:875][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-00.16.37:875][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.16.37:902][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.16.37:946][445]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.12-00.16.42:513][719]LogEditorViewport: Clicking on Actor (LMB): Timer_C (Timer)
+[2019.02.12-00.16.49:830][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.16.51:620][163]LogSlate: Window 'Save Content' being destroyed
+[2019.02.12-00.16.51:630][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.16.51:877][163]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_22B4B6063494938A3290599B50E320B3D.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.12-00.16.51:903][163]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.260
+[2019.02.12-00.17.06:116][438]LogSlate: Window 'Scanner' being destroyed
+[2019.02.12-00.17.06:119][438]LogSlate: Window 'Scanner' being destroyed
+[2019.02.12-00.17.12:017][586]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts3)
+[2019.02.12-00.17.15:682][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.17.15:820][813]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.12-00.19.45:929][787]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.12-00.19.46:743][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.12-00.19.46:850][817]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts46C4B4034734E6C843B5A6821380B129.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.12-00.19.48:057][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.20.43:546][184]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.12-00.20.45:458][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.12-00.20.45:566][281]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts5B8D10F447CB7DCB96F0DE8E1F1B9BE4.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.12-00.20.46:224][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.20.48:272][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.12-00.20.48:374][442]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts7FE12B394806AC00BFB6178D7BB5DD7C.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.12-00.20.54:225][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.20.55:411][634]LogSlate: Window 'ShoppingCarts' being destroyed
+[2019.02.12-00.20.55:417][634]LogSlate: Window 'ShoppingCarts' being destroyed
+[2019.02.12-00.20.58:039][788]LogEditorViewport: Clicking on Actor (LMB): Conveyor_C (Conveyor)
+[2019.02.12-00.21.01:773][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.21.01:911][ 19]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Conveyor.Conveyor
+[2019.02.12-00.21.49:702][865]BlueprintLog: New page: Compile Conveyor
+[2019.02.12-00.22.13:649][292]BlueprintLog: New page: Compile Conveyor
+[2019.02.12-00.22.26:612][715]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/InGame.InGame
+[2019.02.12-00.23.52:195][496]BlueprintLog: New page: Compile InGame
+[2019.02.12-00.23.52:894][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/InGame.uasset" SILENT=true
+[2019.02.12-00.23.52:969][534]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/InGame8E0CDF7A4BAE48553C661EA030539504.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/InGame.uasset'
+[2019.02.12-00.24.09:689][537]LogEditorViewport: Clicking on Actor (LMB): Timer_C (Timer)
+[2019.02.12-00.24.11:307][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.24.14:273][811]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.12-00.24.14:291][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.14:291][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-00.24.14:291][811]PIE: New page: PIE session: Minimal_Default_2 (Feb 11, 2019, 2:24:14 PM)
+[2019.02.12-00.24.14:291][811]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.12-00.24.14:297][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005552s)
+[2019.02.12-00.24.14:297][811]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.12-00.24.14:297][811]LogPlayLevel: PIE: World Init took: (0.000445s)
+[2019.02.12-00.24.14:297][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006100s)
+[2019.02.12-00.24.14:332][811]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.12-00.24.14:412][811]LogInit: FAudioDevice initialized.
+[2019.02.12-00.24.14:448][811]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-00.24.14:450][811]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.11-19.24.14
+[2019.02.12-00.24.14:450][811]LogWorld: Bringing up level for play took: 0.001355
+[2019.02.12-00.24.14:463][811]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.12-00.24.14:463][811]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.12-00.24.14:465][811]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.12-00.24.14:465][811]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.12-00.24.14:465][811]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.161
+[2019.02.12-00.24.14:466][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.15:272][859]LogBlueprintUserMessages: [MotionControllerPawn_2] 1
+[2019.02.12-00.24.16:472][931]LogBlueprintUserMessages: [MotionControllerPawn_2] 0
+[2019.02.12-00.24.17:673][  3]LogBlueprintUserMessages: [MotionControllerPawn_2] -1
+[2019.02.12-00.24.20:175][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.20:178][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.24.20:212][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-00.24.20:213][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.20:242][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.24.20:287][156]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.12-00.24.48:662][696]BlueprintLog: New page: Compile InGame
+[2019.02.12-00.24.49:531][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/InGame.uasset" SILENT=true
+[2019.02.12-00.24.49:603][744]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/InGame92E2559840DD60EB06DF79A0E2353A60.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/InGame.uasset'
+[2019.02.12-00.24.53:273][964]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.12-00.24.53:289][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.53:289][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.12-00.24.53:289][964]PIE: New page: PIE session: Minimal_Default_2 (Feb 11, 2019, 2:24:53 PM)
+[2019.02.12-00.24.53:289][964]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.12-00.24.53:295][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005270s)
+[2019.02.12-00.24.53:295][964]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.12-00.24.53:295][964]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.02.12-00.24.53:295][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005858s)
+[2019.02.12-00.24.53:326][964]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.12-00.24.53:402][964]LogInit: FAudioDevice initialized.
+[2019.02.12-00.24.53:430][964]LogLoad: Game class is 'GameModeBase'
+[2019.02.12-00.24.53:432][964]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.11-19.24.53
+[2019.02.12-00.24.53:432][964]LogWorld: Bringing up level for play took: 0.001308
+[2019.02.12-00.24.53:445][964]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.12-00.24.53:445][964]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.12-00.24.53:446][964]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.12-00.24.53:447][964]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.12-00.24.53:447][964]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 1.142
+[2019.02.12-00.24.53:447][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.54:268][ 13]LogBlueprintUserMessages: [MotionControllerPawn_2] 1
+[2019.02.12-00.24.55:467][ 85]LogBlueprintUserMessages: [MotionControllerPawn_2] 0
+[2019.02.12-00.24.56:668][157]LogBlueprintUserMessages: [MotionControllerPawn_2] -1
+[2019.02.12-00.24.59:354][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.59:357][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.24.59:391][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.12-00.24.59:392][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.12-00.24.59:425][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.12-00.24.59:454][320]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.12-00.25.13:102][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/InGame.uasset" SILENT=true
+[2019.02.12-00.25.13:175][118]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/InGame6FAC82FE4747578A2C31ADA0572A4711.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/UI/InGame.uasset'
+[2019.02.12-00.25.31:757][526]LogSlate: Window 'InGame' being destroyed
+[2019.02.12-00.25.45:662][354]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scannables.Scannables
+[2019.02.12-00.27.02:481][925]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_2_Auto19E91D44F4B6DF54D69520AB51D098ACB.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_2_Auto1.umap'
+[2019.02.12-00.27.02:484][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.247
+[2019.02.12-00.27.02:484][925]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.247
+[2019.02.12-00.27.02:489][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Conveyor] ([1] browsable assets)...
+[2019.02.12-00.27.02:489][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Conveyor]
+[2019.02.12-00.27.02:570][925]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Conveyor_Auto16290E50744DFE473D41B38A4838E098B.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/Conveyor_Auto1.uasset'
+[2019.02.12-00.27.02:572][925]LogFileHelpers: Auto-saving content packages took 0.083
+[2019.02.12-00.27.58:935][302]BlueprintLog: New page: Compile Scannables
+[2019.02.12-00.32.44:363][397]BlueprintLog: New page: Compile Scannables
+[2019.02.12-00.32.50:359][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.02.12-00.32.50:472][740]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ScannablesC34CB4A64EFBA0C6A048F2B0AB486761.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.02.12-00.33.19:984][378]LogSlate: Window 'Scannables' being destroyed
+[2019.02.12-00.33.19:990][378]LogSlate: Window 'Scannables' being destroyed
+[2019.02.12-00.33.22:037][438]LogSlate: Window 'Save Content' being destroyed
+[2019.02.12-00.33.22:059][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Conveyor" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Conveyor.uasset" SILENT=true
+[2019.02.12-00.33.22:142][438]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Conveyor28A12C46401C51E568C7C3B621AD5CA5.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Conveyor.uasset'
+[2019.02.12-00.33.22:384][438]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_25F59D3614FF59AAD83B1BEB661642FE0.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.12-00.33.22:410][438]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.263
+[2019.02.12-00.34.02:197][927]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.12-00.34.08:226][283]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Spawner.Spawner
+[2019.02.12-00.34.19:314][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Spawner.uasset" SILENT=true
+[2019.02.12-00.34.19:429][927]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Spawner293A5A804E15E1F08B45F4999C0E6C9F.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Spawner.uasset'
+[2019.02.12-00.43.51:333][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Spawner.uasset" SILENT=true
+[2019.02.12-00.43.51:444][236]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Spawner90ABB03B4EEBC5A2103D55B59E48E120.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Spawner.uasset'
+[2019.02.12-00.43.55:101][455]LogSlate: Window 'Spawner' being destroyed
+[2019.02.12-00.43.55:106][455]LogSlate: Window 'Spawner' being destroyed
+[2019.02.12-00.43.56:761][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.12-00.43.58:361][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxCentered3)
+[2019.02.12-00.43.59:068][687]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.12-00.44.14:237][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.44.14:343][602]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.12-00.44.32:334][650]LogSlate: Took 0.002112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.12-00.44.41:568][194]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.12-00.44.47:772][540]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.12-00.45.26:912][854]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.12-00.45.27:620][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.12-00.45.27:731][878]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/ShoppingCarts4381037A42E46CE2C7336C9D6BADB096.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.12-00.45.32:169][144]LogSlate: Window 'ShoppingCarts' being destroyed
+[2019.02.12-00.45.32:174][144]LogSlate: Window 'ShoppingCarts' being destroyed
+[2019.02.12-00.45.45:104][914]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Cart.Cart
+[2019.02.12-00.45.45:109][914]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.45.45:487][914]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.45.45:500][914]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.45:515][914]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.45:544][914]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.45.45:971][927]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.46:010][929]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.46:011][929]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.45.46:026][930]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.45.46:026][930]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.45.46:083][933]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.45.46:083][933]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.45.46:098][934]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.45.46:156][937]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.45.46:338][944]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.45.46:410][947]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.45.46:543][951]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.45.46:567][953]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.45.46:589][954]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.45.46:646][957]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.45.46:956][973]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.45.46:957][973]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.45.46:957][973]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.45.46:957][973]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.45.51:467][241]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.51:485][241]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.51:488][241]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.45.51:665][248]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.51:709][250]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.51:731][251]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.45.51:731][251]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.45.51:731][251]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.45.51:753][252]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.45.51:773][253]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.45.51:778][253]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.45.51:884][258]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.45.52:037][264]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.45.52:089][266]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.45.52:267][273]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.45.52:291][274]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.45.52:291][274]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.45.52:337][276]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.45.52:644][292]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.45.52:644][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.45.52:644][292]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.45.52:644][292]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.45.54:197][385]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.45.54:214][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.54:229][385]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.54:406][393]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.54:449][395]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.54:461][396]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.45.54:461][396]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.45.54:466][396]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.45.54:505][398]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.45.54:506][398]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.45.54:506][398]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.45.54:570][401]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.45.54:744][408]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.45.54:845][412]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.45.55:005][418]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.45.55:025][419]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.45.55:072][421]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.45.55:075][421]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.45.55:091][421]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.45.55:118][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.45.55:134][421]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.12-00.45.55:134][421]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.45.55:146][421]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.12-00.45.55:189][423]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.45.55:275][427]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.45.55:297][428]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.45.55:375][432]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.45.55:439][435]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.45.55:439][435]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.45.55:458][436]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.45.55:477][437]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.45.55:498][438]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.45.55:498][438]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.45.55:517][439]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.45.55:576][442]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.45.55:610][444]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.45.55:633][445]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.45.55:651][446]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.45.55:805][453]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.45.55:910][458]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.45.55:998][462]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.45.56:041][464]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.45.56:057][465]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.45.56:102][467]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.45.56:449][486]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.45.56:449][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.45.56:449][486]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.45.56:449][486]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.01:549][791]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.01:564][791]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.01:564][791]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.01:565][791]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.01:565][791]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.01:565][791]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.01:565][791]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.01:565][791]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.01:565][791]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.01:573][791]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.01:755][798]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.01:778][799]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.01:797][800]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.01:798][800]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.01:803][800]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.01:839][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.01:843][802]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.01:843][802]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.01:921][806]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.02:104][813]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.02:156][815]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.02:287][820]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.02:366][823]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.02:397][824]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.02:398][824]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.02:785][843]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.02:803][843]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.02:818][843]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.02:830][843]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.12-00.46.03:019][852]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.03:048][853]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.03:048][853]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.03:048][853]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.03:067][854]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.03:101][856]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.03:121][857]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.03:121][857]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.03:184][860]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.03:333][866]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.03:410][869]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.03:586][876]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.03:586][876]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.03:611][877]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.03:637][878]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.03:735][883]LogMaterialEditor: Applying material Cart
+[2019.02.12-00.46.04:071][883]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.04:107][883]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.04:143][883]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.04:167][883]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.04:242][883]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cart, compiling. 
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.04:831][883]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.04:832][883]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.04:834][883]TextureStreamingBuild: Display: Compiling optional shaders took 0.600 seconds.
+[2019.02.12-00.46.06:043][953]LogSlate: Window 'Cart*' being destroyed
+[2019.02.12-00.46.06:046][953]LogSlate: Window 'Cart*' being destroyed
+[2019.02.12-00.46.12:589][288]LogSlate: Window 'Save Content' being destroyed
+[2019.02.12-00.46.12:620][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Cart" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart.uasset" SILENT=true
+[2019.02.12-00.46.12:693][288]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/CartFAE5F8B940B41C5A282C63918BF2764F.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart.uasset'
+[2019.02.12-00.46.12:937][288]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_29000C1EB454F100C2EA68DA655B29CB7.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.12-00.46.12:964][288]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.266
+[2019.02.12-00.46.15:038][412]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Cart.Cart
+[2019.02.12-00.46.15:040][412]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.15:123][412]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.15:135][412]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.15:163][412]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.15:177][412]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.15:341][412]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.15:377][414]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.15:377][414]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.15:377][414]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.15:377][414]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.15:412][416]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.15:412][416]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.15:430][417]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.15:479][420]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.15:643][427]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.15:717][430]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.15:951][440]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.16:000][442]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.16:000][442]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.16:000][442]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.16:350][461]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.16:351][461]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.16:351][461]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.16:351][461]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.18:331][579]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.18:347][579]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.18:350][579]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.18:526][586]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.18:579][588]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.18:579][588]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.18:594][589]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.18:595][589]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.18:622][590]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.18:638][591]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.18:638][591]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.18:700][594]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.18:884][601]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.18:962][604]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.19:172][612]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.19:173][612]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.19:197][613]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.19:197][613]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.19:383][622]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.19:394][622]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.19:394][622]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.19:394][622]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.19:394][622]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.19:405][622]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.19:420][622]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.19:432][622]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.12-00.46.19:451][623]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.19:500][626]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.19:572][629]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.19:611][631]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.19:632][632]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.19:671][634]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.19:707][636]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.19:707][636]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.19:723][637]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.19:723][637]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.19:740][638]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.19:790][641]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.19:980][650]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.20:030][652]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.20:145][657]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.20:219][660]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.20:241][661]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.20:286][663]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.20:563][677]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.20:563][677]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.20:563][677]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.20:563][677]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.21:614][740]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.21:629][740]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.21:632][740]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.21:814][747]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.21:875][749]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.21:875][749]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.21:875][749]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.21:894][750]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.21:919][751]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.21:944][752]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.21:944][752]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.22:012][755]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.22:166][760]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.22:230][762]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.22:427][770]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.22:449][771]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.22:466][772]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.22:466][772]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.22:671][783]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.22:683][783]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.22:683][783]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.22:683][783]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.22:683][783]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.22:683][783]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.22:689][783]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.22:732][784]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.22:769][786]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.22:848][789]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.22:921][792]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.22:921][792]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.22:925][792]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.22:951][793]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.22:975][794]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.22:980][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.22:980][794]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.23:000][795]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.23:084][798]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.23:229][803]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.23:277][805]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.23:412][810]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.23:476][813]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.23:495][814]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.23:514][814]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.23:532][814]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.23:538][814]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.23:542][814]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.23:560][814]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.23:572][814]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.12-00.46.23:652][818]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.23:697][820]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.23:763][823]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.23:851][827]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.23:851][827]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.23:851][827]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.23:871][828]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.23:908][830]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.23:924][831]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.23:924][831]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.23:961][833]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.24:024][836]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.24:086][838]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.24:086][838]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.24:086][838]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.24:203][844]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.24:379][851]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.24:421][853]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.24:449][854]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.24:471][855]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.24:515][857]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.24:868][874]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.24:868][874]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.24:868][874]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.24:868][874]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.26:418][967]LogMaterialEditor: Applying material Cart
+[2019.02.12-00.46.26:721][967]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.26:756][967]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.26:800][967]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.26:820][967]LogMaterial: Display: Missing cached shader map for material Cart, compiling. 
+[2019.02.12-00.46.26:877][967]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cart, compiling. 
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.27:481][967]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.27:483][967]TextureStreamingBuild: Display: Compiling optional shaders took 0.611 seconds.
+[2019.02.12-00.46.28:179][  6]LogMaterialEditor: Saving and Compiling material Cart
+[2019.02.12-00.46.29:441][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Cart" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart.uasset" SILENT=true
+[2019.02.12-00.46.29:514][  6]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/CartA877033D44C3AEA239E15281D91F2608.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart.uasset'
+[2019.02.12-00.46.29:534][  6]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.29:534][  6]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.29:534][  6]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.29:534][  6]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.30:475][ 63]LogSlate: Window 'Cart' being destroyed
+[2019.02.12-00.46.30:479][ 63]LogSlate: Window 'Cart' being destroyed
+[2019.02.12-00.46.35:096][334]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.35:114][335]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.35:114][335]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.35:114][335]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.37:970][505]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.46.37:993][507]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.37:993][507]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.37:993][507]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.44:003][866]LogMaterial: Display: Missing cached shader map for material Cart3, compiling. 
+[2019.02.12-00.46.44:021][867]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.44:021][867]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.44:021][867]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.44:895][919]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Cart1.Cart1
+[2019.02.12-00.46.44:898][919]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.44:910][919]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.44:910][919]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.44:910][919]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.44:910][919]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.44:910][919]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.44:910][919]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.44:977][919]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.45:008][919]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.45:070][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.45:146][919]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.12-00.46.45:147][919]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.45:147][919]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.45:172][919]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.45:172][919]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.45:172][919]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.45:367][924]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.45:400][926]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.45:400][926]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.45:400][926]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.45:400][926]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.45:400][926]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.45:418][927]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.45:549][934]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.45:569][935]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.45:610][937]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.45:718][942]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.45:883][949]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.45:967][952]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.45:987][953]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.45:989][953]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.46:147][960]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.46:197][962]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.46:519][977]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.46:519][977]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.46:519][977]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.46:519][977]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.50:689][226]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.50:706][226]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.50:721][226]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.50:899][234]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.50:925][235]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.50:931][235]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.50:947][236]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.50:947][236]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.50:984][238]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.50:984][238]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.50:984][238]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.51:050][241]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.51:228][248]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.51:285][250]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.51:409][254]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.51:439][255]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.51:482][257]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.51:531][259]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.51:833][275]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.51:833][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.51:833][275]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.51:833][275]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.53:090][350]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.53:103][350]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.53:105][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.53:280][356]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.53:310][357]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.53:348][359]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.53:348][359]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.53:348][359]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.53:372][360]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.53:377][360]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.53:377][360]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.53:435][363]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.53:612][370]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.53:664][372]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.53:844][379]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.53:871][380]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.53:916][382]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.53:916][382]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.54:285][401]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.54:302][401]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.54:303][401]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.46.54:329][401]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.12-00.46.54:511][410]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.54:554][412]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.54:554][412]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.46.54:566][413]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.54:588][414]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.46.54:604][415]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.46.54:604][415]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.46.54:623][416]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.46.54:693][420]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.46.54:869][428]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.46.54:921][430]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.46.55:127][438]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.46.55:150][439]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.46.55:179][440]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.55:200][441]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.46.55:337][448]LogMaterialEditor: Applying material Cart1
+[2019.02.12-00.46.55:681][448]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.46.55:715][448]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.46.55:716][448]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.46.55:746][448]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.55:768][448]LogMaterial: Display: Missing cached shader map for material Cart1, compiling. 
+[2019.02.12-00.46.55:825][448]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cart1, compiling. 
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.46.56:513][448]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.46.56:515][448]TextureStreamingBuild: Display: Compiling optional shaders took 0.697 seconds.
+[2019.02.12-00.46.58:887][587]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.46.58:887][587]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.46.58:887][587]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.46.58:887][587]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.46.59:670][634]LogSlate: Window 'Cart1*' being destroyed
+[2019.02.12-00.46.59:675][634]LogSlate: Window 'Cart1*' being destroyed
+[2019.02.12-00.47.04:444][916]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.12-00.47.05:983][  7]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.12-00.47.07:782][114]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts3)
+[2019.02.12-00.47.10:049][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.47.18:399][750]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.12-00.47.19:632][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.47.25:665][185]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.12-00.47.33:565][658]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts3)
+[2019.02.12-00.47.35:047][746]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.12-00.47.36:548][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.47.36:721][845]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Cart2.Cart2
+[2019.02.12-00.47.36:724][845]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.36:800][845]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.36:812][845]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.36:824][845]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.36:851][845]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.47.37:258][858]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.37:313][861]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.37:313][861]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.47.37:332][862]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.47.37:332][862]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.47.37:368][864]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.47.37:385][865]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.47.37:385][865]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.47.37:437][868]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.47.37:634][877]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.47.37:684][879]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.47.37:865][886]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.47.37:890][887]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.47.37:911][888]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.47.37:935][889]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.47.38:307][909]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.47.38:307][909]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.47.38:307][909]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.47.38:307][909]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.47.41:140][ 78]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.41:158][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.41:173][ 78]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.41:345][ 85]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.41:390][ 87]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.41:390][ 87]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.47.41:407][ 88]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.47.41:408][ 88]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.47.41:432][ 89]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.47.41:432][ 89]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.47.41:432][ 89]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.47.41:519][ 93]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.47.41:675][ 98]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.47.41:730][100]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.47.41:928][107]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.47.41:928][107]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.47.41:953][108]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.47.41:978][109]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.47.42:307][126]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.47.42:307][126]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.47.42:307][126]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.47.42:307][126]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.47.44:129][235]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.44:150][235]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.44:150][235]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.47.44:319][242]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.44:384][245]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.44:404][246]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.47.44:404][246]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.47.44:404][246]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.47.44:423][247]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.47.44:423][247]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.47.44:427][247]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.47.44:503][251]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.47.44:718][259]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.47.44:775][261]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.47.44:904][266]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.47.44:932][267]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.47.44:957][268]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.47.45:003][270]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.47.45:307][286]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.47.45:307][286]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.47.45:307][286]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.47.45:307][286]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.47.46:109][334]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.46:125][334]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.46:128][334]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.12-00.47.46:155][334]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.12-00.47.46:321][342]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.46:341][343]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.46:366][344]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.12-00.47.46:377][345]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.47.46:377][345]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.12-00.47.46:402][346]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.12-00.47.46:422][347]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.12-00.47.46:422][347]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.12-00.47.46:481][350]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.12-00.47.46:656][357]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.12-00.47.46:727][360]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.12-00.47.46:867][366]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.12-00.47.46:897][366]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.12-00.47.46:933][368]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.47.46:953][369]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.12-00.47.47:271][386]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.12-00.47.47:271][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.12-00.47.47:272][386]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.12-00.47.47:272][386]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.12-00.47.47:404][394]LogMaterialEditor: Applying material Cart2
+[2019.02.12-00.47.47:703][394]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.12-00.47.47:744][394]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.12-00.47.47:769][394]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.47:788][394]LogMaterial: Display: Missing cached shader map for material Cart2, compiling. 
+[2019.02.12-00.47.47:841][394]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Cart2, compiling. 
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.12-00.47.48:451][394]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.12-00.47.48:453][394]TextureStreamingBuild: Display: Compiling optional shaders took 0.621 seconds.
+[2019.02.12-00.47.49:329][444]LogSlate: Window 'Cart2*' being destroyed
+[2019.02.12-00.47.49:333][444]LogSlate: Window 'Cart2*' being destroyed
+[2019.02.12-00.47.50:672][520]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts3)
+[2019.02.12-00.47.52:443][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.47.54:763][764]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.12-00.47.56:139][845]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.48.00:360][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box)
+[2019.02.12-00.48.01:557][168]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.12-00.48.03:594][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.12-00.48.04:709][293]LogSlate: Window 'Save Content' being destroyed
+[2019.02.12-00.48.04:718][293]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.12-00.48.04:740][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Cart1" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart1.uasset" SILENT=true
+[2019.02.12-00.48.04:752][293]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Cart10C8FD09C42F20C2E4B0490865E319DBC.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart1.uasset'
+[2019.02.12-00.48.04:766][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Cart2" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart2.uasset" SILENT=true
+[2019.02.12-00.48.04:778][293]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Cart218AC1B674DBE2154B7C8509076C2A983.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart2.uasset'
+[2019.02.12-00.48.04:792][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Cart3" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart3.uasset" SILENT=true
+[2019.02.12-00.48.04:803][293]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Cart3B361A2014DE0C487766A49A58F11B272.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Materials/Cart3.uasset'
+[2019.02.12-00.48.05:044][293]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_27B5522A641C81E7E6346059245A22B6B.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.12-00.48.05:069][293]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.262
