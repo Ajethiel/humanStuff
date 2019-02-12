@@ -646,20 +646,3 @@ Script Stack (0 frames):
 [2019.02.12-03.55.50:550][ 37]LogOutputDevice: Error: [Callstack] 0x00007ffa15cd3691 ntdll.dll!UnknownFunction []
 [2019.02.12-03.55.50:550][ 37]LogOutputDevice: Error: 
 [2019.02.12-03.55.50:555][ 37]LogStats:                SubmitErrorReport -  0.000 s
-[2019.02.12-03.55.51:219][ 37]LogStats:                    SendNewReport -  0.665 s
-[2019.02.12-03.55.51:219][ 37]LogStats:             FDebug::EnsureFailed -  0.909 s
-[2019.02.12-03.55.51:220][ 37]LogUObjectBase: Warning: Object is not registered
-[2019.02.12-03.56.07:110][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
-[2019.02.12-03.56.07:194][988]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Scanner7A103CB444CBDB6F10CB1DB18C508B6A.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
-[2019.02.12-03.56.15:646][494]BlueprintLog: New page: Compile Scanner
-[2019.02.12-03.56.22:506][892]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/Price.Price
-[2019.02.12-03.56.37:413][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scanner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset" SILENT=true
-[2019.02.12-03.56.37:489][757]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Scanner8254B9884D0F3BE26C3F0F81FFED7B89.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scanner.uasset'
-[2019.02.12-03.57.01:642][204]LogSlate: Window 'Scanner' being destroyed
-[2019.02.12-03.57.01:647][204]LogSlate: Window 'Scanner' being destroyed
-[2019.02.12-03.57.05:855][453]LogEditorViewport: Clicking on Actor (LMB): Conveyor_C (Conveyor)
-[2019.02.12-03.57.06:972][519]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2019.02.12-03.57.27:611][757]LogEditorViewport: Clicking on Actor (LMB): Conveyor_C (Conveyor2)
-[2019.02.12-03.57.28:426][805]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2019.02.12-03.57.55:370][421]LogEditorViewport: Clicking on Actor (LMB): Conveyor_C (Conveyor)
-[2019.02.12-03.57.56:096][464]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
