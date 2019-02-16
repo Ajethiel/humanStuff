@@ -2087,3 +2087,828 @@ Right
 [2019.02.16-19.22.34:020][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.02.16-19.22.34:282][ 12]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2F257A00D4E99195C1B4878800F629FB4.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
 [2019.02.16-19.22.34:306][ 12]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.286
+[2019.02.16-19.23.15:779][642]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.16-19.23.21:399][850]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.16-19.23.27:481][ 76]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.16-19.23.28:468][135]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Connect.Connect
+[2019.02.16-19.23.31:245][285]LogSlate: Window 'Connect' being destroyed
+[2019.02.16-19.23.31:248][285]LogSlate: Window 'Connect' being destroyed
+[2019.02.16-19.23.31:311][285]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.16-19.23.50:503][888]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.16-19.24.05:358][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.24.14:356][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.24.14:429][319]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpawn.CartSpawn
+[2019.02.16-19.24.27:661][ 83]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.16-19.25.03:072][179]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.25.04:212][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.25.04:218][237]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn91D2687245EA177F0F601E94DA79FC79.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.25.14:193][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.25.14:211][834]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn9DD2857F4261B3473470D7A2330755E0.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.25.32:743][935]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.16-19.27.33:313][135]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.28.02:212][849]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.28.57:199][123]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.28.57:911][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.28.57:935][154]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn0EB703EF4070DCB374B2A3803349577A.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.29.06:714][680]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts3)
+[2019.02.16-19.29.07:656][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.29.07:745][739]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.16-19.29.20:890][491]LogSlate: Took 0.001993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.16-19.29.32:687][186]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.16-19.29.33:322][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.16-19.29.33:391][201]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts5B0F6A6F49E38A7EED13E2A0C24D7BB8.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.16-19.29.41:125][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.29.51:057][251]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.02.16-19.29.55:637][523]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.16-19.29.58:019][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.30.01:047][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_cieling16)
+[2019.02.16-19.30.06:153][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.30.07:437][148]LogSlate: Window 'Save Content' being destroyed
+[2019.02.16-19.30.07:446][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.30.07:460][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.16-19.30.07:721][148]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2391FEBA649C03AF3DCD259B99250A853.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.16-19.30.07:745][148]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.286
+[2019.02.16-19.30.09:484][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.30.30:850][511]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.30.31:687][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.30.31:720][551]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn4EFF56EF4BD3BF8DAB84CEAAB5368863.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.30.35:463][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.30.38:501][957]LogEditorTransaction: Undo Create Pin Link
+[2019.02.16-19.30.45:165][350]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.31.21:566][518]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.31.22:376][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.31.22:400][555]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnF2BFE0074D35E373A3244198219EA0E0.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.31.23:556][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.31.31:216][ 83]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.16-19.31.45:798][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.31.55:806][534]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.31.56:787][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.31.56:811][582]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn0D3F414B4FC5B3452119439821431EDE.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.32.00:054][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.32.25:322][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.32.26:578][367]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Spawner.Spawner
+[2019.02.16-19.33.37:718][597]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.33.42:881][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_window4)
+[2019.02.16-19.33.44:095][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.33.44:251][975]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.16-19.34.10:412][513]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.16-19.34.11:333][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.16-19.34.11:399][548]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts4583F2A5467E6157F39DDE864E604D2B.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.16-19.34.27:766][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.34.29:983][656]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.16-19.34.37:413][ 83]LogEditorTransaction: Undo Rename Variable
+[2019.02.16-19.34.37:825][102]LogEditorTransaction: Undo Duplicate Variable
+[2019.02.16-19.34.39:762][213]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.16-19.34.40:530][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.16-19.34.40:597][239]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts62710B954753E2BE12419B82867A8499.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.16-19.34.45:142][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.34.49:051][745]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.49:051][745]LogEditorTransaction: Undo Clicking on Actors
+[2019.02.16-19.34.49:530][773]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.49:530][773]LogEditorTransaction: Undo Create Pin Link
+[2019.02.16-19.34.49:914][795]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.49:914][795]LogEditorTransaction: Undo Create Pin Link
+[2019.02.16-19.34.50:280][816]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.50:280][816]LogEditorTransaction: Undo Move Node
+[2019.02.16-19.34.50:697][840]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.50:697][840]LogEditorTransaction: Undo Paste clipboard contents
+[2019.02.16-19.34.51:051][860]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.51:051][860]LogEditorTransaction: Undo Create Pin Link
+[2019.02.16-19.34.51:334][876]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.51:334][876]LogEditorTransaction: Undo Create Pin Link
+[2019.02.16-19.34.51:633][893]Cmd: TRANSACTION UNDO
+[2019.02.16-19.34.51:633][893]LogEditorTransaction: Undo Move Node
+[2019.02.16-19.35.00:399][418]BlueprintLog: New page: Compile CartSpawn
+[2019.02.16-19.35.05:009][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.35.06:358][688]LogSlate: Window 'Save Content' being destroyed
+[2019.02.16-19.35.06:367][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.35.06:382][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.16-19.35.06:405][688]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn8040180347AC2771D435D4891D65EBE3.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.16-19.35.06:409][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.16-19.35.06:680][688]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2DCB913BD45D886F995979A9DDF42797C.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.16-19.35.06:704][688]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.296
+[2019.02.16-19.35.29:585][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.35.30:567][  5]LogTemp: Repeating last play command: VR Preview
+[2019.02.16-19.35.30:601][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.35.30:601][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.16-19.35.30:601][  5]LogHMD: Initializing OVRPlugin session
+[2019.02.16-19.35.30:863][  5]PIE: New page: PIE session: Minimal_Default_2 (Feb 16, 2019, 9:35:30 AM)
+[2019.02.16-19.35.30:863][  5]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.16-19.35.30:873][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010195s)
+[2019.02.16-19.35.30:873][  5]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.16-19.35.30:874][  5]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2019.02.16-19.35.30:874][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.010824s)
+[2019.02.16-19.35.30:916][  5]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.16-19.35.30:928][  5]LogInit: FAudioDevice initialized.
+[2019.02.16-19.35.30:933][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-19.35.31:010][  5]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.02.16-19.35.31:038][  5]LogLoad: Game class is 'GameModeBase'
+[2019.02.16-19.35.31:043][  5]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2019.02.16-14.35.31
+[2019.02.16-19.35.31:046][  5]LogWorld: Bringing up level for play took: 0.007337
+[2019.02.16-19.35.31:063][  5]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SapwnCart) or object (CartSpawn_2)
+[2019.02.16-19.35.31:063][  5]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.16-19.35.31:063][  5]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.16-19.35.31:064][  5]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.16-19.35.31:065][  5]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.16-19.35.31:069][  5]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 1.43
+[2019.02.16-19.35.31:069][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.35.31:070][  5]LogEngine: Changing dynamic resolution state.
+[2019.02.16-19.35.31:076][  5]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.16-19.35.31:076][  5]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.02.16-19.35.31:160][  7]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.02.16-19.35.31:742][ 54]LogBlueprintUserMessages: [MotionControllerPawn_2] 179
+[2019.02.16-19.35.32:951][116]LogBlueprintUserMessages: [MotionControllerPawn_2] 178
+[2019.02.16-19.35.34:155][170]LogBlueprintUserMessages: [MotionControllerPawn_2] 177
+[2019.02.16-19.35.35:364][233]LogBlueprintUserMessages: [MotionControllerPawn_2] 176
+[2019.02.16-19.35.36:575][304]LogBlueprintUserMessages: [MotionControllerPawn_2] 175
+[2019.02.16-19.35.37:778][358]LogBlueprintUserMessages: [MotionControllerPawn_2] 174
+[2019.02.16-19.35.38:978][412]LogBlueprintUserMessages: [MotionControllerPawn_2] 173
+[2019.02.16-19.35.40:180][466]LogBlueprintUserMessages: [MotionControllerPawn_2] 172
+[2019.02.16-19.35.41:403][521]LogBlueprintUserMessages: [MotionControllerPawn_2] 171
+[2019.02.16-19.35.42:605][575]LogBlueprintUserMessages: [MotionControllerPawn_2] 170
+[2019.02.16-19.35.43:825][630]LogBlueprintUserMessages: [MotionControllerPawn_2] 169
+[2019.02.16-19.35.45:049][685]LogBlueprintUserMessages: [MotionControllerPawn_2] 168
+[2019.02.16-19.35.46:272][740]LogBlueprintUserMessages: [MotionControllerPawn_2] 167
+[2019.02.16-19.35.47:494][795]LogBlueprintUserMessages: [MotionControllerPawn_2] 166
+[2019.02.16-19.35.48:716][850]LogBlueprintUserMessages: [MotionControllerPawn_2] 165
+[2019.02.16-19.35.49:944][951]LogBlueprintUserMessages: [MotionControllerPawn_2] 164
+[2019.02.16-19.35.51:156][ 48]LogBlueprintUserMessages: [MotionControllerPawn_2] 163
+[2019.02.16-19.35.52:374][115]LogBlueprintUserMessages: [MotionControllerPawn_2] 162
+[2019.02.16-19.35.53:578][169]LogBlueprintUserMessages: [MotionControllerPawn_2] 161
+[2019.02.16-19.35.54:801][224]LogBlueprintUserMessages: [MotionControllerPawn_2] 160
+[2019.02.16-19.35.55:491][255]LogBlueprintUserMessages: [ShoppingCarts4] MMMM TASTY!
+[2019.02.16-19.35.55:491][255]LogBlueprintUserMessages: [ShoppingCarts4] 20.0
+[2019.02.16-19.35.55:491][255]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.35.55:514][256]LogBlueprintUserMessages: [ShoppingCarts4] MMMM TASTY!
+[2019.02.16-19.35.55:514][256]LogBlueprintUserMessages: [ShoppingCarts4] 40.0
+[2019.02.16-19.35.55:514][256]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.35.56:025][279]LogBlueprintUserMessages: [MotionControllerPawn_2] 159
+[2019.02.16-19.35.57:248][334]LogBlueprintUserMessages: [MotionControllerPawn_2] 158
+[2019.02.16-19.35.58:449][388]LogBlueprintUserMessages: [MotionControllerPawn_2] 157
+[2019.02.16-19.35.59:693][444]LogBlueprintUserMessages: [MotionControllerPawn_2] 156
+[2019.02.16-19.36.00:916][499]LogBlueprintUserMessages: [MotionControllerPawn_2] 155
+[2019.02.16-19.36.01:783][538]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_10 via property K2Node_DynamicCast_AsScannables, but Scannables_C_10 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.36.02:160][555]LogBlueprintUserMessages: [MotionControllerPawn_2] 154
+[2019.02.16-19.36.03:383][610]LogBlueprintUserMessages: [MotionControllerPawn_2] 153
+[2019.02.16-19.36.04:605][664]LogBlueprintUserMessages: [MotionControllerPawn_2] 152
+[2019.02.16-19.36.05:494][704]LogBlueprintUserMessages: [ShoppingCarts4] Aw fuck
+[2019.02.16-19.36.05:828][719]LogBlueprintUserMessages: [MotionControllerPawn_2] 151
+[2019.02.16-19.36.07:071][775]LogBlueprintUserMessages: [MotionControllerPawn_2] 150
+[2019.02.16-19.36.08:278][841]LogBlueprintUserMessages: [MotionControllerPawn_2] 149
+[2019.02.16-19.36.09:495][948]LogBlueprintUserMessages: [MotionControllerPawn_2] 148
+[2019.02.16-19.36.10:716][ 58]LogBlueprintUserMessages: [MotionControllerPawn_2] 147
+[2019.02.16-19.36.11:918][166]LogBlueprintUserMessages: [MotionControllerPawn_2] 146
+[2019.02.16-19.36.13:128][275]LogBlueprintUserMessages: [MotionControllerPawn_2] 145
+[2019.02.16-19.36.14:338][378]LogBlueprintUserMessages: [MotionControllerPawn_2] 144
+[2019.02.16-19.36.15:539][486]LogBlueprintUserMessages: [MotionControllerPawn_2] 143
+[2019.02.16-19.36.16:750][595]LogBlueprintUserMessages: [MotionControllerPawn_2] 142
+[2019.02.16-19.36.17:959][702]LogBlueprintUserMessages: [MotionControllerPawn_2] 141
+[2019.02.16-19.36.19:178][810]LogBlueprintUserMessages: [MotionControllerPawn_2] 140
+[2019.02.16-19.36.19:751][837]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.36.19:826][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-19.36.19:856][837]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.16-19.36.19:896][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.16-19.36.19:896][837]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.36.19:944][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.36.19:975][838]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.02.16-19.36.19:976][838]LogEngine: Changing dynamic resolution state.
+[2019.02.16-19.36.26:130][206]LogSlate: Window 'Message Log' being destroyed
+[2019.02.16-19.36.26:136][206]LogSlate: Window 'Message Log' being destroyed
+[2019.02.16-19.36.30:164][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.36.57:399][ 44]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.16-19.36.58:442][105]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.16-19.37.14:989][ 95]Cmd: TRANSACTION UNDO
+[2019.02.16-19.37.14:989][ 95]LogEditorTransaction: Undo Move Actors
+[2019.02.16-19.37.22:513][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skybox2)
+[2019.02.16-19.37.24:895][685]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.16-19.37.27:540][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.02.16-19.37.41:051][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.37.42:165][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.37.44:110][715]LogSlate: Window 'Save Content' being destroyed
+[2019.02.16-19.37.44:121][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.37.44:135][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.16-19.37.44:397][715]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2610817014367CD546B197394089B31F0.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.16-19.37.44:422][715]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.288
+[2019.02.16-19.37.51:996][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.37.53:779][276]LogTemp: Repeating last play command: VR Preview
+[2019.02.16-19.37.53:793][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.37.53:793][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.16-19.37.53:793][276]LogHMD: Initializing OVRPlugin session
+[2019.02.16-19.37.54:054][276]PIE: New page: PIE session: Minimal_Default_2 (Feb 16, 2019, 9:37:54 AM)
+[2019.02.16-19.37.54:055][276]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.16-19.37.54:065][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010571s)
+[2019.02.16-19.37.54:066][276]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.16-19.37.54:066][276]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2019.02.16-19.37.54:066][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.011307s)
+[2019.02.16-19.37.54:104][276]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.16-19.37.54:113][276]LogInit: FAudioDevice initialized.
+[2019.02.16-19.37.54:121][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-19.37.54:208][276]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.02.16-19.37.54:241][276]LogLoad: Game class is 'GameModeBase'
+[2019.02.16-19.37.54:247][276]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2019.02.16-14.37.54
+[2019.02.16-19.37.54:250][276]LogWorld: Bringing up level for play took: 0.008373
+[2019.02.16-19.37.54:264][276]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (SapwnCart) or object (CartSpawn_2)
+[2019.02.16-19.37.54:264][276]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.16-19.37.54:264][276]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.16-19.37.54:265][276]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.16-19.37.54:266][276]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.16-19.37.54:271][276]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.632
+[2019.02.16-19.37.54:271][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.37.54:272][276]LogEngine: Changing dynamic resolution state.
+[2019.02.16-19.37.54:279][276]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.16-19.37.54:279][276]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.02.16-19.37.54:352][278]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.02.16-19.37.54:936][326]LogBlueprintUserMessages: [MotionControllerPawn_2] 179
+[2019.02.16-19.37.56:163][389]LogBlueprintUserMessages: [MotionControllerPawn_2] 178
+[2019.02.16-19.37.57:386][444]LogBlueprintUserMessages: [MotionControllerPawn_2] 177
+[2019.02.16-19.37.58:609][499]LogBlueprintUserMessages: [MotionControllerPawn_2] 176
+[2019.02.16-19.37.59:831][554]LogBlueprintUserMessages: [MotionControllerPawn_2] 175
+[2019.02.16-19.38.01:053][609]LogBlueprintUserMessages: [MotionControllerPawn_2] 174
+[2019.02.16-19.38.02:276][664]LogBlueprintUserMessages: [MotionControllerPawn_2] 173
+[2019.02.16-19.38.03:476][718]LogBlueprintUserMessages: [MotionControllerPawn_2] 172
+[2019.02.16-19.38.04:721][774]LogBlueprintUserMessages: [MotionControllerPawn_2] 171
+[2019.02.16-19.38.05:941][829]LogBlueprintUserMessages: [MotionControllerPawn_2] 170
+[2019.02.16-19.38.06:788][867]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_10 via property K2Node_DynamicCast_AsScannables, but Scannables_C_10 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.38.07:143][883]LogBlueprintUserMessages: [MotionControllerPawn_2] 169
+[2019.02.16-19.38.08:364][938]LogBlueprintUserMessages: [MotionControllerPawn_2] 168
+[2019.02.16-19.38.09:610][994]LogBlueprintUserMessages: [MotionControllerPawn_2] 167
+[2019.02.16-19.38.10:835][ 49]LogBlueprintUserMessages: [MotionControllerPawn_2] 166
+[2019.02.16-19.38.12:077][105]LogBlueprintUserMessages: [MotionControllerPawn_2] 165
+[2019.02.16-19.38.12:609][129]LogBlueprintUserMessages: [ShoppingCarts4] MMMM TASTY!
+[2019.02.16-19.38.12:609][129]LogBlueprintUserMessages: [ShoppingCarts4] 5.0
+[2019.02.16-19.38.12:609][129]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.38.12:719][134]LogBlueprintUserMessages: [ShoppingCarts4] MMMM TASTY!
+[2019.02.16-19.38.12:720][134]LogBlueprintUserMessages: [ShoppingCarts4] 10.0
+[2019.02.16-19.38.12:720][134]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.38.13:319][161]LogBlueprintUserMessages: [MotionControllerPawn_2] 164
+[2019.02.16-19.38.14:522][215]LogBlueprintUserMessages: [MotionControllerPawn_2] 163
+[2019.02.16-19.38.15:743][270]LogBlueprintUserMessages: [MotionControllerPawn_2] 162
+[2019.02.16-19.38.16:944][324]LogBlueprintUserMessages: [MotionControllerPawn_2] 161
+[2019.02.16-19.38.18:144][378]LogBlueprintUserMessages: [MotionControllerPawn_2] 160
+[2019.02.16-19.38.19:344][432]LogBlueprintUserMessages: [MotionControllerPawn_2] 159
+[2019.02.16-19.38.20:566][487]LogBlueprintUserMessages: [MotionControllerPawn_2] 158
+[2019.02.16-19.38.21:788][542]LogBlueprintUserMessages: [MotionControllerPawn_2] 157
+[2019.02.16-19.38.23:011][597]LogBlueprintUserMessages: [MotionControllerPawn_2] 156
+[2019.02.16-19.38.24:255][653]LogBlueprintUserMessages: [MotionControllerPawn_2] 155
+[2019.02.16-19.38.25:477][708]LogBlueprintUserMessages: [MotionControllerPawn_2] 154
+[2019.02.16-19.38.26:678][762]LogBlueprintUserMessages: [MotionControllerPawn_2] 153
+[2019.02.16-19.38.27:899][817]LogBlueprintUserMessages: [MotionControllerPawn_2] 152
+[2019.02.16-19.38.27:966][820]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_13 via property K2Node_DynamicCast_AsScannables, but Scannables_C_13 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.38.29:120][872]LogBlueprintUserMessages: [MotionControllerPawn_2] 151
+[2019.02.16-19.38.30:322][926]LogBlueprintUserMessages: [MotionControllerPawn_2] 150
+[2019.02.16-19.38.31:544][981]LogBlueprintUserMessages: [MotionControllerPawn_2] 149
+[2019.02.16-19.38.32:766][ 36]LogBlueprintUserMessages: [MotionControllerPawn_2] 148
+[2019.02.16-19.38.33:989][ 91]LogBlueprintUserMessages: [MotionControllerPawn_2] 147
+[2019.02.16-19.38.35:210][146]LogBlueprintUserMessages: [MotionControllerPawn_2] 146
+[2019.02.16-19.38.35:434][156]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_39 via property K2Node_DynamicCast_AsScannables, but Scannables_C_39 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.38.36:433][201]LogBlueprintUserMessages: [MotionControllerPawn_2] 145
+[2019.02.16-19.38.37:656][256]LogBlueprintUserMessages: [MotionControllerPawn_2] 144
+[2019.02.16-19.38.38:877][311]LogBlueprintUserMessages: [MotionControllerPawn_2] 143
+[2019.02.16-19.38.40:100][366]LogBlueprintUserMessages: [MotionControllerPawn_2] 142
+[2019.02.16-19.38.41:323][421]LogBlueprintUserMessages: [MotionControllerPawn_2] 141
+[2019.02.16-19.38.42:545][476]LogBlueprintUserMessages: [MotionControllerPawn_2] 140
+[2019.02.16-19.38.43:788][532]LogBlueprintUserMessages: [MotionControllerPawn_2] 139
+[2019.02.16-19.38.45:033][588]LogBlueprintUserMessages: [MotionControllerPawn_2] 138
+[2019.02.16-19.38.46:254][643]LogBlueprintUserMessages: [MotionControllerPawn_2] 137
+[2019.02.16-19.38.47:478][698]LogBlueprintUserMessages: [MotionControllerPawn_2] 136
+[2019.02.16-19.38.48:721][754]LogBlueprintUserMessages: [MotionControllerPawn_2] 135
+[2019.02.16-19.38.49:945][808]LogBlueprintUserMessages: [MotionControllerPawn_2] 134
+[2019.02.16-19.38.51:166][863]LogBlueprintUserMessages: [MotionControllerPawn_2] 133
+[2019.02.16-19.38.52:391][918]LogBlueprintUserMessages: [MotionControllerPawn_2] 132
+[2019.02.16-19.38.53:599][ 14]LogBlueprintUserMessages: [MotionControllerPawn_2] 131
+[2019.02.16-19.38.54:482][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_58 via property K2Node_DynamicCast_AsScannables, but Scannables_C_58 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.38.54:810][121]LogBlueprintUserMessages: [MotionControllerPawn_2] 130
+[2019.02.16-19.38.56:025][190]LogBlueprintUserMessages: [MotionControllerPawn_2] 129
+[2019.02.16-19.38.57:235][265]LogBlueprintUserMessages: [MotionControllerPawn_2] 128
+[2019.02.16-19.38.58:443][363]LogBlueprintUserMessages: [MotionControllerPawn_2] 127
+[2019.02.16-19.38.59:650][417]LogBlueprintUserMessages: [MotionControllerPawn_2] 126
+[2019.02.16-19.39.00:853][471]LogBlueprintUserMessages: [MotionControllerPawn_2] 125
+[2019.02.16-19.39.02:054][525]LogBlueprintUserMessages: [MotionControllerPawn_2] 124
+[2019.02.16-19.39.03:259][579]LogBlueprintUserMessages: [MotionControllerPawn_2] 123
+[2019.02.16-19.39.04:499][635]LogBlueprintUserMessages: [MotionControllerPawn_2] 122
+[2019.02.16-19.39.05:722][690]LogBlueprintUserMessages: [MotionControllerPawn_2] 121
+[2019.02.16-19.39.05:967][701]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_51 via property K2Node_DynamicCast_AsScannables, but Scannables_C_51 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.39.06:922][744]LogBlueprintUserMessages: [MotionControllerPawn_2] 120
+[2019.02.16-19.39.08:146][799]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.16-19.39.09:368][854]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.16-19.39.10:569][908]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.16-19.39.11:790][963]LogBlueprintUserMessages: [MotionControllerPawn_2] 116
+[2019.02.16-19.39.13:012][ 18]LogBlueprintUserMessages: [MotionControllerPawn_2] 115
+[2019.02.16-19.39.14:213][ 72]LogBlueprintUserMessages: [MotionControllerPawn_2] 114
+[2019.02.16-19.39.15:439][127]LogBlueprintUserMessages: [MotionControllerPawn_2] 113
+[2019.02.16-19.39.16:660][200]LogBlueprintUserMessages: [MotionControllerPawn_2] 112
+[2019.02.16-19.39.17:873][256]LogBlueprintUserMessages: [MotionControllerPawn_2] 111
+[2019.02.16-19.39.19:076][310]LogBlueprintUserMessages: [MotionControllerPawn_2] 110
+[2019.02.16-19.39.20:278][364]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.16-19.39.21:500][419]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.16-19.39.22:724][474]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.16-19.39.23:945][529]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.16-19.39.25:168][584]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.16-19.39.26:214][631]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_89 via property K2Node_DynamicCast_AsScannables, but Scannables_C_89 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.39.26:368][638]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.16-19.39.27:591][693]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.16-19.39.28:791][747]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.16-19.39.30:035][803]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.16-19.39.31:259][858]LogBlueprintUserMessages: [MotionControllerPawn_2] 100
+[2019.02.16-19.39.32:479][913]LogBlueprintUserMessages: [MotionControllerPawn_2] 99
+[2019.02.16-19.39.33:702][968]LogBlueprintUserMessages: [MotionControllerPawn_2] 98
+[2019.02.16-19.39.34:924][ 23]LogBlueprintUserMessages: [MotionControllerPawn_2] 97
+[2019.02.16-19.39.36:146][ 78]LogBlueprintUserMessages: [MotionControllerPawn_2] 96
+[2019.02.16-19.39.37:347][132]LogBlueprintUserMessages: [MotionControllerPawn_2] 95
+[2019.02.16-19.39.38:547][186]LogBlueprintUserMessages: [MotionControllerPawn_2] 94
+[2019.02.16-19.39.39:792][242]LogBlueprintUserMessages: [MotionControllerPawn_2] 93
+[2019.02.16-19.39.41:014][297]LogBlueprintUserMessages: [MotionControllerPawn_2] 92
+[2019.02.16-19.39.42:236][352]LogBlueprintUserMessages: [MotionControllerPawn_2] 91
+[2019.02.16-19.39.43:458][407]LogBlueprintUserMessages: [MotionControllerPawn_2] 90
+[2019.02.16-19.39.44:659][461]LogBlueprintUserMessages: [MotionControllerPawn_2] 89
+[2019.02.16-19.39.45:448][511]LogBlueprintUserMessages: [ShoppingCarts4] MMMM TASTY!
+[2019.02.16-19.39.45:448][511]LogBlueprintUserMessages: [ShoppingCarts4] 30.0
+[2019.02.16-19.39.45:448][511]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.39.45:515][517]LogBlueprintUserMessages: [ShoppingCarts4] MMMM TASTY!
+[2019.02.16-19.39.45:516][517]LogBlueprintUserMessages: [ShoppingCarts4] 50.0
+[2019.02.16-19.39.45:516][517]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.39.45:869][549]LogBlueprintUserMessages: [MotionControllerPawn_2] 88
+[2019.02.16-19.39.47:071][639]LogBlueprintUserMessages: [MotionControllerPawn_2] 87
+[2019.02.16-19.39.48:276][693]LogBlueprintUserMessages: [MotionControllerPawn_2] 86
+[2019.02.16-19.39.49:478][747]LogBlueprintUserMessages: [MotionControllerPawn_2] 85
+[2019.02.16-19.39.50:679][800]LogBlueprintUserMessages: [MotionControllerPawn_2] 84
+[2019.02.16-19.39.51:901][855]LogBlueprintUserMessages: [MotionControllerPawn_2] 83
+[2019.02.16-19.39.53:102][909]LogBlueprintUserMessages: [MotionControllerPawn_2] 82
+[2019.02.16-19.39.54:303][963]LogBlueprintUserMessages: [MotionControllerPawn_2] 81
+[2019.02.16-19.39.55:458][ 15]LogBlueprintUserMessages: [ShoppingCarts4] Aw fuck
+[2019.02.16-19.39.55:504][ 17]LogBlueprintUserMessages: [MotionControllerPawn_2] 80
+[2019.02.16-19.39.56:705][ 71]LogBlueprintUserMessages: [MotionControllerPawn_2] 79
+[2019.02.16-19.39.57:927][126]LogBlueprintUserMessages: [MotionControllerPawn_2] 78
+[2019.02.16-19.39.59:129][224]LogBlueprintUserMessages: [MotionControllerPawn_2] 77
+[2019.02.16-19.40.00:340][279]LogBlueprintUserMessages: [MotionControllerPawn_2] 76
+[2019.02.16-19.40.01:543][333]LogBlueprintUserMessages: [MotionControllerPawn_2] 75
+[2019.02.16-19.40.02:748][387]LogBlueprintUserMessages: [MotionControllerPawn_2] 74
+[2019.02.16-19.40.03:956][476]LogBlueprintUserMessages: [MotionControllerPawn_2] 73
+[2019.02.16-19.40.05:186][536]LogBlueprintUserMessages: [MotionControllerPawn_2] 72
+[2019.02.16-19.40.06:388][590]LogBlueprintUserMessages: [MotionControllerPawn_2] 71
+[2019.02.16-19.40.07:591][644]LogBlueprintUserMessages: [MotionControllerPawn_2] 70
+[2019.02.16-19.40.08:814][699]LogBlueprintUserMessages: [MotionControllerPawn_2] 69
+[2019.02.16-19.40.10:015][753]LogBlueprintUserMessages: [MotionControllerPawn_2] 68
+[2019.02.16-19.40.11:258][809]LogBlueprintUserMessages: [MotionControllerPawn_2] 67
+[2019.02.16-19.40.12:458][863]LogBlueprintUserMessages: [MotionControllerPawn_2] 66
+[2019.02.16-19.40.13:684][936]LogBlueprintUserMessages: [MotionControllerPawn_2] 65
+[2019.02.16-19.40.14:896][ 10]LogBlueprintUserMessages: [MotionControllerPawn_2] 64
+[2019.02.16-19.40.15:432][ 34]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_126 via property K2Node_DynamicCast_AsScannables, but Scannables_C_126 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.40.16:098][ 64]LogBlueprintUserMessages: [MotionControllerPawn_2] 63
+[2019.02.16-19.40.16:521][ 83]LogBlueprintUserMessages: [ShoppingCarts2] MMMM TASTY!
+[2019.02.16-19.40.16:521][ 83]LogBlueprintUserMessages: [ShoppingCarts2] 20.0
+[2019.02.16-19.40.16:521][ 83]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.40.16:544][ 84]LogBlueprintUserMessages: [ShoppingCarts2] MMMM TASTY!
+[2019.02.16-19.40.16:544][ 84]LogBlueprintUserMessages: [ShoppingCarts2] 40.0
+[2019.02.16-19.40.16:544][ 84]LogBlueprintUserMessages: [MotionControllerPawn_2] Points add
+[2019.02.16-19.40.17:299][118]LogBlueprintUserMessages: [MotionControllerPawn_2] 62
+[2019.02.16-19.40.18:502][172]LogBlueprintUserMessages: [MotionControllerPawn_2] 61
+[2019.02.16-19.40.19:703][226]LogBlueprintUserMessages: [MotionControllerPawn_2] 60
+[2019.02.16-19.40.20:904][280]LogBlueprintUserMessages: [MotionControllerPawn_2] 59
+[2019.02.16-19.40.22:105][334]LogBlueprintUserMessages: [MotionControllerPawn_2] 58
+[2019.02.16-19.40.23:326][389]LogBlueprintUserMessages: [MotionControllerPawn_2] 57
+[2019.02.16-19.40.24:551][444]LogBlueprintUserMessages: [MotionControllerPawn_2] 56
+[2019.02.16-19.40.25:772][499]LogBlueprintUserMessages: [MotionControllerPawn_2] 55
+[2019.02.16-19.40.26:506][532]LogBlueprintUserMessages: [ShoppingCarts2] Aw fuck
+[2019.02.16-19.40.27:015][555]LogBlueprintUserMessages: [MotionControllerPawn_2] 54
+[2019.02.16-19.40.28:236][610]LogBlueprintUserMessages: [MotionControllerPawn_2] 53
+[2019.02.16-19.40.29:459][665]LogBlueprintUserMessages: [MotionControllerPawn_2] 52
+[2019.02.16-19.40.30:661][719]LogBlueprintUserMessages: [MotionControllerPawn_2] 51
+[2019.02.16-19.40.31:883][774]LogBlueprintUserMessages: [MotionControllerPawn_2] 50
+[2019.02.16-19.40.33:126][830]LogBlueprintUserMessages: [MotionControllerPawn_2] 49
+[2019.02.16-19.40.34:372][886]LogBlueprintUserMessages: [MotionControllerPawn_2] 48
+[2019.02.16-19.40.35:572][940]LogBlueprintUserMessages: [MotionControllerPawn_2] 47
+[2019.02.16-19.40.36:795][995]LogBlueprintUserMessages: [MotionControllerPawn_2] 46
+[2019.02.16-19.40.38:016][ 50]LogBlueprintUserMessages: [MotionControllerPawn_2] 45
+[2019.02.16-19.40.39:217][104]LogBlueprintUserMessages: [MotionControllerPawn_2] 44
+[2019.02.16-19.40.40:439][159]LogBlueprintUserMessages: [MotionControllerPawn_2] 43
+[2019.02.16-19.40.41:660][214]LogBlueprintUserMessages: [MotionControllerPawn_2] 42
+[2019.02.16-19.40.42:904][270]LogBlueprintUserMessages: [MotionControllerPawn_2] 41
+[2019.02.16-19.40.44:106][324]LogBlueprintUserMessages: [MotionControllerPawn_2] 40
+[2019.02.16-19.40.45:327][379]LogBlueprintUserMessages: [MotionControllerPawn_2] 39
+[2019.02.16-19.40.46:528][433]LogBlueprintUserMessages: [MotionControllerPawn_2] 38
+[2019.02.16-19.40.47:172][462]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_170 via property K2Node_DynamicCast_AsScannables, but Scannables_C_170 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.40.47:751][488]LogBlueprintUserMessages: [MotionControllerPawn_2] 37
+[2019.02.16-19.40.48:994][544]LogBlueprintUserMessages: [MotionControllerPawn_2] 36
+[2019.02.16-19.40.50:216][599]LogBlueprintUserMessages: [MotionControllerPawn_2] 35
+[2019.02.16-19.40.51:105][639]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_174 via property K2Node_DynamicCast_AsScannables, but Scannables_C_174 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.16-19.40.51:439][653]LogBlueprintUserMessages: [MotionControllerPawn_2] 34
+[2019.02.16-19.40.52:661][708]LogBlueprintUserMessages: [MotionControllerPawn_2] 33
+[2019.02.16-19.40.53:863][762]LogBlueprintUserMessages: [MotionControllerPawn_2] 32
+[2019.02.16-19.40.54:883][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.40.54:953][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.16-19.40.54:982][807]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.16-19.40.55:029][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.16-19.40.55:029][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.16-19.40.55:075][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.16-19.40.55:109][808]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.02.16-19.40.55:111][808]LogEngine: Changing dynamic resolution state.
+[2019.02.16-19.41.00:939][156]LogSlate: Window 'Message Log' being destroyed
+[2019.02.16-19.41.00:944][156]LogSlate: Window 'Message Log' being destroyed
+[2019.02.16-19.41.03:157][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.16-19.41.14:655][969]LogSlate: Window 'CartSpawn' being destroyed
+[2019.02.16-19.41.14:659][969]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.16-19.41.14:709][969]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2019.02.16-19.41.14:709][969]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.16-19.41.14:887][970]Cmd: QUIT_EDITOR
+[2019.02.16-19.41.15:853][970]LogExit: Preparing to exit.
+[2019.02.16-19.41.16:152][970]LogExit: Editor shut down
+[2019.02.16-19.41.16:152][970]LogExit: Transaction tracking system shut down
+[2019.02.16-19.41.16:389][970]LogExit: Object subsystem successfully closed.
+[2019.02.16-19.41.16:413][970]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.16-19.41.16:416][970]LogD3D11RHI: Shutdown
+[2019.02.16-19.41.16:416][970]LogD3D11RHI: CleanupD3DDevice
+[2019.02.16-19.41.16:418][970]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.16-19.41.16:463][970]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.02.16-19.41.16:463][970]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.02.16-19.41.16:463][970]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.02.16-19.41.16:463][970]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.02.16-19.41.16:463][970]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.02.16-19.41.16:463][970]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.02.16-19.41.16:465][970]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.02.16-19.41.16:465][970]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.02.16-19.41.16:465][970]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.02.16-19.41.16:465][970]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.16-19.41.16:465][970]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.16-19.41.16:465][970]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.16-19.41.16:467][970]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.16-19.41.16:468][970]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.16-19.41.16:469][970]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.16-19.41.16:471][970]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.16-19.41.16:471][970]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.16-19.41.16:471][970]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.16-19.41.16:472][970]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.16-19.41.16:472][970]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.16-19.41.16:472][970]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.16-19.41.16:472][970]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.16-19.41.16:472][970]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.16-19.41.17:373][970]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.16-19.41.17:373][970]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.16-19.41.17:373][970]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.16-19.41.17:373][970]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.16-19.41.17:373][970]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.16-19.41.17:373][970]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.16-19.41.17:379][970]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.16-19.41.17:380][970]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.16-19.41.17:380][970]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.16-19.41.17:381][970]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.16-19.41.17:382][970]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.16-19.41.17:438][970]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.16-19.41.17:438][970]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.16-19.41.17:440][970]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.16-19.41.17:444][970]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.16-19.41.17:444][970]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.16-19.41.17:444][970]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.16-19.41.17:444][970]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.16-19.41.17:445][970]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.16-19.41.17:445][970]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.16-19.41.17:445][970]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.16-19.41.17:448][970]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.16-19.41.17:449][970]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.16-19.41.17:449][970]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.16-19.41.17:449][970]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.16-19.41.17:450][970]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.16-19.41.17:450][970]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.16-19.41.17:450][970]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.16-19.41.17:450][970]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.16-19.41.17:451][970]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.16-19.41.17:454][970]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.16-19.41.17:534][970]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.16-19.41.17:538][970]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.16-19.41.17:539][970]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.16-19.41.17:540][970]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.16-19.41.17:541][970]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.16-19.41.17:542][970]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.16-19.41.17:644][970]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.16-19.41.17:745][970]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.16-19.41.17:745][970]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.16-19.41.17:745][970]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.16-19.41.17:745][970]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.16-19.41.17:745][970]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.16-19.41.17:745][970]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.16-19.41.17:747][970]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.16-19.41.17:747][970]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.16-19.41.17:748][970]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.16-19.41.17:748][970]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.16-19.41.17:748][970]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.16-19.41.17:748][970]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.16-19.41.17:749][970]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.16-19.41.17:751][970]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.16-19.41.17:757][970]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.16-19.41.17:757][970]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.16-19.41.17:757][970]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.16-19.41.17:758][970]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.16-19.41.17:758][970]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.16-19.41.17:758][970]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.16-19.41.17:758][970]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.16-19.41.17:759][970]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.16-19.41.17:760][970]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.16-19.41.17:761][970]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.16-19.41.17:761][970]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.16-19.41.17:763][970]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.16-19.41.17:763][970]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.16-19.41.17:764][970]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.16-19.41.17:765][970]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.16-19.41.17:766][970]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.16-19.41.17:766][970]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.16-19.41.17:766][970]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.16-19.41.17:766][970]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.16-19.41.17:766][970]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.16-19.41.17:771][970]LogDerivedDataCache: Shutdown
+[2019.02.16-19.41.17:771][970]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.16-19.41.17:771][970]LogXGEController: Cleaning working directory: C:/Users/Gretchen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.16-19.41.17:771][970]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.16-19.41.17:771][970]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.16-19.41.17:772][970]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.16-19.41.17:773][970]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.16-19.41.17:774][970]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.16-19.41.17:774][970]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.16-19.41.17:778][970]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.16-19.41.17:778][970]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.16-19.41.17:780][970]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.16-19.41.17:780][970]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.16-19.41.17:812][970]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.16-19.41.17:812][970]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.16-19.41.17:812][970]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8FD79561-4344-852C-9E0F-C4BD6102E164%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7C43338c9144d14e44a4b3c7b69d29a6c5%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.16-19.41.17:819][970]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.16-19.41.17:820][970]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.16-19.41.17:820][970]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.16-19.41.17:821][970]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.16-19.41.17:821][970]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.16-19.41.17:821][970]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.16-19.41.17:822][970]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.16-19.41.17:822][970]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.16-19.41.17:822][970]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.16-19.41.17:822][970]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.16-19.41.17:823][970]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.16-19.41.17:823][970]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.16-19.41.17:823][970]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.16-19.41.17:824][970]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.16-19.41.17:833][970]LogExit: Exiting.
+[2019.02.16-19.41.17:843][970]Log file closed, 02/16/19 14:41:17
