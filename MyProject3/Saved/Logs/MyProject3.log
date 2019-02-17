@@ -1136,3 +1136,9 @@ Right
 [2019.02.17-22.19.44:188][158]LogModuleManager: Shutting down and abandoning module Engine (14)
 [2019.02.17-22.19.44:188][158]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
 [2019.02.17-22.19.44:188][158]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.17-22.19.44:228][158]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.17-22.19.44:228][158]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.17-22.19.44:228][158]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.17-22.19.44:228][158]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.17-22.19.44:326][158]LogExit: Exiting.
+[2019.02.17-22.19.44:331][158]Log file closed, 02/17/19 17:19:44
