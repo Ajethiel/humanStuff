@@ -2891,3 +2891,997 @@ Right
 [2019.02.19-18.36.25:771][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.02.19-18.36.26:039][947]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2D63054D8452D233FA5E58C95FC62A033.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
 [2019.02.19-18.36.26:063][947]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.292
+[2019.02.19-18.37.14:773][857]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2019.02.19-18.37.18:427][857]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2019.02.19-18.37.28:652][ 21]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.19-18.37.30:982][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.37.31:084][236]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.19-18.37.36:626][597]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.37.49:085][417]LogMaterial: Warning: Material /Game/Materials/shopCart.shopCart needed to have new flag set bUsedWithSplineMeshes !
+[2019.02.19-18.37.49:091][417]LogMaterial: Display: Missing cached shader map for material shopCart, compiling. 
+[2019.02.19-18.37.49:164][417]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.19-18.37.49:164][417]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.19-18.37.49:164][417]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.19-18.37.49:164][417]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.19-18.37.49:164][417]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-18.37.49:164][417]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-18.38.12:696][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.38.12:804][798]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.38.17:264][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.38.17:366][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.38.17:433][ 41]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts18D77A244FF31122FD5024A3E33CB488.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.38.20:842][255]LogEditorViewport: Clicking on Actor (LMB): AlienSpawn_C (AlienSpawn)
+[2019.02.19-18.38.22:968][389]Cmd: DELETE
+[2019.02.19-18.38.22:968][389]Cmd: ACTOR DELETE
+[2019.02.19-18.38.22:975][389]LogEditorActor: Deleted Actor: AlienSpawn_C
+[2019.02.19-18.38.23:002][389]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.02.19-18.38.30:415][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.38.30:492][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.38.30:550][890]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts12F9C084422290E3F571ED9C1F02AA68.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.38.35:806][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AlienSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/AlienSpawn.uasset" SILENT=true
+[2019.02.19-18.38.35:830][244]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/AlienSpawnDFC180E547C69FC92966D69D82390342.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/AlienSpawn.uasset'
+[2019.02.19-18.38.43:849][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.38.43:959][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.38.44:016][770]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts3CC9BA304EE106B0B4F3BC88F81A0988.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.38.56:357][666]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.39.00:735][943]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.39.06:534][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.39.15:663][ 91]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.39.32:685][467]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.39.33:479][512]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.39.58:402][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.39.58:461][525]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts12C3AD96452CB385323D5181DB2C7419.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.39.59:211][579]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.40.19:690][238]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.40.26:050][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.40.26:108][714]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts00D9B69E4134FC7E75E7A1B638AF008E.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.40.34:044][103]LogSlate: Window 'ShoppingCarts' being destroyed
+[2019.02.19-18.40.34:059][104]LogRenderer: Reallocating scene render targets to support 1016x688 Format 26 NumSamples 1 (Frame:95147).
+[2019.02.19-18.46.24:679][347]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2_Auto2E2653C864D39479627669AA05856A336.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_2_Auto2.umap'
+[2019.02.19-18.46.24:681][347]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.271
+[2019.02.19-18.46.24:681][347]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
+[2019.02.19-18.46.24:687][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/shopCart] ([1] browsable assets)...
+[2019.02.19-18.46.24:717][347]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/shopCart.shopCart]
+[2019.02.19-18.46.24:717][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/shopCart]
+[2019.02.19-18.46.24:717][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/shopCart" FILE="D:/humanStuff/MyProject3/Saved/Autosaves/Game/Materials/shopCart_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-18.46.24:742][347]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/shopCart_Auto2D3AD10F14EABA757C6E11187639CAE88.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/Materials/shopCart_Auto2.uasset'
+[2019.02.19-18.46.24:743][347]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.02.19-18.46.26:802][354]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-18.46.27:131][355]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-18.46.27:480][356]LogInit: XAudio2 using 'Headphones (Beats Solo³ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-18.50.12:181][441]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.12:181][441]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.50.12:919][515]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.12:919][515]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.50.13:343][559]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.13:343][559]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.13:727][598]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.13:727][598]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.14:828][723]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.14:828][723]LogEditorTransaction: Undo Resize Node
+[2019.02.19-18.50.15:097][748]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.15:097][748]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.50.15:370][773]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.15:370][773]LogEditorTransaction: Undo Resize Node
+[2019.02.19-18.50.15:614][795]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.15:614][795]LogEditorTransaction: Undo Resize Node
+[2019.02.19-18.50.15:882][820]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.15:882][820]LogEditorTransaction: Undo Resize Node
+[2019.02.19-18.50.16:107][840]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.16:107][840]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.16:405][868]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.16:405][868]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.16:649][890]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.16:649][890]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.16:926][916]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.16:926][916]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.17:194][941]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.17:194][941]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.50.17:438][963]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.17:438][963]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.50.17:715][989]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.17:715][989]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.18:009][ 17]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.18:009][ 17]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.20:590][319]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.20:590][319]LogEditorTransaction: Undo Resize Node
+[2019.02.19-18.50.20:944][354]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.20:944][354]LogEditorTransaction: Undo Move Node
+[2019.02.19-18.50.21:191][376]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.21:191][376]LogEditorTransaction: Undo Delete current selection
+[2019.02.19-18.50.21:483][402]Cmd: TRANSACTION UNDO
+[2019.02.19-18.50.21:483][402]LogEditorTransaction: Undo Rename Node
+[2019.02.19-18.50.36:880][172]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.ShoppingCarts2.StaticMesh' is not static  (in blueprint "ShoppingCarts"), cannot attach '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.ShoppingCarts2.SplineMesh' which is static to it. Aborting.
+[2019.02.19-18.50.36:881][172]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.ShoppingCarts4.StaticMesh' is not static  (in blueprint "ShoppingCarts"), cannot attach '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.ShoppingCarts4.SplineMesh' which is static to it. Aborting.
+[2019.02.19-18.50.36:882][172]PIE: Warning: AttachTo: '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.ShoppingCarts_2.StaticMesh' is not static  (in blueprint "ShoppingCarts"), cannot attach '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.ShoppingCarts_2.SplineMesh' which is static to it. Aborting.
+[2019.02.19-18.50.36:883][172]PIE: Warning: AttachTo: '/Engine/Transient.World_23:PersistentLevel.ShoppingCarts_C_0.StaticMesh' is not static  (in blueprint "ShoppingCarts"), cannot attach '/Engine/Transient.World_23:PersistentLevel.ShoppingCarts_C_0.SplineMesh' which is static to it. Aborting.
+[2019.02.19-18.50.36:883][172]PIE: Warning: AttachTo: '/Engine/Transient.World_1:PersistentLevel.ShoppingCarts_C_6.StaticMesh' is not static  (in blueprint "ShoppingCarts"), cannot attach '/Engine/Transient.World_1:PersistentLevel.ShoppingCarts_C_6.SplineMesh' which is static to it. Aborting.
+[2019.02.19-18.50.36:915][172]PIE: Warning: AttachTo: '/Engine/Transient.World_23:PersistentLevel.ShoppingCarts_C_0.StaticMesh' is not static  (in blueprint "ShoppingCarts"), cannot attach '/Engine/Transient.World_23:PersistentLevel.ShoppingCarts_C_0.SplineMesh' which is static to it. Aborting.
+[2019.02.19-18.50.41:060][662]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.50.42:388][765]LogTemp: Repeating last play command: Simulate
+[2019.02.19-18.50.42:405][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-18.50.42:405][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-18.50.42:405][765]PIE: New page: SIE session: Minimal_Default_2 (Feb 19, 2019, 8:50:42 AM)
+[2019.02.19-18.50.42:405][765]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.19-18.50.42:415][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009657s)
+[2019.02.19-18.50.42:415][765]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.19-18.50.42:415][765]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2019.02.19-18.50.42:416][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.010359s)
+[2019.02.19-18.50.42:460][765]LogInit: XAudio2 using 'Headphones (Beats Solo³ Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-18.50.42:470][765]LogInit: FAudioDevice initialized.
+[2019.02.19-18.50.42:501][765]LogLoad: Game class is 'GameModeBase'
+[2019.02.19-18.50.42:504][765]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2019.02.19-13.50.42
+[2019.02.19-18.50.42:505][765]LogWorld: Bringing up level for play took: 0.003229
+[2019.02.19-18.50.42:517][765]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.19-18.50.42:518][765]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.19-18.50.42:518][765]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.19-18.50.42:519][765]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.19-18.50.42:520][765]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.19-18.50.42:520][765]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 -0.458
+[2019.02.19-18.50.42:522][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-18.50.43:382][832]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.19-18.50.44:590][925]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.19-18.50.45:810][ 18]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.19-18.50.47:027][111]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.19-18.50.48:240][203]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.19-18.50.49:451][300]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.19-18.50.50:670][388]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.19-18.50.51:883][505]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.19-18.50.53:108][632]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.19-18.50.54:312][770]LogBlueprintUserMessages: [MotionControllerPawn_2] 100
+[2019.02.19-18.50.55:032][845]LogScript: Warning: Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill
+	Trash_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Trash_2
+	Function /Game/Blueprints/Trash.Trash_C:ExecuteUbergraph_Trash:006B
+[2019.02.19-18.50.55:033][845]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Trash Function:  Execute Ubergraph Trash Graph:  EventGraph Node:  DestroyActor
+[2019.02.19-18.50.55:063][848]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_2 via property K2Node_DynamicCast_AsScannables, but Scannables_C_2 is pending kill". Blueprint:  Trash Function:  Execute Ubergraph Trash Graph:  EventGraph Node:  DestroyActor
+[2019.02.19-18.50.55:517][900]LogBlueprintUserMessages: [MotionControllerPawn_2] 99
+[2019.02.19-18.50.56:733][992]LogBlueprintUserMessages: [MotionControllerPawn_2] 98
+[2019.02.19-18.50.56:785][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-18.50.56:887][  7]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-18.50.56:887][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-18.50.56:924][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-18.50.56:924][  7]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-18.50.56:954][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-18.50.56:999][  9]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2019.02.19-18.51.02:153][357]LogSlate: Window 'Message Log' being destroyed
+[2019.02.19-18.51.02:160][357]LogSlate: Window 'Message Log' being destroyed
+[2019.02.19-18.51.04:111][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.51.04:177][526]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCartsA701440745E89BB392143A85C6985A8F.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.51.41:270][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpawn.CartSpawn
+[2019.02.19-18.51.52:620][569]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.19-18.51.58:796][ 78]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpline.CartSpline
+[2019.02.19-18.52.00:879][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpline" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset" SILENT=true
+[2019.02.19-18.52.00:884][291]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpline6F27A5DF4EC3D508547CBFAF8C3F593A.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset'
+[2019.02.19-18.52.48:173][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.52.48:518][626]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCartsB0BAF31D466945E9C2476390E276BADB.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.53.16:361][943]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.54.26:387][442]BlueprintLog: New page: Compile CartSpline
+[2019.02.19-18.54.40:151][ 70]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.56.26:452][162]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.56.40:401][203]LogEditorTransaction: Undo Promote To Variable
+[2019.02.19-18.56.47:788][ 77]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.57.23:781][954]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.57.37:485][559]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.57.38:084][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-18.57.38:154][600]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts1B0F9BA74E1FAFFC0A77EAB34094978D.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-18.57.54:206][147]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-18.58.19:071][324]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2_Auto395ACBEA3489998A762443494B11EC022.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_2_Auto3.umap'
+[2019.02.19-18.58.19:073][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.273
+[2019.02.19-18.58.19:073][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.273
+[2019.02.19-18.58.19:079][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ShoppingCarts] ([1] browsable assets)...
+[2019.02.19-18.58.19:101][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts]
+[2019.02.19-18.58.19:101][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ShoppingCarts]
+[2019.02.19-18.58.19:101][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/ShoppingCarts_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-18.58.19:170][324]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts_Auto3954820C84FF153399FC57FA6C7E811BC.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/ShoppingCarts_Auto3.uasset'
+[2019.02.19-18.58.19:170][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CartSpline] ([1] browsable assets)...
+[2019.02.19-18.58.19:171][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CartSpline]
+[2019.02.19-18.58.19:171][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpline" FILE="D:/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/CartSpline_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-18.58.19:189][324]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpline_Auto39CFE899F4AB56FBA3D0C36A49CAD85C5.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/CartSpline_Auto3.uasset'
+[2019.02.19-18.58.19:189][324]LogFileHelpers: Auto-saving content packages took 0.111
+[2019.02.19-18.59.09:007][505]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.01.58:299][433]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.02.19:276][288]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.02.20:786][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-19.02.20:856][436]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCartsDDD2160742F0E5172A84159695E98C59.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-19.02.58:928][913]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.04.08:700][607]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.04.25:108][542]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.04.26:257][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-19.04.26:366][649]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts0424B66C45D2DB4FE438F9A6AE962768.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-19.06.04:069][128]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.06.08:995][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-19.06.09:069][687]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCartsC5E72026423796E2FC2F2EAF17287403.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-19.06.16:444][568]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.06.17:840][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-19.06.17:914][703]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCarts4E585D22428456A59C18B9970C8F7734.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-19.06.46:087][466]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.19-19.06.54:203][108]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BabyCarts.BabyCarts
+[2019.02.19-19.07.05:575][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.19-19.07.05:590][431]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/BabyCarts113EF1714EE2B36D166D459805872553.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.19-19.08.31:332][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.19-19.08.47:700][797]BlueprintLog: New page: Compile BabyCarts
+[2019.02.19-19.08.48:293][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.19-19.08.48:322][846]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/BabyCarts59BB0FFF4503D63D1B71A1A37CD3899B.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.19-19.09.14:252][329]BlueprintLog: New page: Compile BabyCarts
+[2019.02.19-19.10.33:134][676]BlueprintLog: New page: Compile BabyCarts
+[2019.02.19-19.10.33:602][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.19-19.10.33:633][708]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/BabyCartsEBD2A3D54627D44603017BB32CEE39C2.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.19-19.10.44:612][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.19-19.10.44:636][ 21]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/BabyCarts5BB5FF194A0DD449519383871353DEAC.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.19-19.10.47:217][157]LogSlate: Window 'Save Content' being destroyed
+[2019.02.19-19.10.47:237][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpline" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset" SILENT=true
+[2019.02.19-19.10.47:254][157]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpline403573864CECBC4AAF3A25A412377744.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset'
+[2019.02.19-19.10.47:260][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/shopCart" FILE="D:/humanStuff/MyProject3/Content/Materials/shopCart.uasset" SILENT=true
+[2019.02.19-19.10.47:276][157]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/shopCart6498570A4C06680270AE508DABD3F02A.tmp' to 'D:/humanStuff/MyProject3/Content/Materials/shopCart.uasset'
+[2019.02.19-19.10.47:281][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-19.10.47:556][157]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_245BDBC4A430B8ADE7C083383B9F48523.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.19-19.10.47:582][157]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.300
+[2019.02.19-19.12.38:480][218]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-19.12.42:230][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.19-19.12.42:255][441]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/BabyCarts1CB1AB0A472E612431E30FBDC109F07E.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.19-19.14.43:049][645]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.19-19.14.57:291][499]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/SplineAI.SplineAI
+[2019.02.19-19.15.45:520][378]BlueprintLog: New page: Compile SplineAI
+[2019.02.19-19.16.33:512][564]BlueprintLog: New page: Compile SplineAI
+[2019.02.19-19.16.34:155][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SplineAI" FILE="D:/humanStuff/MyProject3/Content/AI/SplineAI.uasset" SILENT=true
+[2019.02.19-19.16.34:164][593]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/SplineAIABFA15364494BD9380F283B5FF7C1EEC.tmp' to 'D:/humanStuff/MyProject3/Content/AI/SplineAI.uasset'
+[2019.02.19-19.17.18:121][ 83]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.02.19-19.17.19:527][165]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.19-19.17.19:531][165]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.02.19-19.17.20:577][228]BlueprintLog: New page: Compile SplineAI
+[2019.02.19-19.17.34:233][ 35]BlueprintLog: New page: Compile SplineAI
+[2019.02.19-19.17.34:879][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/SplineAI" FILE="D:/humanStuff/MyProject3/Content/AI/SplineAI.uasset" SILENT=true
+[2019.02.19-19.17.34:902][ 64]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/SplineAI316523B045C9F5ACED5A80B46B21FEF0.tmp' to 'D:/humanStuff/MyProject3/Content/AI/SplineAI.uasset'
+[2019.02.19-19.18.47:820][733]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-19.18.51:168][933]BlueprintLog: New page: Compile BabyCarts
+[2019.02.19-19.18.51:783][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.19-19.18.51:854][958]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/BabyCartsB6E8023E409F46434F4F5C99D9AD4088.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.19-19.19.38:525][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpline" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset" SILENT=true
+[2019.02.19-19.19.38:544][331]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpline51C6EE8840A63554C1AD1B836CC57571.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset'
+[2019.02.19-19.19.45:210][730]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpawn.CartSpawn
+[2019.02.19-19.20.07:485][ 51]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.20.21:785][759]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-19.20.28:898][184]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.20.40:994][534]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.20.53:901][296]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.21.19:144][557]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2_Auto48AFBC9A14DA31BBCBAF1B0B6BF411914.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_2_Auto4.umap'
+[2019.02.19-19.21.19:183][557]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.312
+[2019.02.19-19.21.19:184][557]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2019.02.19-19.21.19:189][557]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CartSpawn] ([1] browsable assets)...
+[2019.02.19-19.21.19:189][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CartSpawn]
+[2019.02.19-19.21.19:189][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/CartSpawn_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-19.21.19:221][557]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn_Auto493C4D3D543C8E98AB3AB0985CDE399C0.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/CartSpawn_Auto4.uasset'
+[2019.02.19-19.21.19:221][557]LogFileHelpers: Auto-saving content packages took 0.032
+[2019.02.19-19.21.34:914][498]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.22.13:686][105]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.23.05:766][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.23.05:798][756]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnFCC33BD540AC42B449109188A41E483D.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.23.15:844][356]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.23.15:859][356]LogClass: Warning: Type mismatch in SplineDistance of CartSpawn_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.02.19-19.23.15:859][356]LogClass: Warning: Type mismatch in Division of CartSpawn_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2019.02.19-19.23.15:859][356]LogClass: Warning: Type mismatch in Index of CartSpawn_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2019.02.19-19.23.15:859][356]LogBlueprint: Warning: [Compiler CartSpawn] Can't parse default value 'False' for  . Property: Index.
+[2019.02.19-19.23.15:859][356]LogBlueprint: Warning: [Compiler CartSpawn] Can't parse default value 'False' for  . Property: Division.
+[2019.02.19-19.23.15:859][356]LogBlueprint: Warning: [Compiler CartSpawn] Can't parse default value 'False' for  . Property: SplineDistance.
+[2019.02.19-19.23.16:010][356]LogBlueprint: Warning: [Compiler CartSpawn] [5150.62] Compile of CartSpawn successful, but with 3 Warning(s) [in 166 ms] (/Game/Blueprints/CartSpawn.CartSpawn)
+[2019.02.19-19.23.26:534][987]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.23.28:298][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.23.28:331][ 82]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn20280C6A406290E4DB98F6940465F646.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.24.29:997][178]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.24.44:016][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.24.44:049][435]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnA415587247FFDCA183E6EDBA82196C18.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.24.51:666][739]LogSlate: Window 'Save Content' being destroyed
+[2019.02.19-19.24.51:689][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-19.24.51:959][739]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2C535F1AB42312F995461B29476EA636F.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.19-19.24.51:985][739]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.296
+[2019.02.19-19.24.55:775][964]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{98a5da14-1ecd-4ab3-8ede-6a9d1024b119} was removed. Shutting down audio device.
+[2019.02.19-19.24.55:776][964]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-19.24.55:981][965]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-19.32.07:108][624]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.32.31:630][ 82]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.33.20:589][  5]BlueprintLog: New page: Compile CartSpline
+[2019.02.19-19.33.57:213][189]BlueprintLog: New page: Compile CartSpline
+[2019.02.19-19.33.57:828][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpline" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset" SILENT=true
+[2019.02.19-19.33.57:848][215]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSplineB63C01E9460D2FAD11FCA3AFC3FF6106.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset'
+[2019.02.19-19.34.17:421][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpline" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset" SILENT=true
+[2019.02.19-19.34.17:440][386]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSplineF2694F6741C641E556BAE18FF34728A3.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpline.uasset'
+[2019.02.19-19.34.30:601][173]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.34.31:739][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.34.31:814][230]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn3CFBC4254D3D27D120D6378144F567B6.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.35.10:898][567]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.35.39:296][252]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.35.39:851][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.35.39:887][274]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn373E72484074C6780E576EB70A6CED4E.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.36.02:818][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.36.02:854][648]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnC5A286644F6E0F3A9AF7CCB574E86E15.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.36.04:811][747]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2_Auto5B8D9CCEE495E23E0A927F69AEB315C95.tmp' to 'D:/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_2_Auto5.umap'
+[2019.02.19-19.36.04:815][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.277
+[2019.02.19-19.36.04:815][747]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2019.02.19-19.36.27:461][100]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.36.35:187][553]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.38.20:609][868]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.40.20:859][ 40]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.40.38:574][ 88]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.41.19:600][531]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.41.22:837][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.41.22:879][713]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnA9BAB3E64316B52A3CD240908E11B024.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.41.26:344][838]LogSlate: Window 'Save Content' being destroyed
+[2019.02.19-19.41.26:366][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-19.41.26:639][838]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2FAA4A4F5450E1DA910915CB43E84D8C2.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.19-19.41.26:664][838]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.298
+[2019.02.19-19.41.41:172][708]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.41.42:091][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.41.42:132][751]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnFCE9E1BE4BB7141F6E438AA8ED227E89.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.43.21:815][718]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.43.22:395][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.43.22:440][740]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnBCAFAA8E42B5CF5238C821AB864BBB78.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.44.10:767][636]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.44.11:569][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.44.11:614][671]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn29DCC4AF44CF0D2B4A904299B7FC7729.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.44.54:463][237]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.44.55:555][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.44.55:600][290]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnA86DBE334BD00069AC6FF6B0B13FAC5B.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.45.27:390][194]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.46.22:349][459]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.46.22:930][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.46.22:979][481]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn09876A91418B6885119D4BB84A433D7A.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.46.27:287][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.46.27:335][738]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn284ED97D47EB77053F81BC9FC8C72E23.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.46.34:061][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.46.34:108][140]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnCB5550A64CB3ACBEF1639E825920AF62.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.47.13:048][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.47.13:096][472]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn4064606046F1C80808CB85ABA533EE1A.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.47.16:044][585]LogSlate: Window 'Save Content' being destroyed
+[2019.02.19-19.47.16:065][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-19.47.16:340][585]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_25C1ADCB444B71C16228EF68B0543B233.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.19-19.47.16:366][585]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.300
+[2019.02.19-19.47.32:893][570]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.47.33:837][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.47.33:886][613]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn8A7F645F4BFE4E87488BFBA7157F9E55.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.47.51:838][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.47.51:887][688]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn94DAB88043FC15CFFB901DB7C62DD5A3.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.47.55:763][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-19.47.56:032][917]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2F87BDB834F7686F83B8520ABAD4D52BB.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.19-19.47.56:057][917]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.293
+[2019.02.19-19.48.02:205][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.48.02:253][285]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnE7A5AC184E00ADFBA46489B5D3B39841.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.48.40:195][557]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.19-19.48.43:397][746]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.19-19.48.44:482][806]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.19-19.48.46:973][953]Cmd: DELETE
+[2019.02.19-19.48.46:973][953]Cmd: ACTOR DELETE
+[2019.02.19-19.48.46:979][953]LogEditorActor: Deleted Actor: ShoppingCarts_C
+[2019.02.19-19.48.47:005][953]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.02.19-19.48.47:624][990]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.19-19.48.47:927][  6]Cmd: DELETE
+[2019.02.19-19.48.47:927][  6]Cmd: ACTOR DELETE
+[2019.02.19-19.48.47:932][  6]LogEditorActor: Deleted Actor: ShoppingCarts_C
+[2019.02.19-19.48.47:960][  6]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.02.19-19.48.52:451][276]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.19-19.48.53:887][360]Cmd: DELETE
+[2019.02.19-19.48.53:888][360]Cmd: ACTOR DELETE
+[2019.02.19-19.48.53:893][360]LogEditorActor: Deleted Actor: ShoppingCarts_C
+[2019.02.19-19.48.53:921][360]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.02.19-19.49.01:278][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-19.49.01:434][811]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.19-19.49.33:687][727]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.19-19.49.43:067][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.19-19.49.43:139][269]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/ShoppingCartsB9CD08F94EE87B62E78FF0A7395B3144.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.19-19.50.03:394][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-19.50.07:683][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-19.50.14:001][115]LogTemp: Repeating last play command: Simulate
+[2019.02.19-19.50.14:018][115]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.14:018][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-19.50.14:018][115]PIE: New page: SIE session: Minimal_Default_2 (Feb 19, 2019, 9:50:14 AM)
+[2019.02.19-19.50.14:018][115]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.19-19.50.14:027][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009400s)
+[2019.02.19-19.50.14:027][115]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.19-19.50.14:027][115]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.02.19-19.50.14:027][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.009997s)
+[2019.02.19-19.50.14:061][115]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-19.50.14:135][115]LogInit: FAudioDevice initialized.
+[2019.02.19-19.50.14:171][115]LogLoad: Game class is 'GameModeBase'
+[2019.02.19-19.50.14:175][115]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.19-14.50.14
+[2019.02.19-19.50.14:175][115]LogWorld: Bringing up level for play took: 0.003043
+[2019.02.19-19.50.14:187][115]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.19-19.50.14:188][115]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.19-19.50.14:188][115]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.19-19.50.14:189][115]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.19-19.50.14:190][115]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.19-19.50.14:190][115]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 -0.788
+[2019.02.19-19.50.14:196][115]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.14:995][163]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.19-19.50.16:196][235]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.19-19.50.17:410][307]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.19-19.50.18:028][344]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.18:028][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-19.50.18:065][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-19.50.18:065][344]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.18:093][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-19.50.18:141][347]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2019.02.19-19.50.25:025][760]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.19-19.50.30:493][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-19.50.31:720][159]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-19.50.37:462][502]LogTemp: Repeating last play command: Simulate
+[2019.02.19-19.50.37:477][502]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.37:477][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-19.50.37:477][502]PIE: New page: SIE session: Minimal_Default_2 (Feb 19, 2019, 9:50:37 AM)
+[2019.02.19-19.50.37:477][502]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.19-19.50.37:486][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009100s)
+[2019.02.19-19.50.37:487][502]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.19-19.50.37:487][502]LogPlayLevel: PIE: World Init took: (0.000474s)
+[2019.02.19-19.50.37:487][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.009695s)
+[2019.02.19-19.50.37:520][502]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-19.50.37:596][502]LogInit: FAudioDevice initialized.
+[2019.02.19-19.50.37:629][502]LogLoad: Game class is 'GameModeBase'
+[2019.02.19-19.50.37:633][502]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.19-14.50.37
+[2019.02.19-19.50.37:633][502]LogWorld: Bringing up level for play took: 0.003019
+[2019.02.19-19.50.37:646][502]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.19-19.50.37:647][502]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.19-19.50.37:647][502]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.19-19.50.37:648][502]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.19-19.50.37:648][502]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.19-19.50.37:649][502]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.671
+[2019.02.19-19.50.37:654][502]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.38:455][550]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.19-19.50.39:655][622]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.19-19.50.40:864][692]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.19-19.50.42:073][762]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.19-19.50.43:273][834]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.19-19.50.44:485][906]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.19-19.50.45:684][978]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.19-19.50.46:884][ 50]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.19-19.50.48:084][122]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.19-19.50.48:303][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.48:303][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-19.50.48:339][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-19.50.48:339][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.50.48:367][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-19.50.48:416][138]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2019.02.19-19.50.57:458][680]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CartSpawn.CartSpawn
+[2019.02.19-19.51.13:947][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.51.13:994][651]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn5DF25815491D02EE8BB2D2B0441E695A.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.52.41:871][916]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.54.40:525][428]LogSlate: Window 'Delete Variable' being destroyed
+[2019.02.19-19.56.23:326][573]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.56.24:014][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.56.24:067][600]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnD6FC97C848408B6D5C246D900EF8FC6C.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.56.46:778][960]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.56.47:467][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.56.47:516][988]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnBB7D7C33402EC84E11F1659929DCB25A.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.57.10:929][390]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.57.11:865][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.57.11:914][433]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn9199CF3C44988C8EC27DCF8791A161D0.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.57.24:868][207]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.58.33:290][285]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.58.33:900][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.58.33:950][308]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnE912F69E490239193829EBBC244AD868.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.58.46:119][ 32]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.58.46:312][ 32]BlueprintLog: New page: Compile CartSpawn
+[2019.02.19-19.58.46:901][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.58.46:950][ 54]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnCD945343400A22C84973EFA25B6C367D.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.58.47:249][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.58.47:297][ 71]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawn310EC0534CB9A5F0FA814EBE2A28774C.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.58.48:904][167]LogTemp: Repeating last play command: Simulate
+[2019.02.19-19.58.48:925][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.58.48:925][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-19.58.48:925][167]PIE: New page: SIE session: Minimal_Default_2 (Feb 19, 2019, 9:58:48 AM)
+[2019.02.19-19.58.48:925][167]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.19-19.58.48:935][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009337s)
+[2019.02.19-19.58.48:935][167]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.19-19.58.48:935][167]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2019.02.19-19.58.48:935][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.009991s)
+[2019.02.19-19.58.48:969][167]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.19-19.58.49:051][167]LogInit: FAudioDevice initialized.
+[2019.02.19-19.58.49:084][167]LogLoad: Game class is 'GameModeBase'
+[2019.02.19-19.58.49:087][167]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.19-14.58.49
+[2019.02.19-19.58.49:088][167]LogWorld: Bringing up level for play took: 0.003118
+[2019.02.19-19.58.49:100][167]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.19-19.58.49:100][167]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.19-19.58.49:101][167]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.19-19.58.49:102][167]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.19-19.58.49:102][167]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.19-19.58.49:102][167]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.125
+[2019.02.19-19.58.49:108][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.58.49:891][214]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.19-19.58.51:092][286]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.19-19.58.52:292][358]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.19-19.58.53:491][430]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.19-19.58.54:692][502]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.19-19.58.55:892][574]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.19-19.58.57:092][646]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.19-19.58.58:292][718]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.19-19.58.59:044][763]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.58.59:045][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-19.58.59:082][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-19.58.59:082][763]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.19-19.58.59:113][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-19.58.59:143][765]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.02.19-19.59.04:008][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CartSpawn" FILE="D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset" SILENT=true
+[2019.02.19-19.59.04:057][ 55]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/CartSpawnAEEDC5264BEDDCF71905788DB0C1F4FD.tmp' to 'D:/humanStuff/MyProject3/Content/Blueprints/CartSpawn.uasset'
+[2019.02.19-19.59.07:511][200]LogSlate: Window 'Save Content' being destroyed
+[2019.02.19-19.59.07:532][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_2" FILE="D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-19.59.07:805][200]LogSavePackage: Moving 'D:/humanStuff/MyProject3/Saved/Minimal_Default_2D70F6E6D40C596134875DCB2A08650C7.tmp' to 'D:/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.19-19.59.07:830][200]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.298
+[2019.02.19-19.59.09:334][280]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.19-19.59.09:384][280]LogSlate: Window 'MyProject3 - Unreal Editor' being destroyed
+[2019.02.19-19.59.09:557][281]Cmd: QUIT_EDITOR
+[2019.02.19-19.59.09:786][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.19-19.59.09:794][281]LogExit: Preparing to exit.
+[2019.02.19-19.59.10:124][281]LogExit: Editor shut down
+[2019.02.19-19.59.10:124][281]LogExit: Transaction tracking system shut down
+[2019.02.19-19.59.10:411][281]LogExit: Object subsystem successfully closed.
+[2019.02.19-19.59.10:428][281]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.19-19.59.10:431][281]LogD3D11RHI: Shutdown
+[2019.02.19-19.59.10:431][281]LogD3D11RHI: CleanupD3DDevice
+[2019.02.19-19.59.10:434][281]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.02.19-19.59.10:498][281]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.02.19-19.59.10:507][281]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.02.19-19.59.10:507][281]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.02.19-19.59.10:507][281]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.02.19-19.59.10:507][281]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.02.19-19.59.10:507][281]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.02.19-19.59.10:507][281]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.02.19-19.59.10:509][281]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.02.19-19.59.10:510][281]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.02.19-19.59.10:511][281]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.02.19-19.59.10:511][281]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.02.19-19.59.10:511][281]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.02.19-19.59.10:511][281]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.02.19-19.59.10:511][281]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.02.19-19.59.10:511][281]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.02.19-19.59.10:512][281]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.02.19-19.59.10:513][281]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.02.19-19.59.10:513][281]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.02.19-19.59.10:514][281]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.02.19-19.59.10:514][281]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.02.19-19.59.10:514][281]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.02.19-19.59.10:514][281]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.02.19-19.59.10:514][281]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.02.19-19.59.10:514][281]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.02.19-19.59.10:656][281]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.02.19-19.59.10:656][281]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.02.19-19.59.10:656][281]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.02.19-19.59.10:656][281]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.02.19-19.59.10:656][281]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.02.19-19.59.10:656][281]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.02.19-19.59.10:657][281]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.02.19-19.59.10:658][281]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.02.19-19.59.10:659][281]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.02.19-19.59.10:659][281]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.02.19-19.59.10:659][281]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.02.19-19.59.10:659][281]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.02.19-19.59.10:713][281]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.02.19-19.59.10:713][281]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.02.19-19.59.10:714][281]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.02.19-19.59.10:718][281]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.02.19-19.59.10:718][281]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.02.19-19.59.10:718][281]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.02.19-19.59.10:719][281]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.02.19-19.59.10:719][281]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.02.19-19.59.10:719][281]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.02.19-19.59.10:719][281]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.02.19-19.59.10:723][281]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.02.19-19.59.10:723][281]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.02.19-19.59.10:724][281]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.02.19-19.59.10:724][281]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.02.19-19.59.10:725][281]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.02.19-19.59.10:725][281]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.02.19-19.59.10:725][281]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.02.19-19.59.10:726][281]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.02.19-19.59.10:729][281]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.02.19-19.59.10:980][281]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.02.19-19.59.10:981][281]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.02.19-19.59.10:981][281]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.02.19-19.59.10:981][281]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.02.19-19.59.10:981][281]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.02.19-19.59.10:985][281]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.02.19-19.59.10:986][281]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.02.19-19.59.10:987][281]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.02.19-19.59.10:987][281]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.02.19-19.59.10:988][281]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.02.19-19.59.10:989][281]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.02.19-19.59.10:991][281]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.02.19-19.59.11:092][281]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.02.19-19.59.11:192][281]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.19-19.59.11:192][281]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.19-19.59.11:192][281]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.19-19.59.11:193][281]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.19-19.59.11:193][281]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.19-19.59.11:193][281]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.19-19.59.11:194][281]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.19-19.59.11:195][281]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.19-19.59.11:195][281]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.19-19.59.11:195][281]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.19-19.59.11:195][281]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.19-19.59.11:196][281]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.19-19.59.11:198][281]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.19-19.59.11:205][281]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.19-19.59.11:205][281]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.19-19.59.11:205][281]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.19-19.59.11:206][281]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.19-19.59.11:206][281]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.19-19.59.11:206][281]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.19-19.59.11:206][281]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.19-19.59.11:206][281]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.19-19.59.11:207][281]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.19-19.59.11:207][281]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.19-19.59.11:208][281]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.19-19.59.11:208][281]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.19-19.59.11:208][281]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.19-19.59.11:208][281]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.19-19.59.11:208][281]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.19-19.59.11:208][281]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.19-19.59.11:210][281]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.19-19.59.11:210][281]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.19-19.59.11:215][281]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.19-19.59.11:215][281]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.19-19.59.11:216][281]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.19-19.59.11:216][281]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.19-19.59.11:216][281]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.19-19.59.11:217][281]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.19-19.59.11:218][281]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.19-19.59.11:220][281]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.19-19.59.11:220][281]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.19-19.59.11:220][281]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.19-19.59.11:220][281]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.19-19.59.11:220][281]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.19-19.59.11:276][281]LogDerivedDataCache: Shutdown
+[2019.02.19-19.59.11:276][281]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.19-19.59.11:276][281]LogXGEController: Cleaning working directory: C:/Users/Gretchen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.19-19.59.11:276][281]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.19-19.59.11:276][281]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.19-19.59.11:276][281]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.19-19.59.11:276][281]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.19-19.59.11:278][281]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.19-19.59.11:278][281]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.19-19.59.11:279][281]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.19-19.59.11:280][281]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.19-19.59.11:280][281]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.19-19.59.11:284][281]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.19-19.59.11:284][281]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.19-19.59.11:285][281]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.19-19.59.11:291][281]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.19-19.59.11:321][281]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.19-19.59.11:321][281]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.19-19.59.11:321][281]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6716CF39-48E9-E293-2383-52B1898AC339%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7C43338c9144d14e44a4b3c7b69d29a6c5%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.19-19.59.11:335][281]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.19-19.59.11:336][281]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.19-19.59.11:336][281]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.19-19.59.11:337][281]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.19-19.59.11:338][281]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.19-19.59.11:338][281]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.19-19.59.11:338][281]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.19-19.59.11:339][281]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.19-19.59.11:339][281]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.19-19.59.11:339][281]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.19-19.59.11:342][281]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.19-19.59.11:343][281]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.19-19.59.11:352][281]LogExit: Exiting.
+[2019.02.19-19.59.11:373][281]Log file closed, 02/19/19 14:59:11
