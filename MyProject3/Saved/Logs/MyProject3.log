@@ -973,3 +973,123 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.21-13.25.51:335][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.02.21-13.25.54:138][383]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/test6F6F3400404F4B3837289DA977C06A87.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/test.umap'
 [2019.02.21-13.25.54:226][383]LogFileHelpers: Saving map 'test' took 2.884
+[2019.02.21-13.32.28:894][805]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Connect.Connect
+[2019.02.21-13.32.35:520][324]LogSlate: Window 'AlienSpawn' being destroyed
+[2019.02.21-13.32.35:524][324]LogSlate: Window 'AlienSpawn' being destroyed
+[2019.02.21-13.32.35:525][324]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.21-13.32.35:964][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-13.34.42:677][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-13.34.42:772][950]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.21-13.34.43:698][ 43]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Aliens.Aliens
+[2019.02.21-13.35.08:436][417]BlueprintLog: New page: Compile Aliens
+[2019.02.21-13.35.20:686][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.21-13.35.25:264][278]BlueprintLog: New page: Compile Aliens
+[2019.02.21-13.35.28:146][575]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.21-13.35.29:478][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.21-13.35.29:484][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.21-13.35.31:724][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-13.35.31:807][994]LogTemp: Repeating last play command: Simulate
+[2019.02.21-13.35.31:847][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.31:847][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-13.35.31:847][994]PIE: New page: SIE session: test (Feb 21, 2019, 3:35:31 AM)
+[2019.02.21-13.35.31:847][994]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_test
+[2019.02.21-13.35.31:851][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003915s)
+[2019.02.21-13.35.31:852][994]LogAIModule: Creating AISystem for world test
+[2019.02.21-13.35.31:852][994]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2019.02.21-13.35.31:852][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/test.test to /Game/StarterContent/Maps/UEDPIE_0_test.test (0.004866s)
+[2019.02.21-13.35.31:930][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.21-13.35.31:952][994]LogInit: FAudioDevice initialized.
+[2019.02.21-13.35.31:986][994]LogLoad: Game class is 'GameModeBase'
+[2019.02.21-13.35.31:987][994]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2019.02.21-08.35.31
+[2019.02.21-13.35.31:987][994]LogWorld: Bringing up level for play took: 0.000853
+[2019.02.21-13.35.31:999][994]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.21-13.35.32:000][994]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_test -0.673
+[2019.02.21-13.35.32:011][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.36:582][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.36:583][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-13.35.36:625][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-13.35.36:625][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.36:698][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-13.35.36:725][542]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.02.21-13.35.38:326][724]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.21-13.35.39:779][889]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.21-13.35.42:069][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-13.35.42:177][170]LogTemp: Repeating last play command: Simulate
+[2019.02.21-13.35.42:213][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.42:213][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-13.35.42:213][170]PIE: New page: SIE session: test (Feb 21, 2019, 3:35:42 AM)
+[2019.02.21-13.35.42:213][170]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_test
+[2019.02.21-13.35.42:217][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003533s)
+[2019.02.21-13.35.42:217][170]LogAIModule: Creating AISystem for world test
+[2019.02.21-13.35.42:218][170]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.02.21-13.35.42:218][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/test.test to /Game/StarterContent/Maps/UEDPIE_0_test.test (0.004437s)
+[2019.02.21-13.35.42:294][170]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.21-13.35.42:316][170]LogInit: FAudioDevice initialized.
+[2019.02.21-13.35.42:350][170]LogLoad: Game class is 'GameModeBase'
+[2019.02.21-13.35.42:351][170]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2019.02.21-08.35.42
+[2019.02.21-13.35.42:352][170]LogWorld: Bringing up level for play took: 0.000854
+[2019.02.21-13.35.42:365][170]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.21-13.35.42:366][170]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_test -0.309
+[2019.02.21-13.35.42:376][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.45:019][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.45:019][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-13.35.45:054][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-13.35.45:054][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.35.45:127][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-13.35.45:150][487]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.21-13.37.19:341][ 18]BlueprintLog: New page: Compile Aliens
+[2019.02.21-13.37.39:371][143]BlueprintLog: New page: Compile Aliens
+[2019.02.21-13.38.43:842][928]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/test_Auto1B3ACBEC547B99A07A26247A178BCD39F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/test_Auto1.umap'
+[2019.02.21-13.38.43:860][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/test' took 4.763
+[2019.02.21-13.38.43:860][928]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.763
+[2019.02.21-13.38.43:864][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Aliens] ([1] browsable assets)...
+[2019.02.21-13.38.43:885][928]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Aliens.Aliens]
+[2019.02.21-13.38.43:885][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Aliens]
+[2019.02.21-13.38.44:642][928]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Aliens_Auto1FF44B94A4CCA5FD8684F6AADEDE5D4FD.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/Aliens_Auto1.uasset'
+[2019.02.21-13.38.44:654][928]LogFileHelpers: Auto-saving content packages took 0.791
+[2019.02.21-13.42.25:192][ 88]LogSlate: Window 'Aliens*' being destroyed
+[2019.02.21-13.42.26:393][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-13.54.44:594][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.21-13.55.16:833][ 37]BlueprintLog: New page: Compile Aliens
+[2019.02.21-13.55.18:475][200]LogTemp: Repeating last play command: Simulate
+[2019.02.21-13.55.18:509][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.55.18:509][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.21-13.55.18:509][200]PIE: New page: SIE session: test (Feb 21, 2019, 3:55:18 AM)
+[2019.02.21-13.55.18:510][200]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_test
+[2019.02.21-13.55.18:514][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004396s)
+[2019.02.21-13.55.18:515][200]LogAIModule: Creating AISystem for world test
+[2019.02.21-13.55.18:515][200]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2019.02.21-13.55.18:515][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/test.test to /Game/StarterContent/Maps/UEDPIE_0_test.test (0.005466s)
+[2019.02.21-13.55.18:602][200]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.21-13.55.18:629][200]LogInit: FAudioDevice initialized.
+[2019.02.21-13.55.18:665][200]LogLoad: Game class is 'GameModeBase'
+[2019.02.21-13.55.18:666][200]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_test.test up for play (max tick rate 0) at 2019.02.21-08.55.18
+[2019.02.21-13.55.18:667][200]LogWorld: Bringing up level for play took: 0.000909
+[2019.02.21-13.55.18:680][200]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.21-13.55.18:681][200]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_test -0.006
+[2019.02.21-13.55.18:684][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.55.26:841][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.55.26:841][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-13.55.26:879][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.21-13.55.26:880][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/test.test:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/test.test:PersistentLevel.test' with GeneratedClass '/Game/StarterContent/Maps/test.test_C' with ClassGeneratedBy '/Game/StarterContent/Maps/test.test:PersistentLevel.test'
+[2019.02.21-13.55.26:957][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.21-13.55.26:986][178]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.02.21-13.56.44:477][274]BlueprintLog: New page: Compile Aliens
+[2019.02.21-13.56.45:527][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Aliens" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Aliens.uasset" SILENT=true
+[2019.02.21-13.56.47:317][356]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Aliens998D79C94B1709C2E3260C8395B583BD.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Aliens.uasset'
+[2019.02.21-13.56.57:523][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Aliens" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Aliens.uasset" SILENT=true
+[2019.02.21-13.56.58:708][575]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Aliens814C70944E8DB921D7157495671BD6FC.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Aliens.uasset'
+[2019.02.21-13.57.51:525][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Aliens" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Aliens.uasset" SILENT=true
+[2019.02.21-13.57.52:906][906]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Aliens1953F73C4DC4845C87CA679262F5E6B7.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Aliens.uasset'
+[2019.02.21-13.58.03:326][615]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Door.Door
+[2019.02.21-13.58.19:938][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Door" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Door.uasset" SILENT=true
+[2019.02.21-13.58.22:028][538]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/DoorB2FCED6C48A818B00B1D97A49B3F805F.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Door.uasset'
+[2019.02.21-13.58.52:090][ 91]BlueprintLog: New page: Compile Door
+[2019.02.21-13.58.52:813][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Door" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Door.uasset" SILENT=true
+[2019.02.21-13.58.54:017][135]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Door96EB7FB449B330AA3587369A67337FB0.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Door.uasset'
+[2019.02.21-13.58.56:606][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Door" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Door.uasset" SILENT=true
+[2019.02.21-13.58.57:120][439]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/Door697E383B42BAB10456F10EA86D09BBFB.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/Blueprints/Door.uasset'
+[2019.02.21-13.58.59:437][701]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.21-13.59.01:633][775]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/testF379CDE84F75B7DE9457C3B132E7B735.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/test.umap'
+[2019.02.21-13.59.01:732][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/test_BuiltData" FILE="//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/test_BuiltData.uasset" SILENT=true
+[2019.02.21-13.59.02:267][775]LogSavePackage: Moving '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Saved/test_BuiltData06AE412B40F9FABD002F2C8B3121CA84.tmp' to '//sav-stufile.ad.scad.edu/stuhome/GitHub/humanStuff/MyProject3/Content/StarterContent/Maps/test_BuiltData.uasset'
