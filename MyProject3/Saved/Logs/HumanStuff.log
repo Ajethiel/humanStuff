@@ -1,0 +1,1249 @@
+﻿Log file open, 02/26/19 05:27:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HumanStuff
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205702
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.214s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4690K CPU @ 3.50GHz, GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Unreal Engine/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.040s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.26-10.27.13:000][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.26-10.27.13:001][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:001][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.26-10.27.13:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.26-10.27.13:025][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.26-10.27.13:025][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.26-10.27.13:025][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.26-10.27.13:055][  0]LogHAL: Display: Platform has ~ 16 GB [17034178560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.26-10.27.13:055][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.26-10.27.13:055][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.26-10.27.13:055][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:055][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.26-10.27.13:055][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.26-10.27.13:055][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:055][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.02.26-10.27.13:055][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:055][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.26-10.27.13:056][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.26-10.27.13:059][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.26-10.27.13:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.27.13:059][  0]LogInit: Computer: DESKTOP-Q8E4V8A
+[2019.02.26-10.27.13:059][  0]LogInit: User: gretc
+[2019.02.26-10.27.13:059][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.26-10.27.13:059][  0]LogInit: High frequency timer resolution =3.417969 MHz
+[2019.02.26-10.27.13:059][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.26-10.27.13:059][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.26-10.27.13:059][  0]LogMemory: Process Physical Memory: 102.27 MB used, 102.27 MB peak
+[2019.02.26-10.27.13:059][  0]LogMemory: Process Virtual Memory: 84.78 MB used, 84.78 MB peak
+[2019.02.26-10.27.13:059][  0]LogMemory: Physical Memory: 4941.88 MB used,  11303.18 MB free, 16245.06 MB total
+[2019.02.26-10.27.13:059][  0]LogMemory: Virtual Memory: 4633.93 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.02.26-10.27.13:245][  0]LogInit: Using OS detected language (en-US).
+[2019.02.26-10.27.13:245][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.26-10.27.13:261][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.26-10.27.13:992][  0]LogStreaming: Display: Took  0.747s to InitEngineTextLocalization.
+[2019.02.26-10.27.13:992][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.26-10.27.14:183][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.26-10.27.14:183][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.26-10.27.16:352][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.26-10.27.16:352][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.26-10.27.16:381][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2019.02.26-10.27.16:381][  0]LogD3D11RHI:       4072/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.02.26-10.27.16:423][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.02.26-10.27.16:423][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.26-10.27.16:425][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.26-10.27.16:425][  0]LogD3D11RHI:       0/0/8122 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.26-10.27.16:425][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.26-10.27.16:433][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.26-10.27.16:433][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.26-10.27.16:433][  0]LogWindows: EnumDisplayDevices:
+[2019.02.26-10.27.16:433][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2019.02.26-10.27.16:434][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2019.02.26-10.27.16:434][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:435][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:435][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:436][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:436][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:437][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:438][  0]LogWindows:    8. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:438][  0]LogWindows:    9. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:439][  0]LogWindows:    10. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:439][  0]LogWindows:    11. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:440][  0]LogWindows:    12. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:440][  0]LogWindows:    13. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:441][  0]LogWindows:    14. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:441][  0]LogWindows:    15. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2019.02.26-10.27.16:442][  0]LogWindows:    16. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.26-10.27.16:442][  0]LogWindows:    17. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.26-10.27.16:443][  0]LogWindows:    18. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.26-10.27.16:443][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2019.02.26-10.27.16:443][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2019.02.26-10.27.16:443][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.4.1 (internal:24.20.11001.5003, unified:24.20.11001.5003)
+[2019.02.26-10.27.16:443][  0]LogD3D11RHI:      Driver Date: 4-25-2018
+[2019.02.26-10.27.16:443][  0]LogRHI: Texture pool is 2850 MB (70% of 4072 MB)
+[2019.02.26-10.27.16:576][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.26-10.27.16:586][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.02.26-10.27.17:284][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.26-10.27.17:306][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.26-10.27.17:337][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.26-10.27.17:360][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.26-10.27.17:404][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.26-10.27.17:434][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.26-10.27.17:450][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.26-10.27.17:470][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.26-10.27.17:496][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:600][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.26-10.27.17:632][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.26-10.27.17:728][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.26-10.27.17:728][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.26-10.27.17:762][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.26-10.27.17:762][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.26-10.27.17:780][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.26-10.27.17:794][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.26-10.27.17:806][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.26-10.27.17:821][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.26-10.27.17:872][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.26-10.27.17:872][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.26-10.27.17:872][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.26-10.27.18:261][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (F:/SCAD/ITGM studio2/humanStuff/MyProject3/Intermediate/Shaders/WorkingDirectory/19092/).
+[2019.02.26-10.27.18:261][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gretc/AppData/Local/Temp/UnrealShaderWorkingDir/B77CA73A4173A6E7CE24AF933FAF6E98/'.
+[2019.02.26-10.27.18:275][  0]LogXGEController: Cleaning working directory: C:/Users/gretc/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.26-10.27.18:276][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.26-10.27.18:276][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.26-10.27.18:276][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.26-10.27.19:850][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.26-10.27.20:053][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/gretc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.26-10.27.20:053][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gretc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.26-10.27.20:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/SCAD/ITGM studio2/humanStuff/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.26-10.27.20:053][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.26-10.27.20:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/SCAD/ITGM studio2/humanStuff/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.26-10.27.20:053][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.26-10.27.20:079][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.26-10.27.20:079][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.26-10.27.20:079][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.26-10.27.20:092][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gretc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.26-10.27.20:092][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.26-10.27.20:092][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.26-10.27.20:112][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.26-10.27.20:113][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.26-10.27.20:137][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.26-10.27.20:657][  0]LogAssetRegistry: FAssetRegistry took 0.0389 seconds to start up
+[2019.02.26-10.27.21:546][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.26-10.27.21:839][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.26-10.27.21:881][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.26-10.27.21:881][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.26-10.27.21:881][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.26-10.27.21:881][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.26-10.27.21:974][  0]LogNetVersion: HumanStuff 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1645013271)
+[2019.02.26-10.27.22:711][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.254519 seconds
+[2019.02.26-10.27.22:716][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.26-10.27.22:716][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.26-10.27.22:716][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.26-10.27.29:299][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.26-10.27.29:332][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.26-10.27.30:523][  0]SourceControl: Source control is disabled
+[2019.02.26-10.27.30:524][  0]SourceControl: Source control is disabled
+[2019.02.26-10.27.30:564][  0]SourceControl: Source control is disabled
+[2019.02.26-10.27.30:576][  0]SourceControl: Source control is disabled
+[2019.02.26-10.27.31:204][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.26-10.27.31:399][  0]LogOcInput: OculusInput pre-init called
+[2019.02.26-10.27.31:644][  0]LogEngine: Initializing Engine...
+[2019.02.26-10.27.31:645][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.26-10.27.31:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.26-10.27.31:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.26-10.27.31:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.26-10.27.31:646][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.26-10.27.31:872][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.26-10.27.31:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.26-10.27.31:986][  0]LogInit: XAudio2 using 'Headset Earphone (Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.26-10.27.32:036][  0]LogInit: FAudioDevice initialized.
+[2019.02.26-10.27.32:036][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.26-10.27.32:115][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/gretc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.26-10.27.32:129][  0]LogInit: Texture streaming: Enabled
+[2019.02.26-10.27.32:205][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.26-10.27.32:209][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={070BC1BF-49E3-4ADD-F969-ACB6620D88AF}
+[2019.02.26-10.27.32:262][  0]LogInit: Transaction tracking system initialized
+[2019.02.26-10.27.32:421][  0]BlueprintLog: New page: Editor Load
+[2019.02.26-10.27.32:937][  0]LocalizationService: Localization service is disabled
+[2019.02.26-10.27.34:179][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.26-10.27.34:179][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.26-10.27.34:179][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.26-10.27.34:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.26-10.27.34:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.26-10.27.34:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.26-10.27.34:179][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.26-10.27.34:750][  0]LogFileCache: Scanning file cache for directory 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/' took 0.03s
+[2019.02.26-10.27.35:282][  0]SourceControl: Source control is disabled
+[2019.02.26-10.27.35:283][  0]Cmd: MAP LOAD FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.26-10.27.35:295][  0]LightingResults: New page: Lighting Build
+[2019.02.26-10.27.35:319][  0]MapCheck: New page: Map Check
+[2019.02.26-10.27.35:319][  0]LightingResults: New page: Lighting Build
+[2019.02.26-10.27.38:259][  0]LoadErrors: Warning: skybox2 Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:283][  0]LoadErrors: Warning: shelves Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:372][  0]LoadErrors: Warning: hs_parkingMedian Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:412][  0]LoadErrors: Warning: hs_lampTree Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:453][  0]LoadErrors: Warning: hs_groundPlane Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:505][  0]LoadErrors: Warning: hs_concreteBumper Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:869][  0]LoadErrors: Warning: hs_cake Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.38:892][  0]LoadErrors: Warning: hs_bomb Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.27.39:120][  0]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.26-10.27.39:147][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.02.26-10.27.39:147][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.02.26-10.27.39:157][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.26-10.27.39:219][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.26-10.27.39:222][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.42ms to complete.
+[2019.02.26-10.27.39:222][  0]LogFileHelpers: Loading map 'Minimal_Default_2' took 3.939
+[2019.02.26-10.27.39:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-10.27.39:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-10.27.39:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-10.27.39:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-10.27.39:447][  0]LogCollectionManager: Loaded 0 collections in 0.001179 seconds
+[2019.02.26-10.27.39:488][  0]LogFileCache: Scanning file cache for directory 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Collections/' took 0.01s
+[2019.02.26-10.27.39:488][  0]LogFileCache: Scanning file cache for directory 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Developers/gretc/Collections/' took 0.00s
+[2019.02.26-10.27.39:488][  0]LogFileCache: Scanning file cache for directory 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Collections/' took 0.01s
+[2019.02.26-10.27.39:488][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.26-10.27.39:496][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2651 classes and 620 folders.
+[2019.02.26-10.27.39:535][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.26-10.27.39:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:625][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:655][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.39:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.26-10.27.40:185][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.26-10.27.40:215][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.26-10.27.40:326][  0]LogSlate: Took 0.011850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.26-10.27.40:339][  0]LogSlate: Took 0.011857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.26-10.27.40:358][  0]LogSlate: Took 0.014879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.26-10.27.40:484][  0]LogRenderer: Reallocating scene render targets to support 1136x600 Format 26 NumSamples 1 (Frame:1).
+[2019.02.26-10.27.40:865][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.26-10.27.40:865][  0]LogLoad: (Engine Initialization) Total time: 35.17 seconds
+[2019.02.26-10.27.40:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.26-10.27.40:935][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.26-10.27.40:938][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.27.40:975][  0]LogSlate: Took 0.004895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.26-10.27.41:466][  5]LogAssetRegistry: Asset discovery search completed in 20.8319 seconds
+[2019.02.26-10.27.41:468][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.26-10.27.41:468][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2019.02.26-10.27.42:440][  8]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.26-10.27.43:104][ 10]LogSlate: Window 'Message Log' being destroyed
+[2019.02.26-10.27.43:108][ 10]LogSlate: Window 'Message Log' being destroyed
+[2019.02.26-10.27.48:330][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.27.48:413][516]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Spawner.Spawner
+[2019.02.26-10.27.48:790][516]LogClass: Warning: Enum '/Game/VR_Essential_Kit/Blueprints/ENUM_InteractableActorType.ENUM_InteractableActorType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.02.26-10.27.48:792][516]LogClass: Warning: Enum '/Game/VR_Essential_Kit/Blueprints/ENUM_PickupObjectType.ENUM_PickupObjectType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2019.02.26-10.27.48:826][516]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.02.26-10.27.49:650][516]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BabyCarts.BabyCarts
+[2019.02.26-10.27.49:944][516]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Audio/hs_alienVoice.hs_alienVoice
+[2019.02.26-10.27.50:017][516]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/aliens/slugHead_cartPush.slugHead_cartPush
+[2019.02.26-10.27.50:042][516]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.26-10.27.50:414][516]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.26-10.27.50:416][516]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.26-10.27.50:448][516]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.26-10.27.50:877][516]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.02.26-10.27.50:893][516]LogRenderer: Reallocating scene render targets to support 1144x600 Format 26 NumSamples 1 (Frame:1).
+[2019.02.26-10.27.50:893][516]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.26-10.27.53:965][708]LogSlate: Took 0.019274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.26-10.28.08:415][ 14]LogEditorViewport: Clicking on Actor (LMB): Scanner_C (Scanner)
+[2019.02.26-10.28.15:402][553]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (MotionControllerPawn)
+[2019.02.26-10.28.27:342][112]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (hs_window3)
+[2019.02.26-10.28.27:565][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.28.36:102][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.28.45:899][430]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/aliens/slugHead_walk.slugHead_walk
+[2019.02.26-10.28.45:927][430]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.26-10.28.45:997][430]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.26-10.28.46:455][430]LogSlate: Took 0.021840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.26-10.28.46:518][431]LogRenderer: Reallocating scene render targets to support 1144x888 Format 26 NumSamples 1 (Frame:1).
+[2019.02.26-10.29.23:583][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.29.41:757][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.29.46:380][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.29.48:875][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.29.52:311][985]LogSlate: Window 'Animation Compression' being destroyed
+[2019.02.26-10.29.56:583][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.30.04:740][900]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/aliens/slugHead_walk_PhysicsAsset.slugHead_walk_PhysicsAsset
+[2019.02.26-10.30.04:824][900]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.02.26-10.30.04:851][900]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.02.26-10.30.13:727][323]LogEditorFactories: Performing atomic reimport of [F:/SCAD/ITGM studio2/alien_models/slugHead_walk.fbx]
+[2019.02.26-10.30.13:845][323]LogFbx: Loading FBX Scene from F:/SCAD/ITGM studio2/alien_models/slugHead_walk.fbx
+[2019.02.26-10.30.13:931][323]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:eyes] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 966862336.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:eyes (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:eyes]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:pants] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 966862336.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:pants (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:pants]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 966862336.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:vest] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 966862336.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:vest (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:vest]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 966862336.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 971038112.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:head] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 1051589824.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:head (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:head]
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node START [model:eyes] 
+[2019.02.26-10.30.13:934][323]LogFbx: 	Total Deformer Count 1051589824.
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:934][323]LogFbx: =================================================
+[2019.02.26-10.30.13:934][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:934][323]LogFbx: 		[Node Attribute Child 1] model:eyes (Type Mesh).
+[2019.02.26-10.30.13:934][323]LogFbx: Dumping Node END [model:eyes]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:pants] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051589824.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:pants (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:pants]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051589824.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:vest] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051589824.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:vest (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:vest]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051589824.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 971042192.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:head] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051586240.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:head (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:head]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:eyes] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051586240.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node Attribute Child 1] model:eyes (Type Mesh).
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node END [model:eyes]
+[2019.02.26-10.30.13:935][323]LogFbx: =================================================
+[2019.02.26-10.30.13:935][323]LogFbx: Dumping Node START [model:pants] 
+[2019.02.26-10.30.13:935][323]LogFbx: 	Total Deformer Count 1051586240.
+[2019.02.26-10.30.13:935][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:pants (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:pants]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051586240.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:vest] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051586240.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:vest (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:vest]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051586240.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 971039472.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:head] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:head (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:head]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:eyes] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:eyes (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:eyes]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:eyes] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:eyes (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:eyes]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:pants] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:pants (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:pants]
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:936][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:936][323]LogFbx: =================================================
+[2019.02.26-10.30.13:936][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:936][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:936][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:vest] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:vest (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:vest]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051582656.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 971044112.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:head] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:head (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:head]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:pants] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:pants (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:pants]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:pants] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:pants (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:pants]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:shoes] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node Attribute Child 1] model:shoes (Type Mesh).
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node END [model:shoes]
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:937][323]LogFbx: Dumping Node START [model:vest] 
+[2019.02.26-10.30.13:937][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:937][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:937][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:vest (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:vest]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 1051578560.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 971030992.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:vest] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 1064467904.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:vest (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:vest]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 1064467904.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 971044592.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:arm_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 1064466368.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:arm_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:arm_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 967681552.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:hand_L] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 967681152.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:hand_L (Type Mesh).
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node END [model:hand_L]
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: Dumping Node START [model:head] 
+[2019.02.26-10.30.13:938][323]LogFbx: 	Total Deformer Count 1064464832.
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:938][323]LogFbx: =================================================
+[2019.02.26-10.30.13:938][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:938][323]LogFbx: 		[Node Attribute Child 1] model:head (Type Mesh).
+[2019.02.26-10.30.13:939][323]LogFbx: Dumping Node END [model:head]
+[2019.02.26-10.30.13:939][323]LogFbx: =================================================
+[2019.02.26-10.30.13:939][323]LogFbx: Dumping Node START [model:head] 
+[2019.02.26-10.30.13:939][323]LogFbx: 	Total Deformer Count 1064464832.
+[2019.02.26-10.30.13:939][323]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.26-10.30.13:939][323]LogFbx: =================================================
+[2019.02.26-10.30.13:939][323]LogFbx: 	Attribute () Type (4).
+[2019.02.26-10.30.13:939][323]LogFbx: 		[Node Attribute Child 1] model:head (Type Mesh).
+[2019.02.26-10.30.13:939][323]LogFbx: Dumping Node END [model:head]
+[2019.02.26-10.30.13:941][323]LogFbx: Valid bind pose for Pose (model:skinCluster1) - model:eyes
+[2019.02.26-10.30.13:941][323]LogFbx: Valid bind pose for Pose (model:skinCluster2) - model:eyes
+[2019.02.26-10.30.13:942][323]LogFbx: Valid bind pose for Pose (model:skinCluster3) - model:eyes
+[2019.02.26-10.30.13:942][323]LogFbx: Valid bind pose for Pose (model:skinCluster4) - model:eyes
+[2019.02.26-10.30.13:942][323]LogFbx: Valid bind pose for Pose (model:skinCluster5) - model:eyes
+[2019.02.26-10.30.13:942][323]LogFbx: Valid bind pose for Pose (model:skinCluster6) - model:eyes
+[2019.02.26-10.30.13:943][323]LogFbx: Valid bind pose for Pose (model:skinCluster7) - model:eyes
+[2019.02.26-10.30.13:948][323]LogFbx: Triangulating skeletal mesh model:eyes
+[2019.02.26-10.30.14:055][323]LogFbx: Triangulating skeletal mesh model:pants
+[2019.02.26-10.30.14:294][323]LogFbx: Triangulating skeletal mesh model:shoes
+[2019.02.26-10.30.14:510][323]LogFbx: Triangulating skeletal mesh model:vest
+[2019.02.26-10.30.14:713][323]LogFbx: Triangulating skeletal mesh model:arm_L
+[2019.02.26-10.30.15:060][323]LogFbx: Triangulating skeletal mesh model:hand_L
+[2019.02.26-10.30.15:527][323]LogFbx: Triangulating skeletal mesh model:head
+[2019.02.26-10.30.16:013][323]LogFbx: Warning: Bones digested - 92  Depth of hierarchy - 15
+[2019.02.26-10.30.16:054][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.30.16:425][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.30.16:468][323]LogSkeletalMesh: Section 0: 13611 vertices, 75 active bones
+[2019.02.26-10.30.16:473][323]LogSkeletalMesh: Section 0: Material=0, 22340 triangles
+[2019.02.26-10.30.16:514][323]LogSkeletalMesh: Building Skeletal Mesh slugHead_walk...
+[2019.02.26-10.30.16:565][323]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/aliens/slugHead_walk.slugHead_walk
+[2019.02.26-10.30.16:601][323]LogEditorFactories: -- imported successfully
+[2019.02.26-10.30.16:614][323]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.26-10.30.16:614][323]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.26-10.30.16:615][323]LogSkeletalMesh: Building Skeletal Mesh slugHead_walk...
+[2019.02.26-10.30.16:641][323]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/aliens/slugHead_walk.slugHead_walk
+[2019.02.26-10.30.18:029][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.30.33:180][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.30.34:367][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.30.37:335][421]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_218FD7C034CA30BD97ECA86BC7BEBF414.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.30.37:403][421]LogFileHelpers: Saving map 'Minimal_Default_2' took 3.029
+[2019.02.26-10.30.37:410][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aliens/slugHead_walk_Skeleton" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/aliens/slugHead_walk_Skeleton.uasset" SILENT=true
+[2019.02.26-10.30.37:581][421]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/slugHead_walk_SkeletonE632B2AD40D42B7FAF94DEBD6B694CDD.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/aliens/slugHead_walk_Skeleton.uasset'
+[2019.02.26-10.30.37:623][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/aliens/slugHead_walk" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/aliens/slugHead_walk.uasset" SILENT=true
+[2019.02.26-10.30.38:444][421]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/slugHead_walk38342AA44F50AAE1F00E7CA614651C89.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/aliens/slugHead_walk.uasset'
+[2019.02.26-10.30.43:117][675]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.31.36:866][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.31.50:942][582]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.26-10.32.57:693][572]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.26-10.33.23:222][495]BlueprintLog: New page: Compile ShoppingCarts
+[2019.02.26-10.33.24:757][581]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.33.25:985][581]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.33.26:026][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ShoppingCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset" SILENT=true
+[2019.02.26-10.33.26:903][581]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/ShoppingCarts5421F243427C9E1C2CFB3786B9C18CE3.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/ShoppingCarts.uasset'
+[2019.02.26-10.33.29:821][581]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_25DF4306848C0D11BA30ED1B0CA1DD35A.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.33.29:886][581]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.947
+[2019.02.26-10.33.52:591][ 56]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk)
+[2019.02.26-10.33.59:986][639]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk)
+[2019.02.26-10.34.47:748][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.35.12:505][430]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-10.35.20:523][801]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_26B6EA948481A4E4F12FE75B7F391BB2E.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.35.20:579][801]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.981
+[2019.02.26-10.35.20:599][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-10.35.21:059][801]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCartsE31E2970420F25FD6901468F72D1EABB.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-10.35.22:041][872]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.36.04:354][296]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.38.24:485][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box33)
+[2019.02.26-10.38.27:032][907]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.26-10.38.28:569][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.38.34:924][515]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk)
+[2019.02.26-10.38.36:197][603]Cmd: DELETE
+[2019.02.26-10.38.36:197][603]Cmd: ACTOR DELETE
+[2019.02.26-10.38.36:506][603]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.26-10.38.36:545][603]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2019.02.26-10.38.38:616][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.38.38:686][794]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.38.39:865][794]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.38.42:843][794]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_2091086F8462BF9F5984261A6B8BB3F6F.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.38.42:917][794]LogFileHelpers: Saving map 'Minimal_Default_2' took 3.019
+[2019.02.26-10.41.51:796][818]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.26-10.41.53:111][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.41.56:403][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.41.56:474][186]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.41.57:535][186]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.42.00:465][186]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_281A67CB649CF4905D5D4B397B29E6E09.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.42.00:533][186]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.963
+[2019.02.26-10.42.42:117][226]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-10.42.43:472][306]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.42.44:428][306]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.42.44:469][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-10.42.44:908][306]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts9206FF954D40D4EF81BBD9B181DFD99B.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-10.45.59:829][894]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-10.46.00:702][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-10.46.01:144][943]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts6FC8F91648410991D530B3A3A54D368B.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-10.51.17:999][227]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-10.51.52:172][736]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-10.51.55:644][975]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.51.57:353][975]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.51.57:394][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-10.51.57:870][975]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts9D0C81C04C24AB32607C6AA56F5FD7EE.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-10.52.39:976][509]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.52.40:974][509]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.52.43:934][509]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_2E666D6654E3DB7F04E5B50A7B109F008.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.52.44:001][509]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.995
+[2019.02.26-10.55.06:677][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.55.08:665][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.55.22:443][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.55.22:502][839]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-10.55.23:436][839]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-10.55.23:456][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-10.55.26:310][839]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_2897344734CB4489C5B08DB89006C3B25.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-10.55.26:368][839]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.903
+[2019.02.26-10.55.56:868][190]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk4)
+[2019.02.26-10.57.11:048][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.58.24:959][929]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk4)
+[2019.02.26-10.58.26:117][ 13]Cmd: DELETE
+[2019.02.26-10.58.26:117][ 13]Cmd: ACTOR DELETE
+[2019.02.26-10.58.26:125][ 13]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.26-10.58.26:156][ 13]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.02.26-10.58.26:649][ 53]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk3)
+[2019.02.26-10.58.26:737][ 54]Cmd: DELETE
+[2019.02.26-10.58.26:737][ 54]Cmd: ACTOR DELETE
+[2019.02.26-10.58.26:745][ 54]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.26-10.58.26:774][ 54]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.02.26-10.58.27:320][100]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk2)
+[2019.02.26-10.58.27:426][103]Cmd: DELETE
+[2019.02.26-10.58.27:426][103]Cmd: ACTOR DELETE
+[2019.02.26-10.58.27:434][103]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.26-10.58.27:464][103]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.02.26-10.58.28:019][151]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (slugHead_walk)
+[2019.02.26-10.58.28:112][153]Cmd: DELETE
+[2019.02.26-10.58.28:112][153]Cmd: ACTOR DELETE
+[2019.02.26-10.58.28:120][153]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.02.26-10.58.28:149][153]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.02.26-10.58.53:007][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.58.53:162][631]LogRenderer: Reallocating scene render targets to support 1324x888 Format 26 NumSamples 1 (Frame:1).
+[2019.02.26-10.58.57:823][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.58.57:984][932]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Objects/hs_shopcart.hs_shopcart
+[2019.02.26-10.58.58:563][933]LogRenderer: Reallocating scene render targets to support 1432x924 Format 26 NumSamples 1 (Frame:1).
+[2019.02.26-10.59.48:566][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-10.59.53:158][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.00.01:750][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.00.47:938][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.00.49:542][765]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.26-11.00.50:316][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.01.02:616][812]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.26-11.01.03:450][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.01.21:056][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.01.34:641][301]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.26-11.01.35:441][357]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.01.36:600][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.01.44:792][208]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2019.02.26-11.01.44:988][208]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.02.26-11.01.44:988][208]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.26-11.01.44:988][208]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.26-11.01.58:160][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.01.59:913][173]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.26-11.02.04:128][590]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.26-11.02.04:204][598]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.26-11.02.07:354][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.02.10:796][969]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.26-11.02.24:328][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.02.30:232][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.02.35:225][687]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.26-11.02.48:010][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.02.55:726][ 61]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.26-11.02.55:755][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.02.59:500][ 61]LogSlate: Window 'Pick Skeleton' being destroyed
+[2019.02.26-11.03.01:141][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.03.11:241][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.03.11:322][918]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-11.03.21:778][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.03.21:855][606]Cmd: MODE GRID=0
+[2019.02.26-11.03.28:840][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.03.28:910][ 89]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-11.03.39:652][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.04.11:771][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2019.02.26-11.04.15:095][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2019.02.26-11.04.15:906][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2019.02.26-11.04.17:864][141]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.26-11.04.42:573][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.04.56:555][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.04.56:615][723]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-11.04.57:575][723]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-11.04.57:605][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.04.57:622][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-11.04.58:116][723]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts02FB39704947DFC30A0501853C08BEFA.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-11.04.58:154][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewAimOffsetBlendSpace" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/NewAimOffsetBlendSpace.uasset" SILENT=true
+[2019.02.26-11.04.58:181][723]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/NewAimOffsetBlendSpace932A139947ACE2775E6409AC3F8BB721.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/NewAimOffsetBlendSpace.uasset'
+[2019.02.26-11.05.01:061][723]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_239CC4DC946AD101D00A8AB881C6852D9.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-11.05.01:123][723]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.917
+[2019.02.26-11.05.33:224][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.05.33:314][815]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-11.05.34:137][815]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-11.05.34:159][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.05.37:019][815]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_26F9355524F48F11A3FA15B8D75B132E4.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-11.05.37:073][815]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.904
+[2019.02.26-11.06.22:365][650]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.26-11.06.24:468][781]LogEditorViewport: Clicking on Actor (LMB): BabyCarts_C (BabyCarts)
+[2019.02.26-11.06.26:444][904]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.26-11.06.37:223][614]LogEditorViewport: Clicking on Actor (LMB): BabyCarts_C (BabyCarts)
+[2019.02.26-11.06.40:439][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.06.42:553][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.06.47:745][385]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-11.06.49:546][514]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-11.06.50:797][514]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-11.06.50:829][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.06.50:847][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-11.06.51:367][514]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts2423B577492A7C1486EA979DEBEB7C24.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-11.06.54:281][514]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_2537352E3438C87D9473C60814ED53FA9.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-11.06.54:344][514]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.949
+[2019.02.26-11.07.17:680][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.07.20:814][265]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.26-11.07.24:860][480]Cmd: TRANSACTION UNDO
+[2019.02.26-11.07.24:860][480]LogEditorTransaction: Undo Move Actors
+[2019.02.26-11.07.25:210][480]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.26-11.07.25:287][480]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.26-11.07.25:301][480]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.02.26-11.07.29:340][693]LogEditorViewport: Clicking on Actor (LMB): BabyCarts_C (BabyCarts)
+[2019.02.26-11.07.30:373][747]Cmd: DELETE
+[2019.02.26-11.07.30:373][747]Cmd: ACTOR DELETE
+[2019.02.26-11.07.30:381][747]LogEditorActor: Deleted Actor: BabyCarts_C
+[2019.02.26-11.07.30:412][747]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.02.26-11.07.31:407][804]LogEditorViewport: Clicking on Actor (LMB): CartSpawn_C (CartSpawn)
+[2019.02.26-11.07.33:905][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.07.54:036][366]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-11.07.57:029][544]LogEditorViewport: Clicking on Actor (LMB): CartSpline_C (CartSpline)
+[2019.02.26-11.07.58:065][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.08.00:515][767]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-11.08.01:585][767]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-11.08.01:616][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.08.01:634][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-11.08.02:098][767]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCartsBA7E8C15414650F073031D9F8A3C738C.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-11.08.04:930][767]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Minimal_Default_21A46EB8B48BDE8B5613CFE94AE81794A.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.26-11.08.04:989][767]LogFileHelpers: Saving map 'Minimal_Default_2' took 2.862
+[2019.02.26-11.08.27:024][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hs_lights6)
+[2019.02.26-11.09.12:043][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.09.15:043][761]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-11.09.18:872][988]LogTemp: Repeating last play command: Standalone Game
+[2019.02.26-11.09.24:669][988]LogSlate: Window 'Save Content' being destroyed
+[2019.02.26-11.09.24:690][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.09.24:714][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-11.09.25:152][988]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCartsF85F0D6940FE53C8C53C7E8C19860E1E.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-11.10.38:733][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.11.47:832][643]BlueprintLog: New page: Compile BabyCarts
+[2019.02.26-11.17.58:392][875]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.047
+[2019.02.26-11.17.58:413][875]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BabyCarts] ([1] browsable assets)...
+[2019.02.26-11.17.58:425][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BabyCarts.BabyCarts]
+[2019.02.26-11.17.58:425][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BabyCarts]
+[2019.02.26-11.17.58:425][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/BabyCarts_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.02.26-11.17.58:876][875]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts_Auto184105CCC4281F5D32D10CFAEF128AD66.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/BabyCarts_Auto1.uasset'
+[2019.02.26-11.17.58:888][875]LogFileHelpers: Auto-saving content packages took 0.495
+[2019.02.26-11.26.36:449][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.28.03:293][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.28.04:286][739]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.26-11.28.04:297][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BabyCarts" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset" SILENT=true
+[2019.02.26-11.28.04:751][739]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/BabyCarts8B9526354E3FCDB73F82D886DE4794F9.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Blueprints/BabyCarts.uasset'
+[2019.02.26-11.28.18:178][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.28.25:886][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.26-11.28.58:982][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/hs_alienVoice" FILE="F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Audio/hs_alienVoice.uasset" SILENT=true
+[2019.02.26-11.28.59:165][183]LogSavePackage: Moving 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Saved/hs_alienVoice316F1F844A713AE22C31F59F95211A20.tmp' to 'F:/SCAD/ITGM studio2/humanStuff/MyProject3/Content/Audio/hs_alienVoice.uasset'
+[2019.02.26-11.29.01:008][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
